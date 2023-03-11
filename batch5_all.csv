@@ -1,4 +1,4 @@
-company_name,industry,website,telephone,fax,address,address_maplink,email
+company_name,industry,website,telephone,fax,address,address_maplink,email_all
 Camping Lac des Brenets,Inserate,http://www.camping-brenets.ch/,tel:032 932 16 18,fax:032 932 16 39,2416 Les Brenets,https://www.google.com/maps/place/undefined+2416+Les%20Brenets,info@camping-brenets.ch
 Elektro Capaul AG,Elektroinstallation,,tel:081 511 20 22,fax:081 511 20 21,"Promenada 3
 7018 Flims Waldhaus",https://www.google.com/maps/place/Promenada%203+7018+Flims%20Waldhaus,website not accessible
@@ -11,7 +11,7 @@ Jenni Baumaschinen AG,"Grosshandel mit Bergwerks-, Bau- und Baustoffmaschinen",h
 Markus Bernhard,Informatikunterricht,http://www.e-leistung.ch/,tel:032 355 35 54,,"Gasse 11
 2553 Safnern",https://www.google.com/maps/place/Gasse%2011+2553+Safnern,bad link
 Robert Huber Autocenter AG,lnstandhaltung und Reparatur von Automobilen,http://www.autocenter-zufikon.ch/,tel:056 619 17 07,,"Dorfmattenstrasse 2
-5612 Villmergen",https://www.google.com/maps/place/Dorfmattenstrasse%202+5612+Villmergen,
+5612 Villmergen",https://www.google.com/maps/place/Dorfmattenstrasse%202+5612+Villmergen,NA
 Bräm AG,lnstandhaltung und Reparatur von Automobilen,,tel:071 844 00 30,fax:071 844 00 32,"Rietlistrasse 1
 9403 Goldach",https://www.google.com/maps/place/Rietlistrasse%201+9403+Goldach,website not accessible
 Eni Bau GmbH,Allgemeiner Hochbau,,,,"Sägestrasse 21
@@ -23,9 +23,9 @@ Idrosun SA,"Sonstige freiberufliche, wissenschaftliche und technische Tätigkeit
 Kaufmann Spenglerei + Sanit.AG,Sanitärinstallation und Spenglerei,http://www.kaufmann-egg.ch/,tel:044 986 29 00,fax:044 986 29 01,"Im Hanselmaa 6
 8132 Egg b. Zürich",https://www.google.com/maps/place/Im%20Hanselmaa%206+8132+Egg%20b.%20Z%C3%BCrich,info@kaufmann-egg.ch
 Blumen-Galliker,Anbau von sonstigen einjährigen Pflanzen,https://blumengalliker.ch/,tel:041 280 16 15,fax:041 280 16 09,"Rothenburgstrasse 2
-6020 Emmenbrücke",https://www.google.com/maps/place/Rothenburgstrasse%202+6020+Emmenbr%C3%BCcke,
+6020 Emmenbrücke",https://www.google.com/maps/place/Rothenburgstrasse%202+6020+Emmenbr%C3%BCcke,NA
 Omega Generalunternehmung AG,Allgemeiner Hochbau,http://www.omega-gu-ag.ch/,tel:062 771 50 07,,"Apothekerweg 2
-5712 Beinwil am See",https://www.google.com/maps/place/Apothekerweg%202+5712+Beinwil%20am%20See,8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com
+5712 Beinwil am See",https://www.google.com/maps/place/Apothekerweg%202+5712+Beinwil%20am%20See,605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com
 Mock Bau GmbH,Allgemeiner Hoch- und Tiefbau ohne ausgeprägten Schwerpunkt,http://www.mockbau.ch/,tel:079 680 59 52,,"Gimmerz 3
 3283 Kallnach",https://www.google.com/maps/place/Gimmerz%203+3283+Kallnach,bad link
 WeWeb Consulting GmbH,Grosshandel mit Baustoffen,,tel:033 855 30 55,fax:033 855 30 56,"Bahnhofstrasse 37
@@ -33,7 +33,7 @@ WeWeb Consulting GmbH,Grosshandel mit Baustoffen,,tel:033 855 30 55,fax:033 855 
 Pneu Service Burgistein M. Weibel,lnstandhaltung und Reparatur von Automobilen,,tel:033 356 14 48,,"Landstrasse 3R
 3664 Burgistein",https://www.google.com/maps/place/Landstrasse%203R+3664+Burgistein,website not accessible
 Bandi Laden-& Inneneinricht.AG,"Einbau von Fenster, Türen und Innenausbau, Einbauküchen, Einbaumöbel",http://www.bandi-ladenbau.ch/,tel:032 352 07 33,fax:032 352 07 40,"Hofacher 9
-3298 Oberwil b. Büren",https://www.google.com/maps/place/Hofacher%209+3298+Oberwil%20b.%20B%C3%BCren,info@bandi-interior.ch
+3298 Oberwil b. Büren",https://www.google.com/maps/place/Hofacher%209+3298+Oberwil%20b.%20B%C3%BCren,605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com
 AAREPTAN GmbH,Übersetzen und Dolmetschen,http://www.aareptan.ch/,tel:056 622 33 44,fax:056 622 85 66,"Obermattenweg 5
 5610 Wohlen AG",https://www.google.com/maps/place/Obermattenweg%205+5610+Wohlen%20AG,aareptan@gmail.com
 René Gysin Druckerei GmbH,Offsetdruck,http://www.druckerei-gysin.ch/,tel:061 751 50 20,fax:061 751 59 25,"Eggfluhweg 13
@@ -45,7 +45,7 @@ Som Limousinenservice,Betrieb von Taxis,,,,"Friedrichshafenstrasse 51
 Bau-AC Fellner GmbH,Maurerarbeiten,http://www.ac-fellner.ch/,tel:071 929 58 28,fax:071 929 58 29,"Erlenstrasse 5
 9500 Wil SG",https://www.google.com/maps/place/Erlenstrasse%205+9500+Wil%20SG,bau@ac-fellner.ch
 Digipress GmbH,Erbringung von Dienstleistungen für die darstellende Kunst,http://www.publisher.ch/,,,"Buchhaldenstrasse 20
-8442 Hettlingen",https://www.google.com/maps/place/Buchhaldenstrasse%2020+8442+Hettlingen,sekretariat@publisher.ch
+8442 Hettlingen",https://www.google.com/maps/place/Buchhaldenstrasse%2020+8442+Hettlingen,website not accessible
 Mais je vends ça! Sàrl,Detailhandel mit Gebrauchtwaren a. n. g. (in Verkaufsräumen),,tel:079 407 77 71,,"Grand-Rue 47
 2606 Corgémont",https://www.google.com/maps/place/Grand-Rue%2047+2606+Corg%C3%A9mont,website not accessible
 Erich Glauser,"Einbau von Fenster, Türen und Innenausbau, Einbauküchen, Einbaumöbel",,tel:033 335 49 45,,"Eschi 488
@@ -66,9 +66,9 @@ Caratsch SA,Detailhandel mit Geräten der Unterhaltungselektronik,,tel:081 858 5
 Häpo Reifenservice AG,lnstandhaltung und Reparatur von Automobilen,http://www.haepo.ch/,tel:052 233 27 21,fax:052 233 55 83,"St. Gallerstrasse 128
 8404 Winterthur",https://www.google.com/maps/place/St.%20Gallerstrasse%20128+8404+Winterthur,info@haepo.ch
 Mercolli Cucine Sagl,Herstellung von Küchen- und Badzimmermöbeln (ohne Einbau),http://www.mercolli-cucine.ch/,tel:091 605 72 57,,"Via Pianon Q4
-6934 Bioggio",https://www.google.com/maps/place/Via%20Pianon%20Q4+6934+Bioggio,
+6934 Bioggio",https://www.google.com/maps/place/Via%20Pianon%20Q4+6934+Bioggio,website not accessible
 "Schneider, Scherrer AG",Offsetdruck,http://www.schneider-scherrer.ch/,tel:071 932 10 32,fax:071 932 10 33,"Wilerstrasse 33
-9602 Bazenheid",https://www.google.com/maps/place/Wilerstrasse%2033+9602+Bazenheid,druck@schneider-scherrer.ch
+9602 Bazenheid",https://www.google.com/maps/place/Wilerstrasse%2033+9602+Bazenheid,dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com
 Bischofberger Bau GmbH,Allgemeiner Hoch- und Tiefbau ohne ausgeprägten Schwerpunkt,,tel:071 931 31 91,,"Flawilerstrasse 28
 9604 Lütisburg",https://www.google.com/maps/place/Flawilerstrasse%2028+9604+L%C3%BCtisburg,website not accessible
 Le Roi du Duvet,Herstellung von Bettwaren,,tel:022 785 09 85,fax:022 785 09 86,"ch.de Riantbossen 11
@@ -84,13 +84,13 @@ Patrick Bichsel,Allgemeiner Hochbau,,tel:052 741 14 21,fax:052 741 14 21,"Müli�
 Peter Stricker,Allgemeine Gebäudereinigung,http://www.stickerreinigung.ch/,tel:071 912 10 60,fax:071 912 10 61,"Wilenstrasse 43
 9500 Wil SG",https://www.google.com/maps/place/Wilenstrasse%2043+9500+Wil%20SG,website not accessible
 Spiruline SwissMade SA,Süsswasseraquakultur,https://spiruline.ch/,,,"Route de Denges 27
-1027 Lonay",https://www.google.com/maps/place/Route%20de%20Denges%2027+1027+Lonay,?subject=Clean%20food/%20Clean%20eating&body=Clean%20food/%20Clean%20eating%20https
+1027 Lonay",https://www.google.com/maps/place/Route%20de%20Denges%2027+1027+Lonay,website not accessible
 Studer & Co Transporte,Güterbeförderung im Strassenverkehr,,,,"Kleinfeldstrasse 34
 4565 Recherswil",https://www.google.com/maps/place/Kleinfeldstrasse%2034+4565+Recherswil,website not accessible
 GESTOVOICE SA,Verwaltung von Restaurantssbetrieben,http://www.mscatering.ch/,,,"er Stràda novo 16c
 6513 Monte Carasso",https://www.google.com/maps/place/er%20Str%C3%A0da%20novo%2016c+6513+Monte%20Carasso,bad link
 Regionalagentur Peter Imboden,Grosshandel mit sonstigen Maschinen und Ausrüstungen,http://www.k-a-b.ch/,,,"Sennhofweg 104
-8482 Sennhof (Winterthur)",https://www.google.com/maps/place/Sennhofweg%20104+8482+Sennhof%20(Winterthur),S_6_EP_fantasie_kab_11_2022@2x.png
+8482 Sennhof (Winterthur)",https://www.google.com/maps/place/Sennhofweg%20104+8482+Sennhof%20(Winterthur),S6P_frontal_Logo2020_frei_web@2x.png
 Markus Keller GmbH,Sanitär- und Heizungsinstallation,,tel:031 311 00 86,,"Holzackerweg 15
 3073 Gümligen",https://www.google.com/maps/place/Holzackerweg%2015+3073+G%C3%BCmligen,website not accessible
 Curling Club Wetzikon,Sportvereine,,tel:044 932 34 87,fax:044 951 10 58,"Rapperswilerstrasse 65
@@ -100,7 +100,7 @@ Elektro Paganini AG,Elektroinstallation,http://www.elektro-paganini.ch/,tel:031 
 Garage Boulaz,Detailhandel mit Motorenkraftstoffen (Tankstellen),,,,"Route de Vallorbe 1
 1322 Croy",https://www.google.com/maps/place/Route%20de%20Vallorbe%201+1322+Croy,website not accessible
 DusSteinmann Transport AG,Güterbeförderung im Strassenverkehr,http://www.dussteinmann.ch/,tel:041 980 00 10,fax:041 980 52 61,"Mööslimatte 15
-6218 Ettiswil",https://www.google.com/maps/place/M%C3%B6%C3%B6slimatte%2015+6218+Ettiswil,8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com
+6218 Ettiswil",https://www.google.com/maps/place/M%C3%B6%C3%B6slimatte%2015+6218+Ettiswil,605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com
 Champ Olivier AG,lnstandhaltung und Reparatur von Automobilen,,tel:026 670 41 63,fax:026 672 10 55,"ch.Champ Olivier 14
 3280 Murten",https://www.google.com/maps/place/ch.Champ%20Olivier%2014+3280+Murten,website not accessible
 Venticlean,Reinigung a. n. g.,http://www.venticlean.ch/,tel:021 728 38 17,fax:021 728 38 27,"ch.du Trabandan 45
@@ -126,7 +126,7 @@ Forster Weinbau,Herstellung von Traubenwein,,,,"Thurbergstrasse 20
 Carlos Fugentechnik GmbH,"Dämmung gegen Kälte, Wärme, Schall und Erschütterung",,tel:079 205 21 66,,"Sonnmattstrasse 3
 5735 Pfeffikon LU",https://www.google.com/maps/place/Sonnmattstrasse%203+5735+Pfeffikon%20LU,website not accessible
 AquaDry Rotrag AG,Bewertungen,http://www.rotrag.ch/,tel:071 840 01 44,fax:071 840 01 45,"Haltelhusstrasse 3A
-9402 Mörschwil",https://www.google.com/maps/place/Haltelhusstrasse%203A+9402+M%C3%B6rschwil,
+9402 Mörschwil",https://www.google.com/maps/place/Haltelhusstrasse%203A+9402+M%C3%B6rschwil,NA
 UNIVERSAL Feuerlöschgeräte AG,Sonstiger Fachdetailhandel a. n. g. (in Verkaufsräumen),http://www.universal-feuerloescher.ch/,tel:031 921 82 23,fax:031 921 82 24,"Zentweg 17a
 3006 Bern",https://www.google.com/maps/place/Zentweg%2017a+3006+Bern,info@u-f.ch
 Werner Aegerter AG,Malerei,,tel:062 827 22 03,fax:062 827 23 07,"Alte Stockerstrasse 37
@@ -143,13 +143,13 @@ Fuchs Gerüste AG,Vermietung von Baumaschinen und -geräten,http://www.fuchs-ger
 Gypserie-peinture Massardi SA,Malerei und Gipserei ohne ausgeprägten Schwerpunkt,,tel:026 652 26 42,,"rte les Echervettes 9
 1680 Romont FR",https://www.google.com/maps/place/rte%20les%20Echervettes%209+1680+Romont%20FR,website not accessible
 Erich Dickenmann Kradolf GmbH,Reparatur und Lackieren von Carrosserien,http://www.carrosserie-spritzwerk-dickenmann.ch/,tel:071 640 03 45,,"Heldswilerstrasse 8
-9214 Kradolf-Schönenberg",https://www.google.com/maps/place/Heldswilerstrasse%208+9214+Kradolf-Sch%C3%B6nenberg,
+9214 Kradolf-Schönenberg",https://www.google.com/maps/place/Heldswilerstrasse%208+9214+Kradolf-Sch%C3%B6nenberg,keineemail@keineemail.ch
 Thermex S.A.,Sanitär- und Heizungsinstallation,https://www.thermex.ch/,tel:022 341 37 00,fax:022 341 37 01,"Route de Montfleury 46
 1214 Vernier",https://www.google.com/maps/place/Route%20de%20Montfleury%2046+1214+Vernier,contact@thermex.ch
 SW Wil AG,Herstellung von Werkzeugen,,tel:071 911 12 22,fax:071 911 49 32,"Industriestrasse 13
 9552 Bronschhofen",https://www.google.com/maps/place/Industriestrasse%2013+9552+Bronschhofen,website not accessible
 Schuhhaus Gretener AG,Detailhandel mit Schuhen,http://www.gretener-schuh.ch/,tel:041 780 11 77,fax:041 780 92 62,"Bahnhofstrasse 22
-6300 Zug",https://www.google.com/maps/place/Bahnhofstrasse%2022+6300+Zug,T5KX1A==e#e!iAVXvfabdVvlnEBo2LK+6g==@gretener-schuh.ch
+6300 Zug",https://www.google.com/maps/place/Bahnhofstrasse%2022+6300+Zug,website not accessible
 Moda la Butietta,Detailhandel mit Damenbekleidung,,tel:081 864 09 71,fax:081 864 09 71,"Stradun
 7550 Scuol",https://www.google.com/maps/place/Stradun+7550+Scuol,website not accessible
 Ferrini Entertainment Sàrl,Ausschreibungen,http://www.marioferrini.ch/,,,"Rue Monthéolo 12a
@@ -158,13 +158,13 @@ Sauser Frères SA,Reparatur und Lackieren von Carrosserien,http://www.sauser-fre
 Park Baulogistik AG,Grosshandel mit Baustoffen,,tel:044 383 44 47,fax:044 383 51 72,"Rösslistrasse 10
 8646 Wagen",https://www.google.com/maps/place/R%C3%B6sslistrasse%2010+8646+Wagen,website not accessible
 Bike Trend Rechsteiner,Detailhandel mit Fahrrädern,http://www.biketrend.ch/,tel:055 240 82 31,fax:055 240 82 88,"Edikerstrasse 3
-8635 Dürnten",https://www.google.com/maps/place/Edikerstrasse%203+8635+D%C3%BCrnten,SBFI_Logo@3x.png
+8635 Dürnten",https://www.google.com/maps/place/Edikerstrasse%203+8635+D%C3%BCrnten,SBFI_Logo@3x-1024x151.png
 Kartenverlag Karpac,Sonstiges Verlagswesen (ohne Software),,tel:027 474 98 90,fax:027 474 98 91,"Kantonsstrasse
 3952 Susten",https://www.google.com/maps/place/Kantonsstrasse+3952+Susten,website not accessible
 Pro Libertate CH Vereinigung,Politische Parteien und Vereinigungen,http://www.prolibertate.ch/,tel:031 332 57 84,fax:031 332 57 85,".
-3052 Zollikofen",https://www.google.com/maps/place/.+3052+Zollikofen,
+3052 Zollikofen",https://www.google.com/maps/place/.+3052+Zollikofen,NA
 Friess AG,Mechanische Werkstätten,http://www.friess-metallbau.ch/,tel:071 969 38 60,fax:071 969 38 61,"Murgtalstrasse 24
-9542 Münchwilen TG",https://www.google.com/maps/place/Murgtalstrasse%2024+9542+M%C3%BCnchwilen%20TG,bad link
+9542 Münchwilen TG",https://www.google.com/maps/place/Murgtalstrasse%2024+9542+M%C3%BCnchwilen%20TG,website not accessible
 Monsieur K AG,Detailhandel mit Herrenbekleidung,http://www.monsieurk.ch/,tel:041 870 12 72,,"Schmiedgasse 5
 6460 Altdorf UR",https://www.google.com/maps/place/Schmiedgasse%205+6460+Altdorf%20UR,info@monsieurk.ch
 Binz AG,"Handelsvermittlung von Maschinen, technischem Bedarf, Wasser- und Luftfahrzeugen",,tel:026 495 92 22,fax:026 495 92 23,"Hauptstrasse 61
@@ -172,11 +172,11 @@ Binz AG,"Handelsvermittlung von Maschinen, technischem Bedarf, Wasser- und Luftf
 Domo Reisen & Vertriebs GmbH,Reisebüros,http://www.domo-reisen.ch/,tel:044 828 60 40,fax:044 828 60 50,"Rohrstrasse 36
 8152 Glattbrugg",https://www.google.com/maps/place/Rohrstrasse%2036+8152+Glattbrugg,info@domo-reisen.ch
 Müssig AG,Herstellung von Ausbauelementen aus Metall,http://www.muessig.ch/,tel:071 414 02 44,fax:071 414 02 55,"Buchenhölzlistrasse 8
-8580 Amriswil",https://www.google.com/maps/place/Buchenh%C3%B6lzlistrasse%208+8580+Amriswil,
+8580 Amriswil",https://www.google.com/maps/place/Buchenh%C3%B6lzlistrasse%208+8580+Amriswil,info@muessig.ch
 Primus Verlag AG,Verlegen von Zeitschriften,http://www.travelinside.ch/,tel:044 387 57 57,fax:044 387 57 07,"Hammerstrasse 81
 8032 Zürich",https://www.google.com/maps/place/Hammerstrasse%2081+8032+Z%C3%BCrich,info@primuspublishing.ch
 Rhomberg Schmuck AG,Detailhandel mit Uhren und Schmuck,http://www.schmuck.ch/,tel:032 566 74 10,,"Schaalgasse 16
-4500 Solothurn",https://www.google.com/maps/place/Schaalgasse%2016+4500+Solothurn,
+4500 Solothurn",https://www.google.com/maps/place/Schaalgasse%2016+4500+Solothurn,website not accessible
 Tschanz Cleantechnik GmbH,Detailhandel mit elektrischen Haushaltsgeräten,,tel:033 437 08 04,fax:033 437 08 05,"Thunstrasse 16
 3612 Steffisburg",https://www.google.com/maps/place/Thunstrasse%2016+3612+Steffisburg,website not accessible
 AS GmbH Isolierungen-Brandschutz,"Dämmung gegen Kälte, Wärme, Schall und Erschütterung",,,,"Sarganserstrasse 48
@@ -190,11 +190,11 @@ BSI Business Systems Integration AG,Programmierungstätigkeiten,http://www.bsi-s
 Prima Gips Team GmbH,Malerei und Gipserei ohne ausgeprägten Schwerpunkt,http://www.primagipsteam.ch/,tel:078 949 90 98,,"Industriestrasse 10D
 2555 Brügg BE",https://www.google.com/maps/place/Industriestrasse%2010D+2555+Br%C3%BCgg%20BE,bad link
 Berghotel Derby,"Hotels, Gasthöfe und Pensionen ohne Restaurant",http://www.berghotelderby.com/,tel:027 971 00 00,fax:027 971 02 02,"Umfahrungsstrasse 1
-3984 Fiesch",https://www.google.com/maps/place/Umfahrungsstrasse%201+3984+Fiesch,
+3984 Fiesch",https://www.google.com/maps/place/Umfahrungsstrasse%201+3984+Fiesch,website not accessible
 Schär Druckverarbeitung AG,Binden von Druckerzeugnissen und damit verbundene Dienstleistungen,,tel:062 785 10 30,fax:062 785 10 33,"Industriestrasse 14
 4806 Wikon",https://www.google.com/maps/place/Industriestrasse%2014+4806+Wikon,website not accessible
 Küng Wellness AG,Herstellung von sonstigen vorfabrizierten Holzbausystemen und Fertigteilbauteilen aus Holz,http://www.kueng-sauna.ch/,tel:044 780 67 55,,"Talstrasse 26b
-8852 Altendorf",https://www.google.com/maps/place/Talstrasse%2026b+8852+Altendorf,
+8852 Altendorf",https://www.google.com/maps/place/Talstrasse%2026b+8852+Altendorf,website not accessible
 Chardonnens Boissons SA,Nicht-regelmässiger Personenbeförderung im Landverkehr,http://chardonnens-boissons.ch/,tel:026 660 55 78,,"Route de Payerne 22
 1532 Fétigny",https://www.google.com/maps/place/Route%20de%20Payerne%2022+1532+F%C3%A9tigny,info@chardonnens-boissons.ch
 Schreinerei Jenni AG,Schreinerarbeiten im Innenausbau,,tel:032 351 25 87,,"Bernstrasse 35
@@ -210,7 +210,7 @@ Bruno Rapp AG,Grosshandel mit sonstigen Maschinen und Ausrüstungen,,tel:032 331
 Stalder Haustechnik AG,Sanitär- und Heizungsinstallation,,tel:031 771 27 46,fax:031 771 27 72,"Schulhausstrasse 9
 3672 Oberdiessbach",https://www.google.com/maps/place/Schulhausstrasse%209+3672+Oberdiessbach,website not accessible
 CAS Realisierung AG,Allgemeiner Hochbau,http://www.cas-gruppe.ch/,tel:041 418 00 80,fax:041 418 00 81,"Am Mattenhof 2d
-6010 Kriens",https://www.google.com/maps/place/Am%20Mattenhof%202d+6010+Kriens,h.chappuis@cas-gruppe.ch
+6010 Kriens",https://www.google.com/maps/place/Am%20Mattenhof%202d+6010+Kriens,r.chappuis@cas-gruppe.ch
 Brüggli,Offsetdruck,http://www.brueggli.ch/,tel:071 466 94 94,,"Hofstrasse 5
 8590 Romanshorn",https://www.google.com/maps/place/Hofstrasse%205+8590+Romanshorn,support@dachcom.ch
 Ryser Fensterbau,"Bauschreinerei, Fenster und Türen",http://www.ryser-fensterbau.ch/,tel:076 580 50 81,,"Obere Kirchstrasse 32
@@ -222,11 +222,11 @@ Küenzi & Co AG,Sanitärinstallation und Spenglerei,,tel:031 869 01 47,fax:031 8
 Restaurant Rheinfelderhof,"Hotels, Gasthöfe und Pensionen mit Restaurant",http://www.rheinfelderhof.com/,tel:061 695 45 45,fax:061 695 45 55,"Hammerstrasse 61
 4058 Basel",https://www.google.com/maps/place/Hammerstrasse%2061+4058+Basel,info@rheinfelderhof.ch
 Friedel Gabele GmbH,Verlegen von Fussboden,http://www.friedelgabele.ch/,tel:052 624 77 66,,"Floraweg 14
-8200 Schaffhausen",https://www.google.com/maps/place/Floraweg%2014+8200+Schaffhausen,8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com
+8200 Schaffhausen",https://www.google.com/maps/place/Floraweg%2014+8200+Schaffhausen,605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com
 Lang Baumaschinen AG,"Handelsvermittlung von Maschinen, technischem Bedarf, Wasser- und Luftfahrzeugen",,tel:041 467 21 31,fax:041 467 25 92,"Eichweid 2
 6203 Sempach Station",https://www.google.com/maps/place/Eichweid%202+6203+Sempach%20Station,website not accessible
 Stadtpilze GmbH,Anbau von Gemüse und Melonen sowie Wurzeln und Knollen,http://www.stadtpilze.ch/,,,"St. Johanns-Ring 102
-4056 Basel",https://www.google.com/maps/place/St.%20Johanns-Ring%20102+4056+Basel,kontakt@stadtpilze.ch
+4056 Basel",https://www.google.com/maps/place/St.%20Johanns-Ring%20102+4056+Basel,605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com
 "Interop,R.Nagel","Grosshandel mit Foto- und Kinogeräten, feinmechanischen und optischen Erzeugnissen",,tel:044 775 78 71,fax:044 775 78 72,"Wehntalerstrasse 1
 8155 Nassenwil",https://www.google.com/maps/place/Wehntalerstrasse%201+8155+Nassenwil,website not accessible
 Ralf Eilmes,Sanitärinstallation und Spenglerei,,tel:062 797 49 29,fax:062 797 49 29,"Kreuzstrasse 22
@@ -248,7 +248,7 @@ Oliver Willimann,Artikel im Shop,https://wdlaw.ch/de/team/anwalte/oliver-willima
 Fulserv Andreas Matter,Vermietung und Verpachtung von eigenen oder geleasten Grundstücken,,,,"Gurtenstrasse 8
 3122 Kehrsatz",https://www.google.com/maps/place/Gurtenstrasse%208+3122+Kehrsatz,website not accessible
 Fo-Fotorotar AG,Sonstiges Drucken a. n. g.,http://www.fo-fotorotar.ch/,tel:044 986 35 10,fax:044 986 35 36,"Gewerbestrasse 18
-8132 Egg b. Zürich",https://www.google.com/maps/place/Gewerbestrasse%2018+8132+Egg%20b.%20Z%C3%BCrich,
+8132 Egg b. Zürich",https://www.google.com/maps/place/Gewerbestrasse%2018+8132+Egg%20b.%20Z%C3%BCrich,website not accessible
 Schreinerei Stücklschweiger GmbH,Herstellung von sonstigen Möbeln,,tel:071 971 16 26,fax:071 971 16 56,"Bahnhofstrasse 2
 8360 Eschlikon TG",https://www.google.com/maps/place/Bahnhofstrasse%202+8360+Eschlikon%20TG,website not accessible
 Elektro Gyger AG,Elektroinstallation,,tel:033 673 11 65,fax:033 673 09 65,"Landstrasse 35
@@ -258,7 +258,7 @@ Eugen Bienz AG,Gebäudetechnik-Ingenieurbüros,http://www.bienzag.ch/,tel:041 44
 Hotels Pianta + Danilo,"Verwaltung von Hotels, Gasthöfen und Pensionen",http://www.danilo.ch/,tel:081 659 11 59,fax:081 659 11 58,"Stradung
 7460 Savognin",https://www.google.com/maps/place/Stradung+7460+Savognin,info@DANILO.ch
 "F. Zaugg AG, Kälte + Klima",Grosshandel mit elektrischen Haushaltsgeräten,http://www.zaugg.com/,tel:033 334 88 22,fax:033 334 86 33,"Bierigutstrasse 22
-3608 Thun",https://www.google.com/maps/place/Bierigutstrasse%2022+3608+Thun,
+3608 Thun",https://www.google.com/maps/place/Bierigutstrasse%2022+3608+Thun,info@kaeltering.ch
 Riffenmatt-Garage,Detailhandel mit Motorenkraftstoffen (Tankstellen),,,,"Kappelen 30b
 3156 Riffenmatt",https://www.google.com/maps/place/Kappelen%2030b+3156+Riffenmatt,website not accessible
 Kostgeld Malergeschäft AG,Malerei,,tel:071 244 50 24,fax:071 245 50 44,"Neptunstrasse 3 + 5
@@ -274,9 +274,9 @@ Giovanni Boemi,Sonstige technische Beratung und Planung,,tel:044 310 22 60,fax:0
 Hegimmo AG,"Kauf und Verkauf von eigenen Grundstücken, Gebäuden und Wohnungen",,tel:079 334 49 77,,"Hinterbergstrasse 24
 6312 Steinhausen",https://www.google.com/maps/place/Hinterbergstrasse%2024+6312+Steinhausen,website not accessible
 Coiffeur Trendsetter,Coiffeursalons,http://www.coiffeur-trendsetter.ch/,tel:062 296 75 75,,"Unterführungsstrasse 51
-4600 Olten",https://www.google.com/maps/place/Unterf%C3%BChrungsstrasse%2051+4600+Olten,bad link
+4600 Olten",https://www.google.com/maps/place/Unterf%C3%BChrungsstrasse%2051+4600+Olten,website not accessible
 new copy store AG,Lichtpause- und Reprografiebetriebe,http://www.newcopystore.ch/,tel:071 246 31 91,fax:071 246 31 90,"Rorschacherstrasse 152
-9000 St. Gallen",https://www.google.com/maps/place/Rorschacherstrasse%20152+9000+St.%20Gallen,
+9000 St. Gallen",https://www.google.com/maps/place/Rorschacherstrasse%20152+9000+St.%20Gallen,NA
 zmaler.ch GmbH,Malerei,http://www.zuerich-maler.ch/,tel:043 495 61 61,,"Meinradstrasse 5
 8006 Zürich",https://www.google.com/maps/place/Meinradstrasse%205+8006+Z%C3%BCrich,info@zmaler.ch
 Vector Immobilien AG,Vermietung und Verpachtung von eigenen oder geleasten Gebäuden und Wohnungen,,tel:078 403 16 88,,"Spisermarkt, Brühlgasse 28
@@ -299,7 +299,7 @@ Josef Peterer Haustechnik AG,Sanitärinstallation und Spenglerei,,tel:055 243 17
 8608 Bubikon",https://www.google.com/maps/place/Industriestrasse%2039a+8608+Bubikon,website not accessible
 PJV Pneuhaus Wil AG,lnstandhaltung und Reparatur von Automobilen,http://www.pneuhauswil.ch/,tel:071 912 12 88,,"St.Gallerstrasse 76
 9500 Wil SG",https://www.google.com/maps/place/St.Gallerstrasse%2076+9500+Wil%20SG,info@pneuhauswil.ch
-Hotel Bürchnerhof,"Hotels, Gasthöfe und Pensionen mit Restaurant",http://www.buerchnerhof.ch/,tel:027 934 24 34,fax:027 934 34 17,3935 Bürchen,https://www.google.com/maps/place/undefined+3935+B%C3%BCrchen,info@buerchnerhof.ch
+Hotel Bürchnerhof,"Hotels, Gasthöfe und Pensionen mit Restaurant",http://www.buerchnerhof.ch/,tel:027 934 24 34,fax:027 934 34 17,3935 Bürchen,https://www.google.com/maps/place/undefined+3935+B%C3%BCrchen,website not accessible
 Roli's Möbelmarkt AG,Detailhandel mit Möbeln,,tel:062 965 00 36,fax:062 965 00 36,"Hauptstrasse 425
 4938 Rohrbach",https://www.google.com/maps/place/Hauptstrasse%20425+4938+Rohrbach,website not accessible
 "Karl Flammer, Autocenter",lnstandhaltung und Reparatur von Automobilen,http://www.flammer.ch/,tel:055 645 24 24,,"Buchholz
@@ -307,7 +307,7 @@ Roli's Möbelmarkt AG,Detailhandel mit Möbeln,,tel:062 965 00 36,fax:062 965 00
 Ullmann VG AG,"Grosshandel mit Bergwerks-, Bau- und Baustoffmaschinen",http://www.um-ag.ch/,tel:071 626 57 47,fax:071 626 57 48,"Breitistrasse 1
 9565 Bussnang",https://www.google.com/maps/place/Breitistrasse%201+9565+Bussnang,bad link
 Borner Gartengestaltung GmbH,Garten- und Landschaftsbau sowie Erbringung von sonstigen gärtnerischen Dienstleistungen,http://www.garten-borner.ch/,tel:062 896 14 44,,"Lettenstrasse 27
-5506 Mägenwil",https://www.google.com/maps/place/Lettenstrasse%2027+5506+M%C3%A4genwil,info@garten-borner.ch
+5506 Mägenwil",https://www.google.com/maps/place/Lettenstrasse%2027+5506+M%C3%A4genwil,zbinden@garten-borner.ch
 Born + Grimm AG,Bau-Ingenieurbüros,,tel:062 922 86 86,fax:062 922 18 56,"Schulhausstrasse 24
 4900 Langenthal",https://www.google.com/maps/place/Schulhausstrasse%2024+4900+Langenthal,website not accessible
 Bianco Immobilien AG,"Vermittlung von Grundstücken, Gebäuden und Wohnungen für Dritte",,tel:071 860 04 55,fax:071 860 04 57,"Schloss Watt
@@ -317,7 +317,7 @@ Biasco & Suppa Automobile GmbH,lnstandhaltung und Reparatur von Automobilen,,tel
 Werner Lauper AG,Schlossereien,http://www.w-lauper.ch/,tel:061 721 78 11,fax:061 721 78 87,"Lohweg 17
 4107 Ettingen",https://www.google.com/maps/place/Lohweg%2017+4107+Ettingen,info@w-lauper.ch
 Tosio Arredamenti SA,Detailhandel mit Möbeln,http://www.tosio.ch/,tel:081 844 01 06,fax:081 844 18 97,"via dal Poz
-7742 Poschiavo",https://www.google.com/maps/place/via%20dal%20Poz+7742+Poschiavo,
+7742 Poschiavo",https://www.google.com/maps/place/via%20dal%20Poz+7742+Poschiavo,website not accessible
 Sanitär Rast GmbH,Sanitär- und Heizungsinstallation,,tel:041 988 11 42,fax:041 988 28 80,"Bernstrasse 14
 6144 Zell LU",https://www.google.com/maps/place/Bernstrasse%2014+6144+Zell%20LU,website not accessible
 Spörri Gartenbau,Garten- und Landschaftsbau sowie Erbringung von sonstigen gärtnerischen Dienstleistungen,,tel:055 444 12 56,,"Kantonsstrasse 55
@@ -329,7 +329,7 @@ Atelierbau Immobilien AG,Architekturbüros,,,fax:061 921 65 90,"Rosengasse 4
 Scherer Creations,"Herstellung von Schmuck, Gold- und Silberschmiedwaren a. n. g. (ohne Fantasieschmuck)",http://www.fatimah.ch/,tel:041 240 65 15,fax:041 240 65 16,"Oberhaslistrasse 5b
 6005 Luzern",https://www.google.com/maps/place/Oberhaslistrasse%205b+6005+Luzern,website not accessible
 Strübin Gartenbau AG,Garten- und Landschaftsbau sowie Erbringung von sonstigen gärtnerischen Dienstleistungen,http://www.struebin-gartenbau.ch/,tel:061 831 74 20,,"Rindergasse 8
-4310 Rheinfelden",https://www.google.com/maps/place/Rindergasse%208+4310+Rheinfelden,
+4310 Rheinfelden",https://www.google.com/maps/place/Rindergasse%208+4310+Rheinfelden,website not accessible
 Robert Reis,Sägewerke,,tel:041 493 12 60,fax:041 493 12 60,"Ladensäge
 6122 Menznau",https://www.google.com/maps/place/Ladens%C3%A4ge+6122+Menznau,website not accessible
 D.Edipi GmbH,"Anbringen von Stuckaturen, Gipserei und Verputzerei",http://www.edipi-gipser.ch/,tel:071 390 05 06,fax:071 390 05 06,"Lindenstrasse 11
@@ -339,7 +339,7 @@ Nuttli Bodenbeläge AG,Verlegen von Fussboden,http://www.nuttli.ch/,tel:062 723 
 Stettler & Co,Sägewerke,,tel:031 809 01 42,,"Grabenstrasse 51
 3132 Riggisberg",https://www.google.com/maps/place/Grabenstrasse%2051+3132+Riggisberg,website not accessible
 Landgasthof Lamm,"Restaurants, Imbissstuben, Tea-Rooms und Gelaterias",http://www.lammschlatt.ch/,tel:052 657 22 19,fax:052 657 22 41,"Frauenfelderstrasse 73
-8252 Schlatt TG",https://www.google.com/maps/place/Frauenfelderstrasse%2073+8252+Schlatt%20TG,
+8252 Schlatt TG",https://www.google.com/maps/place/Frauenfelderstrasse%2073+8252+Schlatt%20TG,NA
 Ernst Steiger,Bau-Ingenieurbüros,,tel:033 733 42 22,fax:033 733 36 86,"Maurengässli 3
 3775 Lenk im Simmental",https://www.google.com/maps/place/Maureng%C3%A4ssli%203+3775+Lenk%20im%20Simmental,website not accessible
 Papeterie und Foto Dietiker AG,Detailhandel mit Schreibwaren und Bürobedarf,,tel:062 723 15 85,,"Hauptstrasse 55
@@ -373,11 +373,11 @@ Kompostierplatz Hängärtner GmbH,Behandlung und Beseitigung nicht gefährlicher
 Gasthaus Rössli,Restaurants mit Beherbergungsangebot,http://www.roessli-wil.ch/,tel:071 913 97 50,fax:071 913 97 51,"Toggenburgerstrasse 59
 9500 Wil SG",https://www.google.com/maps/place/Toggenburgerstrasse%2059+9500+Wil%20SG,bad link
 "Walter Regli, dipl. Ing. ETH/SIA, I",Bau-Ingenieurbüros,http://www.regliundpartner.com/,tel:044 404 10 80,,"Wallisellerstrasse 116
-8152 Opfikon",https://www.google.com/maps/place/Wallisellerstrasse%20116+8152+Opfikon,zuerich@regli-ing.com
+8152 Opfikon",https://www.google.com/maps/place/Wallisellerstrasse%20116+8152+Opfikon,embrach@regli-ing.com
 Aregger Elektro Urdorf AG,Elektroinstallation,http://www.aregger-elektro.ch/,tel:043 244 62 62,fax:043 455 97 27,"Grossmattstrasse 9
-8902 Urdorf",https://www.google.com/maps/place/Grossmattstrasse%209+8902+Urdorf,
+8902 Urdorf",https://www.google.com/maps/place/Grossmattstrasse%209+8902+Urdorf,m.aregger@aregger-elektro.ch
 Windoor Porte & Finestre Sagl,Grosshandel mit Holz und Bauelementen aus Holz,http://www.win-door.ch/,tel:091 600 26 31,,"Via Girella 20 A
-6814 Lamone-Cadempino",https://www.google.com/maps/place/Via%20Girella%2020%20A+6814+Lamone-Cadempino,info@win-door.ch
+6814 Lamone-Cadempino",https://www.google.com/maps/place/Via%20Girella%2020%20A+6814+Lamone-Cadempino,605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com
 Ernst Sommer AG,lnstandhaltung und Reparatur von Automobilen,,tel:071 931 15 11,,"Wolfikon 73
 9533 Kirchberg SG",https://www.google.com/maps/place/Wolfikon%2073+9533+Kirchberg%20SG,website not accessible
 Papeterie Wettstein,Detailhandel mit Schreibwaren und Bürobedarf,,tel:052 625 17 42,,"Unterstadt 8
@@ -389,21 +389,21 @@ Bruno Köppel AG,"Holzbau, Zimmerei",,tel:071 278 50 60,fax:071 278 50 68,"Gaise
 Mettler Torsysteme AG,Herstellung von Ausbauelementen aus Metall,,tel:071 288 64 02,fax:071 288 64 05,"Piccardstrasse 20
 9015 St. Gallen",https://www.google.com/maps/place/Piccardstrasse%2020+9015+St.%20Gallen,website not accessible
 Elinag Elektroinstallationen,Elektroinstallation,http://www.elinag-elektro.ch/,tel:056 426 26 26,fax:056 426 53 28,"Landstrasse 66
-5430 Wettingen",https://www.google.com/maps/place/Landstrasse%2066+5430+Wettingen,oberrohrdorf@elinag.ch
+5430 Wettingen",https://www.google.com/maps/place/Landstrasse%2066+5430+Wettingen,baden@elinag.ch
 SEERAUSCH,"Verwaltung von Hotels, Gasthöfen und Pensionen",http://www.seerausch.ch/,tel:041 501 01 31,fax:041 501 01 32,"Buochserstrasse 54
-6375 Beckenried",https://www.google.com/maps/place/Buochserstrasse%2054+6375+Beckenried,
+6375 Beckenried",https://www.google.com/maps/place/Buochserstrasse%2054+6375+Beckenried,info@seerausch.ch
 SNW.CH AG,Investmentgesellschaften,http://www.snw.ch/,tel:071 566 11 61,,"Mohren 15
-9411 Reute AR",https://www.google.com/maps/place/Mohren%2015+9411+Reute%20AR,info@snw.ch
+9411 Reute AR",https://www.google.com/maps/place/Mohren%2015+9411+Reute%20AR,website not accessible
 Bezzola AG Luzern,"Anbringen von Stuckaturen, Gipserei und Verputzerei",,tel:041 210 14 93,fax:041 210 28 93,"Waldstätterstrasse 9
 6003 Luzern",https://www.google.com/maps/place/Waldst%C3%A4tterstrasse%209+6003+Luzern,website not accessible
 Bäga Innenausbau AG,Innenarchitektur und Raumgestaltung,,tel:031 302 57 37,,"Untermattweg 20
 3027 Bern",https://www.google.com/maps/place/Untermattweg%2020+3027+Bern,website not accessible
 Asbestdemontagen plus GmbH,Sonstiger spezialisierter Hoch- und Tiefbau a. n. g.,http://www.asbestdemontagen.ch/,tel:080 061 86 18,,"Altsagenstrasse 6
-6048 Horw",https://www.google.com/maps/place/Altsagenstrasse%206+6048+Horw,%69%6e%66%6f@%61%73%62%65%73%74%64%65%6d%6f%6e%74%61%67%65%6e.%63%68
+6048 Horw",https://www.google.com/maps/place/Altsagenstrasse%206+6048+Horw,website not accessible
 Alpin-Bau & Immobilien AG,Allgemeiner Hoch- und Tiefbau ohne ausgeprägten Schwerpunkt,http://www.alpin-bauag.ch/,tel:027 470 10 00,,"Bahnhofstrasse 1
-3984 Fiesch",https://www.google.com/maps/place/Bahnhofstrasse%201+3984+Fiesch,
+3984 Fiesch",https://www.google.com/maps/place/Bahnhofstrasse%201+3984+Fiesch,NA
 Bach-Garage Gschwend AG,lnstandhaltung und Reparatur von Automobilen,http://www.bachgarage-sg.ch/,tel:071 223 12 12,fax:071 223 22 09,"St.Georgenstrasse 162
-9011 St. Gallen",https://www.google.com/maps/place/St.Georgenstrasse%20162+9011+St.%20Gallen,
+9011 St. Gallen",https://www.google.com/maps/place/St.Georgenstrasse%20162+9011+St.%20Gallen,info@bachgarage-sg.ch
 HG INVESTMENT SA,Wirtschaftsprüfung und Steuerberatung; Buchführung; Treuhandgesellschaften,,tel:091 973 31 60,,"Via Monte Boglia 20
 6900 Lugano",https://www.google.com/maps/place/Via%20Monte%20Boglia%2020+6900+Lugano,website not accessible
 Kolumbus Generalbau GmbH,Allgemeiner Hochbau,,tel:031 550 30 00,,"Aemmenmattstrasse 43
@@ -415,7 +415,7 @@ Clean Service Scaramuzzo AG,Allgemeine Gebäudereinigung,http://www.clean-servic
 Garage Paul Kindler,Bewertungen,,tel:033 356 33 02,fax:033 356 33 54,"Dittligen 2
 3636 Längenbühl",https://www.google.com/maps/place/Dittligen%202+3636+L%C3%A4ngenb%C3%BChl,website not accessible
 TOPPLER ARCHITEKTEN AG,Architekturbüros,http://www.toppler.ch/,tel:044 281 11 10,fax:044 281 11 65,"Bellariastrasse 7
-8002 Zürich",https://www.google.com/maps/place/Bellariastrasse%207+8002+Z%C3%BCrich,
+8002 Zürich",https://www.google.com/maps/place/Bellariastrasse%207+8002+Z%C3%BCrich,NA
 Artigiano Delivery,Artikel im Shop,http://www.pizzeria-basel.ch/,tel:061 271 15 76,,"Birsig Parkplatz 26
 4051 Basel",https://www.google.com/maps/place/Birsig%20Parkplatz%2026+4051+Basel,website not accessible
 René Frech AG für Kommunikation,Verlegen von Zeitschriften,,tel:031 311 80 82,fax:031 311 85 82,"Walchstrasse 35
@@ -429,11 +429,11 @@ Anhänger - Fahrzeugbau Wenk AG,Herstellung von Automobilen und Automobilmotoren
 UL Tech AG,"Herstellung von kälte- und lufttechnischen Erzeugnissen, nicht für den Haushalt",,tel:071 638 01 10,fax:071 638 01 13,"Andhausen
 8572 Berg TG",https://www.google.com/maps/place/Andhausen+8572+Berg%20TG,website not accessible
 Rhomberg Schmuck AG,Detailhandel mit Uhren und Schmuck,http://www.schmuck.ch/,tel:033 221 64 60,,"Freienhofgasse 23
-3600 Thun",https://www.google.com/maps/place/Freienhofgasse%2023+3600+Thun,
+3600 Thun",https://www.google.com/maps/place/Freienhofgasse%2023+3600+Thun,website not accessible
 SCI-Management AG,"Sonstige freiberufliche, wissenschaftliche und technische Tätigkeiten a. n. g.",,tel:041 792 22 55,fax:041 792 22 60,"Grundstrasse 6
 6343 Rotkreuz",https://www.google.com/maps/place/Grundstrasse%206+6343+Rotkreuz,website not accessible
 Champagner Boutique,"Sonstiger Fachdetailhandel mit Nahrungs- und Genussmitteln, Getränken und Tabakwaren a. n. g. (in Verkaufsräumen)",http://www.champagner-boutique.ch/,tel:041 377 49 49,fax:041 377 49 51,"Adligenswilerstrasse 48
-6045 Meggen",https://www.google.com/maps/place/Adligenswilerstrasse%20%2048+6045+Meggen,
+6045 Meggen",https://www.google.com/maps/place/Adligenswilerstrasse%20%2048+6045+Meggen,website not accessible
 zbinden ag hägendorf,lnstandhaltung und Reparatur von Automobilen,,tel:062 209 70 00,fax:062 209 70 01,"Oltnerstrasse 18
 4614 Hägendorf",https://www.google.com/maps/place/Oltnerstrasse%2018+4614+H%C3%A4gendorf,website not accessible
 Gourmet Sauvage Sàrl,Detailhandel mit Back- und Süsswaren,http://www.gourmetsauvage.ch/,,,"Les Rives de la Morges 5
@@ -443,7 +443,7 @@ Gebäudeservice 5plus GmbH,Hausmeisterdienste; Facility Management,http://gs-5pl
 hsh Heinz Studer,Schreinerarbeiten im Innenausbau,,tel:079 444 99 09,,"Thalackerwerg 10
 4614 Hägendorf",https://www.google.com/maps/place/Thalackerwerg%2010+4614+H%C3%A4gendorf,website not accessible
 HIRSCHEN OBERKIRCH AG,Firmensitzaktivitäten von anderen Gesellschaften,http://www.hirschen-oberkirch.ch/,tel:041 921 55 55,fax:041 921 55 56,"Bahnstrasse 1
-6208 Oberkirch LU",https://www.google.com/maps/place/Bahnstrasse%201+6208+Oberkirch%20LU,raster@2x.png
+6208 Oberkirch LU",https://www.google.com/maps/place/Bahnstrasse%201+6208+Oberkirch%20LU,email@gmail.com
 "Gartenbau Bonsai, Rami Iljazi",Garten- und Landschaftsbau sowie Erbringung von sonstigen gärtnerischen Dienstleistungen,,tel:071 622 11 16,,"Zihlstrasse 18
 8575 Bürglen TG",https://www.google.com/maps/place/Zihlstrasse%2018+8575+B%C3%BCrglen%20TG,website not accessible
 Wäscherei Tip Top,Wäscherei,,tel:031 981 02 20,,"Bernstrasse 35
@@ -451,7 +451,7 @@ Wäscherei Tip Top,Wäscherei,,tel:031 981 02 20,,"Bernstrasse 35
 Miniprix Tankstelle,Detailhandel mit Motorenkraftstoffen (Tankstellen),,,,"Grande-Rue 5
 2046 Fontaines NE",https://www.google.com/maps/place/Grande-Rue%205+2046+Fontaines%20NE,website not accessible
 "Garage de la Plaine, Baatard Jérôme","Detailhandel mit Automobilen mit einem Gesamtgewicht von 3,5 t oder weniger",http://www.garageplaine.ch/,tel:021 801 68 42,fax:021 803 18 45,"Rue de la Plaine 20
-1026 Denges",https://www.google.com/maps/place/Rue%20de%20la%20Plaine%2020+1026+Denges,
+1026 Denges",https://www.google.com/maps/place/Rue%20de%20la%20Plaine%2020+1026+Denges,vente@garageplaine.ch
 jost metallbau ag,Herstellung von Metallkonstruktionen,http://www.jost-metallbau.ch/,tel:031 914 02 03,fax:031 914 02 13,"Aegelseeweg 18
 3052 Zollikofen",https://www.google.com/maps/place/Aegelseeweg%2018+3052+Zollikofen,info@jost-metallbau.ch
 Deon AG,"Einbau von Fenster, Türen und Innenausbau, Einbauküchen, Einbaumöbel",,,,"Ackerweg 6
@@ -461,7 +461,7 @@ Privama AG,Vermietung und Verpachtung von eigenen oder geleasten Gebäuden und W
 Eckert Werbeartikel AG,Grosshandel mit Geschenkartikeln und Souvenirs,http://www.eckert.ch/,tel:044 463 11 11,,"Räffelstrasse 20
 8045 Zürich",https://www.google.com/maps/place/R%C3%A4ffelstrasse%2020+8045+Z%C3%BCrich,post@eckert.ch
 Schlagzeug Shop Glanzmann AG,Detailhandel mit Musikinstrumenten,http://www.musik-glanzmann.ch/,tel:062 756 22 66,fax:062 756 28 62,"Chilchstrasse 8
-6246 Altishofen",https://www.google.com/maps/place/Chilchstrasse%208+6246+Altishofen,8c4075d5481d476e945486754f783364@sentry.io
+6246 Altishofen",https://www.google.com/maps/place/Chilchstrasse%208+6246+Altishofen,605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com
 Christian Grob,Architekturbüros,,tel:052 337 37 31,fax:052 337 17 20,"Wannenstrasse 5b
 8542 Wiesendangen",https://www.google.com/maps/place/Wannenstrasse%205b+8542+Wiesendangen,website not accessible
 Kull-Laube AG,Grosshandel mit sonstigen Maschinen und Ausrüstungen,http://www.kull-laube.ch/,tel:056 426 16 80,fax:056 426 16 86,"Halbartenstrasse 50
@@ -477,15 +477,15 @@ M. Krähenbühl AG,Dachdeckerei,http://www.krazo.ch/,tel:034 496 89 69,,"Seilerg
 Sidler AG Sursee,Detailhandel mit elektrischen Haushaltsgeräten,http://www.josefsidlerag.ch/,tel:041 921 32 52,,"Badstrasse 1
 6210 Sursee",https://www.google.com/maps/place/Badstrasse%201+6210+Sursee,website not accessible
 "Bircher AG, Malergeschäft",Malerei und Gipserei ohne ausgeprägten Schwerpunkt,http://www.bircherag.ch/,tel:062 855 55 55,fax:062 855 55 00,"Tramstrasse 79
-5034 Suhr",https://www.google.com/maps/place/Tramstrasse%2079+5034+Suhr,BAG-MAVO-WA_FLYER_A5Q_6S_v180921_S1-S6_SUHR_ADOBE-X1_Seite_2-d578843ad983734ge6b5b933572a95cc@2x.jpg
+5034 Suhr",https://www.google.com/maps/place/Tramstrasse%2079+5034+Suhr,BAG-MAVO-WA_FLYER_A5Q_6S_v180921_S1-S6_SUHR_ADOBE-X1_Seite_3-8d4b7d4466f28f0ge00fdbf600fca2cd@2x.jpg
 Kiddy Dome Swiss AG,Artikel im Shop,http://www.kiddydome.ch/,tel:062 919 60 00,,"Hauptstrasse 52
 4938 Rohrbach",https://www.google.com/maps/place/Hauptstrasse%2052+4938+Rohrbach,info@kiddydome.ch
 "Immo Finanz AG, Beromünster","Kauf und Verkauf von eigenen Grundstücken, Gebäuden und Wohnungen",,tel:041 932 40 90,,"Luegeten
 6222 Gunzwil",https://www.google.com/maps/place/Luegeten+6222+Gunzwil,website not accessible
 Epper Service AG,"Vermietung von Automobilen mit einem Gesamtgewicht von 3,5 t oder weniger",http://www.epper.ch/,tel:041 555 55 10,,"Horwerstrasse 81
-6005 Luzern",https://www.google.com/maps/place/Horwerstrasse%2081+6005+Luzern,example@domain.com
+6005 Luzern",https://www.google.com/maps/place/Horwerstrasse%2081+6005+Luzern,service@epper.ch
 IKAS Car-Performance AG,Detailhandel mit Automobilteilen und -zubehör,http://www.ikas.ch/,tel:027 945 16 45,fax:027 945 16 46,"Allmei 3
-3930 Visp",https://www.google.com/maps/place/Allmei%203+3930+Visp,
+3930 Visp",https://www.google.com/maps/place/Allmei%203+3930+Visp,website not accessible
 TRE Rohrbach AG,Grosshandel mit elektrischen Haushaltsgeräten,http://www.tre.ch/,tel:044 853 43 53,fax:044 853 43 55,"Gewerbestrasse 11
 8162 Steinmaur",https://www.google.com/maps/place/Gewerbestrasse%2011+8162+Steinmaur,info@tre.ch
 Eugen Leibundgut,Detailhandel mit Eisen- und Metallwaren,http://www.haushaltapparate-leibundgut.ch/,tel:062 777 27 27,fax:062 777 36 72,"Seetalstrasse 3
@@ -497,7 +497,7 @@ Teppichhaus Klusplatz AG,Verlegen von Fussboden,,tel:044 381 90 88,fax:044 383 9
 Ruedi Rüssel Tankstelle,Detailhandel mit Motorenkraftstoffen (Tankstellen),,,,"Hauptstrasse 60
 4142 Münchenstein",https://www.google.com/maps/place/Hauptstrasse%2060+4142+M%C3%BCnchenstein,website not accessible
 Restaurant Schweizerhaus,"Restaurants, Imbissstuben, Tea-Rooms und Gelaterias",http://www.schweizerhaus.ch/,tel:041 637 12 80,fax:041 637 12 29,"Schweizerhausstrasse 41
-6390 Engelberg",https://www.google.com/maps/place/Schweizerhausstrasse%2041+6390+Engelberg,
+6390 Engelberg",https://www.google.com/maps/place/Schweizerhausstrasse%2041+6390+Engelberg,NA
 Edwin Wegmann,Bewertungen,http://www.wegmann-trade.ch/,tel:052 301 24 92,fax:052 301 24 94,"Guggenbühl 6
 8453 Alten",https://www.google.com/maps/place/Guggenb%C3%BChl%206+8453+Alten,bad link
 Zingg Haustechnik,Sanitär- und Heizungsinstallation,http://www.zingg-haustechnik.ch/,tel:031 751 05 93,fax:031 751 09 02,"Bernstrasse 94
@@ -505,7 +505,7 @@ Zingg Haustechnik,Sanitär- und Heizungsinstallation,http://www.zingg-haustechni
 Herzplan GmbH,Grosshandel mit sonstigen Maschinen und Ausrüstungen,,tel:071 558 30 44,,"Staubhusen 120
 9245 Oberbüren",https://www.google.com/maps/place/Staubhusen%20120+9245+Oberb%C3%BCren,website not accessible
 Design 4 Office SA,"Grosshandel mit Möbeln, Teppichen, Lampen und Leuchten",http://www.d4o.ch/,tel:021 652 96 46,,"En Budron B 15
-1052 Le Mont-sur-Lausanne",https://www.google.com/maps/place/En%20Budron%20B%2015+1052+Le%20Mont-sur-Lausanne,
+1052 Le Mont-sur-Lausanne",https://www.google.com/maps/place/En%20Budron%20B%2015+1052+Le%20Mont-sur-Lausanne,website not accessible
 Abgottspon Bauberatungen,Erbringung sonstiger wirtschaftlicher Dienstleistungen für Unternehmen und Privatpersonen a. n. g.,,,fax:027 934 23 22,"Litternaweg 3b
 3930 Visp",https://www.google.com/maps/place/Litternaweg%203b+3930+Visp,website not accessible
 Garage Stucki AG,lnstandhaltung und Reparatur von Automobilen,,tel:062 929 05 05,fax:062 929 05 03,"St.Urbanstrasse 35
@@ -533,17 +533,17 @@ Ski + Sport Achermann AG,Detailhandel mit Sportartikeln,,tel:041 670 28 27,fax:0
 Schiess Transport AG,Umzugstransporte,http://www.schiess-ag.ch/,tel:071 311 31 11,fax:071 311 31 70,"Moosstrasse 8
 9030 Abtwil SG",https://www.google.com/maps/place/Moosstrasse%208+9030+Abtwil%20SG,info@schiess-ag.ch
 Armand Favre 'Gestellbau',Detailhandel mit Möbeln,http://www.favre-group.ch/,tel:044 321 01 61,fax:044 321 01 71,"Winterthurerstrasse 398
-8051 Zürich",https://www.google.com/maps/place/Winterthurerstrasse%20398+8051+Z%C3%BCrich,
+8051 Zürich",https://www.google.com/maps/place/Winterthurerstrasse%20398+8051+Z%C3%BCrich,NA
 RoSan GmbH,"Dämmung gegen Kälte, Wärme, Schall und Erschütterung",http://www.rosan.ch/,tel:044 833 26 87,fax:044 833 26 89,"Bromackerstrasse 13
 8305 Dietlikon",https://www.google.com/maps/place/Bromackerstrasse%2013+8305+Dietlikon,info@rosan.ch
 Ru-Fleisch AG,Fleischverarbeitung,http://www.rufleisch.ch/,tel:081 733 12 13,fax:081 733 43 13,"Lochrietstrasse 23
-8890 Flums",https://www.google.com/maps/place/Lochrietstrasse%2023+8890+Flums,
+8890 Flums",https://www.google.com/maps/place/Lochrietstrasse%2023+8890+Flums,NA
 Schmid + Mägert AG,Grosshandel mit landwirtschaftlichen Maschinen und Geräten,http://www.s-m.ch/,tel:033 676 70 70,fax:033 676 70 78,"Hauptstrasse 100
-3713 Reichenbach im Kandertal",https://www.google.com/maps/place/Hauptstrasse%20100+3713+Reichenbach%20im%20Kandertal,werkstatt@s-m.ch
+3713 Reichenbach im Kandertal",https://www.google.com/maps/place/Hauptstrasse%20100+3713+Reichenbach%20im%20Kandertal,landtechnik@s-m.ch
 Coiffure P,Coiffeursalons,http://www.coiffure-p.ch/,tel:041 761 90 77,,"Bahnhofstrasse 8b
 6340 Baar",https://www.google.com/maps/place/Bahnhofstrasse%208b+6340+Baar,info@coiffure-p.ch
 Rhomberg Schmuck AG,Detailhandel mit Uhren und Schmuck,http://www.schmuck.ch/,tel:041 566 77 07,,"Bitzistrasse 2
-6370 Stans",https://www.google.com/maps/place/Bitzistrasse%202+6370+Stans,
+6370 Stans",https://www.google.com/maps/place/Bitzistrasse%202+6370+Stans,website not accessible
 Brog AG,Dachdeckerei,,tel:033 971 12 42,fax:033 971 12 42,"Bahnhofstrasse 2
 3860 Meiringen",https://www.google.com/maps/place/Bahnhofstrasse%202+3860+Meiringen,website not accessible
 CM Automobile AG,"Detailhandel mit Automobilen mit einem Gesamtgewicht von 3,5 t oder weniger",,tel:041 260 22 42,,"Titlisstrasse 30
@@ -553,7 +553,7 @@ CM Automobile AG,"Detailhandel mit Automobilen mit einem Gesamtgewicht von 3,5 t
 Martin Haldimann,Bauspenglerei,,tel:031 771 18 84,fax:031 771 05 44,"Weid 84
 3674 Bleiken b. Oberdiessbach",https://www.google.com/maps/place/Weid%2084+3674+Bleiken%20b.%20Oberdiessbach,website not accessible
 KMG - Krafts Motor Group GmbH,"Vermietung von Automobilen mit einem Gesamtgewicht von 3,5 t oder weniger",http://www.kraftsmotorgroup.ch/,,,"Grenzstrasse 25
-9430 St. Margrethen SG",https://www.google.com/maps/place/Grenzstrasse%2025+9430+St.%20Margrethen%20SG,
+9430 St. Margrethen SG",https://www.google.com/maps/place/Grenzstrasse%2025+9430+St.%20Margrethen%20SG,website not accessible
 Rigiblick Immobilien AG,"Kauf und Verkauf von eigenen Grundstücken, Gebäuden und Wohnungen",,tel:041 921 83 13,,"Obere Buechistrasse 4
 6377 Seelisberg",https://www.google.com/maps/place/Obere%20Buechistrasse%204+6377+Seelisberg,website not accessible
 Näf Tief- und Gartenbau AG,Allgemeiner Hoch- und Tiefbau ohne ausgeprägten Schwerpunkt,,tel:052 336 13 57,fax:052 336 19 40,"Ebnetstrasse 9
@@ -565,9 +565,9 @@ Binz Gastro AG,"Restaurants, Imbissstuben, Tea-Rooms und Gelaterias",http://www.
 Brennstoffe Liniger,Güterbeförderung im Strassenverkehr,,tel:032 392 45 24,fax:032 392 45 67,"Postgässli 4
 3273 Kappelen",https://www.google.com/maps/place/Postg%C3%A4ssli%204+3273+Kappelen,website not accessible
 Stähli Metallbau AG,Schlossereien,http://www.staehliag.ch/,tel:033 952 12 22,,"Lauenstrasse 53
-3855 Brienz BE",https://www.google.com/maps/place/Lauenstrasse%2053+3855+Brienz%20BE,
+3855 Brienz BE",https://www.google.com/maps/place/Lauenstrasse%2053+3855+Brienz%20BE,NA
 Ehrbar Zweiradhuus GmbH,Detailhandel mit Fahrrädern,http://www.zweiradhuus.ch/,tel:071 669 12 83,,"Bahnhofstrasse 16
-8274 Tägerwilen",https://www.google.com/maps/place/Bahnhofstrasse%2016+8274+T%C3%A4gerwilen,
+8274 Tägerwilen",https://www.google.com/maps/place/Bahnhofstrasse%2016+8274+T%C3%A4gerwilen,website not accessible
 Suter Reinigung AG,Allgemeine Gebäudereinigung,http://www.suter-reinigung.ch/,tel:062 871 90 70,,"Gerenweg 13
 5073 Gipf-Oberfrick",https://www.google.com/maps/place/Gerenweg%2013+5073+Gipf-Oberfrick,info@suter-reinigung.ch
 Vinoteca Tamborini Carlo SA,Herstellung von Traubenwein,http://www.tamborini-vini.ch/,tel:091 935 75 45,fax:091 935 75 49,"via Serta 18
@@ -575,15 +575,15 @@ Vinoteca Tamborini Carlo SA,Herstellung von Traubenwein,http://www.tamborini-vin
 New Wälti AG,Herstellung von sonstigen nicht wirtschaftszweigspezifischen Maschinen a. n. g.,,tel:052 214 31 61,fax:052 214 31 62,"Schützenstrasse 20
 8400 Winterthur",https://www.google.com/maps/place/Sch%C3%BCtzenstrasse%2020+8400+Winterthur,website not accessible
 SAN Anlagenbau GmbH,"lnstallation von Heizungs-, Lüftungs- und Klimaanlagen",http://www.san-anlagenbau.ch/,tel:052 233 88 78,fax:052 233 88 79,"In der Au 7
-8406 Winterthur",https://www.google.com/maps/place/In%20der%20Au%207+8406+Winterthur,
+8406 Winterthur",https://www.google.com/maps/place/In%20der%20Au%207+8406+Winterthur,NA
 Neon Illuma AG,Herstellung von elektrischen Lampen und Leuchten,http://www.neonilluma.ch/,tel:052 234 30 80,fax:052 234 30 89,"Breitistrasse 9
-8307 Effretikon",https://www.google.com/maps/place/Breitistrasse%209+8307+Effretikon,info@neonilluma.ch
+8307 Effretikon",https://www.google.com/maps/place/Breitistrasse%209+8307+Effretikon,mail@neonilluma.ch
 FISCHER ELECTRIC AG,Elektroinstallation,,tel:032 344 01 01,fax:032 344 01 44,"Industriestrasse 2
 2552 Orpund",https://www.google.com/maps/place/Industriestrasse%202+2552+Orpund,website not accessible
 Station Miniprix / Shop,Detailhandel mit Motorenkraftstoffen (Tankstellen),,,,"Avenue Louis-Casaï 34
 1216 Cointrin",https://www.google.com/maps/place/Avenue%20Louis-Casa%C3%AF%2034+1216+Cointrin,website not accessible
 Fiechter + Fuchs AG,Sonstiger spezialisierter Hoch- und Tiefbau a. n. g.,http://www.fiechterfuchs.ch/,tel:052 305 01 11,fax:052 305 01 12,"Aspacherstrasse 58A
-8413 Neftenbach",https://www.google.com/maps/place/Aspacherstrasse%2058A+8413+Neftenbach,
+8413 Neftenbach",https://www.google.com/maps/place/Aspacherstrasse%2058A+8413+Neftenbach,website not accessible
 3B Flachdach GmbH,Dachdeckerei,,tel:061 545 91 20,fax:061 545 91 21,"Hauptstrasse 52
 4105 Biel-Benken BL",https://www.google.com/maps/place/Hauptstrasse%2052+4105+Biel-Benken%20BL,website not accessible
 Zedrima AG,"Verwaltung von Grundstücken, Gebäuden und Wohnungen für Dritte",http://www.zedrima.ch/,tel:061 681 12 85,fax:061 681 12 83,"Riehenstrasse 74
@@ -593,7 +593,7 @@ Zedrima AG,"Verwaltung von Grundstücken, Gebäuden und Wohnungen für Dritte",h
 Albert Lüthi AG,Sanitär- und Heizungsinstallation,,tel:052 376 33 80,fax:052 376 24 18,"Hauptstrasse 2a
 8512 Thundorf",https://www.google.com/maps/place/Hauptstrasse%202a+8512+Thundorf,website not accessible
 NovaZona AG,Industrie- und Produktdesign,http://www.novazona.ch/,,,"Aemmenmattstrasse 43
-3123 Belp",https://www.google.com/maps/place/Aemmenmattstrasse%2043+3123+Belp,
+3123 Belp",https://www.google.com/maps/place/Aemmenmattstrasse%2043+3123+Belp,website not accessible
 Eugster Elektro AG,Elektroinstallation,http://www.eugster-elektro.ch/,tel:081 322 66 88,fax:081 322 66 83,"Bahnhofstrasse 40
 7302 Landquart",https://www.google.com/maps/place/Bahnhofstrasse%2040+7302+Landquart,info@eugster-elektro.ch
 Blasius Böll,Unternehmensberatung,,tel:056 496 65 30,fax:056 496 65 05,"Fischzuchtweg 3
@@ -611,11 +611,11 @@ Bauweise Holzbau AG,Allgemeiner Hochbau,,tel:026 466 88 88,fax:026 466 88 89,"Ch
 Mettler2Invest AG,"Kauf und Verkauf von eigenen Grundstücken, Gebäuden und Wohnungen",,tel:071 791 91 91,fax:071 791 91 92,"Schönbüelpark 10
 9016 St. Gallen",https://www.google.com/maps/place/Sch%C3%B6nb%C3%BCelpark%2010+9016+St.%20Gallen,website not accessible
 Lübra Apparatebau AG,Herstellung von elektrischen Haushaltsgeräten,http://www.luebra.ch/,tel:044 322 66 44,fax:044 322 66 48,"Heerenwiesenstrasse 18
-8051 Zürich",https://www.google.com/maps/place/Heerenwiesenstrasse%2018+8051+Z%C3%BCrich,leineklammer@2x.pjpeg
+8051 Zürich",https://www.google.com/maps/place/Heerenwiesenstrasse%2018+8051+Z%C3%BCrich,klima2@2x.pjpeg
 Michael von Känel Gebäudeunterhalt,Bauspenglerei,http://www.m-vonkaenel.ch/,,,"Allmistrasse 6
 3722 Scharnachtal",https://www.google.com/maps/place/Allmistrasse%206+3722+Scharnachtal,info@m-vonkaenel.ch
 Lüthi Elektro Kirchberg AG,Elektroinstallation,http://www.luethi-elektro.ch/,tel:034 447 77 77,fax:034 447 77 71,"Industrie Neuhof 4
-3422 Kirchberg BE",https://www.google.com/maps/place/Industrie%20Neuhof%204+3422+Kirchberg%20BE,Ansprechpartner_Foto_Website_groesse-1fabe1e1-e06a5fbe@387w.jpg
+3422 Kirchberg BE",https://www.google.com/maps/place/Industrie%20Neuhof%204+3422+Kirchberg%20BE,Luethi_Elektro_Dartis_AG_Hauptseite-11fd2e5f-e06a5fbe@828w2x.jpg
 BB Bauunternehmung AG,Sonstiger spezialisierter Hoch- und Tiefbau a. n. g.,http://www.bb-bauunternehmung.ch/,tel:044 500 31 64,fax:044 500 31 65,"Hohlstrasse 192
 8004 Zürich",https://www.google.com/maps/place/Hohlstrasse%20192+8004+Z%C3%BCrich,bad link
 SHK Schäuble GmbH,Sanitär- und Heizungsinstallation,,tel:071 511 73 00,,"Bahnhofstrasse 33b
@@ -625,28 +625,28 @@ SHK Schäuble GmbH,Sanitär- und Heizungsinstallation,,tel:071 511 73 00,,"Bahnh
 H.P. Kohler,"Dämmung gegen Kälte, Wärme, Schall und Erschütterung",,tel:044 734 28 68,fax:044 734 28 88,"Schönenwerdstrasse 9
 8902 Urdorf",https://www.google.com/maps/place/Sch%C3%B6nenwerdstrasse%209+8902+Urdorf,website not accessible
 Käser Fahrzeugbau GmbH,lnstandhaltung und Reparatur von Automobilen,http://www.kaeserfahrzeugbau.ch/,tel:061 913 96 50,fax:061 913 96 51,"Oristalstrasse 23
-4412 Nuglar",https://www.google.com/maps/place/Oristalstrasse%2023+4412+Nuglar,
+4412 Nuglar",https://www.google.com/maps/place/Oristalstrasse%2023+4412+Nuglar,website not accessible
 Burgfluh Pneuserv.+ Autozub.,lnstandhaltung und Reparatur von Automobilen,,tel:041 820 55 71,,"Gersauerstrasse 82
 6440 Brunnen",https://www.google.com/maps/place/Gersauerstrasse%2082+6440+Brunnen,website not accessible
 Restaurant Le Chalet,"Hotels, Gasthöfe und Pensionen mit Restaurant",http://www.hoteldesiree.ch/,tel:027 956 30 60,,"im Hotel Desirée
 3925 Grächen",https://www.google.com/maps/place/im%20Hotel%20Desir%C3%A9e+3925+Gr%C3%A4chen,Family_Destination@2x.png
 Fussballclub Dürrenast,Sportvereine,http://www.fcduerrenast.ch/,tel:033 335 81 86,,3604 Thun,https://www.google.com/maps/place/undefined+3604+Thun,bad link
 Bodenmarkt by GSoG GmbH,Aktivitäten der Generalunternehmen im Baugewerbe,http://www.bodenmarkt.ch/,tel:041 612 25 00,fax:041 612 25 01,"Allwegmatte 3
-6372 Ennetmoos",https://www.google.com/maps/place/Allwegmatte%20%203+6372+Ennetmoos,
+6372 Ennetmoos",https://www.google.com/maps/place/Allwegmatte%20%203+6372+Ennetmoos,NA
 Blumenecke,Detailhandel mit Blumen und Pflanzen,,tel:055 283 25 52,,"Dorfstrasse 17
 8722 Kaltbrunn",https://www.google.com/maps/place/Dorfstrasse%2017+8722+Kaltbrunn,website not accessible
 Heinz Winterberg,Verlegen von Fussboden,,tel:055 414 13 45,,"Quellenweg 25
 8845 Studen SZ",https://www.google.com/maps/place/Quellenweg%2025+8845+Studen%20SZ,website not accessible
 Keller Holzbau AG,"Holzbau, Zimmerei",http://www.holzleimbau.ch/,tel:071 966 26 11,,"Wilerstrasse 82
-8370 Sirnach",https://www.google.com/maps/place/Wilerstrasse%2082+8370+Sirnach,
+8370 Sirnach",https://www.google.com/maps/place/Wilerstrasse%2082+8370+Sirnach,website not accessible
 KMS Kipperbetrieb Michael Schöni,Güterbeförderung im Strassenverkehr,,,,"Rohr 12
 4713 Matzendorf",https://www.google.com/maps/place/Rohr%2012+4713+Matzendorf,website not accessible
 Brunner + Herzog Wellness GmbH,Grosshandel mit Holz und Bauelementen aus Holz,http://www.wellness-service.ch/,tel:052 511 03 03,,"Hauptstrasse 4
-8554 Bonau",https://www.google.com/maps/place/Hauptstrasse%204+8554+Bonau,
+8554 Bonau",https://www.google.com/maps/place/Hauptstrasse%204+8554+Bonau,NA
 Restaurant Ochsen,"Hotels, Gasthöfe und Pensionen mit Restaurant",http://www.ochsenmenzingen.ch/,tel:041 755 13 88,fax:041 755 31 88,"Neudorfstrasse 11
 6313 Menzingen",https://www.google.com/maps/place/Neudorfstrasse%2011+6313+Menzingen,info@ochsenmenzingen.ch
 Hauri Bautechnik AG,"Sonstiger Detailhandel mit Metallwaren, Anstrichmitteln, Bau- und Heimwerkerbedarf",http://www.hauri-bautechnik.ch/,tel:044 954 84 84,fax:044 954 84 85,"Allmendstrasse 19
-8320 Fehraltorf",https://www.google.com/maps/place/Allmendstrasse%2019+8320+Fehraltorf,info@bauwerkzeuge.ch
+8320 Fehraltorf",https://www.google.com/maps/place/Allmendstrasse%2019+8320+Fehraltorf,johndoe@domain.com
 Rössli Ins Restaurant & Bar,"Restaurants, Imbissstuben, Tea-Rooms und Gelaterias",http://www.xn--rssli-jua.ch/,tel:032 313 15 64,fax:032 313 45 64,"Dorfstrasse 2
 3232 Ins",https://www.google.com/maps/place/Dorfstrasse%202+3232+Ins,bad link
 Ganija Immobilien AG,Vermietung und Verpachtung von eigenen oder geleasten Gebäuden und Wohnungen,,tel:052 222 40 50,fax:052 222 54 25,"Oberohringen
@@ -660,7 +660,7 @@ Beni Group GmbH,Allgemeiner Hochbau,,tel:056 247 06 06,,"Grossmattstrasse 18
 Umbrella Group GmbH,Sonstige technische Beratung und Planung,http://www.umbrellogroup.ch/,tel:044 515 65 44,,"Riedstrasse 6
 8953 Dietikon",https://www.google.com/maps/place/Riedstrasse%206+8953+Dietikon,website not accessible
 Schraff + Müller GmbH,Garten- und Landschaftsbau sowie Erbringung von sonstigen gärtnerischen Dienstleistungen,http://www.schraffmueller.ch/,tel:052 681 54 61,fax:052 682 16 87,"Werkstrasse 5
-8222 Beringen",https://www.google.com/maps/place/Werkstrasse%205+8222+Beringen,
+8222 Beringen",https://www.google.com/maps/place/Werkstrasse%205+8222+Beringen,NA
 bp Tankstelle Mörel,Detailhandel mit Motorenkraftstoffen (Tankstellen),,,,"Furkastrasse 7
 3983 Mörel",https://www.google.com/maps/place/Furkastrasse%207+3983+M%C3%B6rel,website not accessible
 Addea Decor AG,Grosshandel mit Geschenkartikeln und Souvenirs,http://www.addea-decor.ch/,tel:062 737 85 25,fax:062 737 85 26,"Nidermattstrasse 6
@@ -674,7 +674,7 @@ Hippo GmbH,"Handel mit Motorrädern, Kraftradteilen und -zubehör; Instandhaltun
 Soba International Trading AG,Detailhandel mit elektrischen Haushaltsgeräten,http://www.soba-swiss.ch/,tel:041 760 45 54,fax:041 760 61 05,"Langackerstrasse 37
 6330 Cham",https://www.google.com/maps/place/Langackerstrasse%2037+6330+Cham,Andrea.keller@soba-swiss.ch
 Krüger & Co.AG,Sonstiger spezialisierter Hoch- und Tiefbau a. n. g.,http://www.krueger.ch/,tel:071 372 82 82,fax:071 372 82 52,"Winterhaldenstrasse 11
-9113 Degersheim",https://www.google.com/maps/place/Winterhaldenstrasse%2011+9113+Degersheim,website not accessible
+9113 Degersheim",https://www.google.com/maps/place/Winterhaldenstrasse%2011+9113+Degersheim,info@krueger.ch
 GH S.A.,Reparatur von Maschinen,,tel:024 424 88 70,fax:024 424 88 77,"les Champs-Lovats 12
 1400 Yverdon-les-Bains",https://www.google.com/maps/place/les%20Champs-Lovats%2012+1400+Yverdon-les-Bains,website not accessible
 Lädrach Holzbau AG,"Holzbau, Zimmerei",http://www.laedrach.ch/,tel:031 791 11 11,fax:031 791 25 62,"Katzengässli 7
@@ -682,7 +682,7 @@ Lädrach Holzbau AG,"Holzbau, Zimmerei",http://www.laedrach.ch/,tel:031 791 11 1
 Pirmona AG,Haltung von Schweinen,,tel:056 668 27 85,,"Grünau
 5642 Mühlau",https://www.google.com/maps/place/Gr%C3%BCnau+5642+M%C3%BChlau,website not accessible
 Auto-Center Ebikon AG,"Handelsvermittlung und Grosshandel mit Automobilen mit einem Gesamtgewicht von 3,5 t oder weniger",http://www.ac-ebikon.ch/,tel:041 440 05 70,,"Alfred Schindlerstrasse 25
-6030 Ebikon",https://www.google.com/maps/place/Alfred%20Schindlerstrasse%2025+6030+Ebikon,
+6030 Ebikon",https://www.google.com/maps/place/Alfred%20Schindlerstrasse%2025+6030+Ebikon,website not accessible
 Grüter Architektur AG,Architekturbüros,,tel:041 910 47 88,fax:041 910 47 16,"Kleinwangenstrasse 34
 6280 Hochdorf",https://www.google.com/maps/place/Kleinwangenstrasse%2034+6280+Hochdorf,website not accessible
 Brechbühl AG,Sanitär- und Heizungsinstallation,,tel:031 791 14 12,fax:031 791 30 86,"Freimettigenstrasse 12
@@ -692,11 +692,11 @@ Outlook Immobilien AG,"Kauf und Verkauf von eigenen Grundstücken, Gebäuden und
 CS Baukeramik GmbH,Verlegen von Fliesen und Platten,http://www.cs-baukeramik.ch/,tel:081 353 70 30,fax:081 353 66 54,"Bahnhofstrasse 2
 7203 Trimmis",https://www.google.com/maps/place/Bahnhofstrasse%202+7203+Trimmis,605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com
 Studio Creativo GmbH,Erbringung von Beratungsleistungen auf dem Gebiet der Informationstechnologie,http://www.studiocreativo.ch/,tel:041 448 48 02,,"Seetalstrasse 55
-6274 Eschenbach LU",https://www.google.com/maps/place/Seetalstrasse%2055+6274+Eschenbach%20LU,
+6274 Eschenbach LU",https://www.google.com/maps/place/Seetalstrasse%2055+6274+Eschenbach%20LU,website not accessible
 Quartier d'Affaires,Sonstige Interessenvertretungen und Vereinigungen a. n. g.,http://www.quartierdaffaires.ch/,tel:079 422 19 55,,"Rue du Chanoine Broquet 2
-1890 St-Maurice",https://www.google.com/maps/place/Rue%20du%20Chanoine%20Broquet%202+1890+St-Maurice,
+1890 St-Maurice",https://www.google.com/maps/place/Rue%20du%20Chanoine%20Broquet%202+1890+St-Maurice,website not accessible
 Addimat AG,Herstellung von Maschinen für die Nahrungs- und Genussmittelerzeugung und die Tabakverarbeitung,http://www.addimat.ch/,tel:031 838 50 00,fax:031 838 50 10,"Neufeldstrasse 2
-3076 Worb",https://www.google.com/maps/place/Neufeldstrasse%202+3076+Worb,
+3076 Worb",https://www.google.com/maps/place/Neufeldstrasse%202+3076+Worb,website not accessible
 ESZ Klapptisch GmbH,Vermietung von sonstigen Gebrauchsgütern,,tel:041 467 04 10,fax:041 467 04 11,"Maiengrün 3
 6206 Neuenkirch",https://www.google.com/maps/place/Maiengr%C3%BCn%203+6206+Neuenkirch,website not accessible
 Munz Enterprises Install.AG,Elektroinstallation,,tel:071 971 25 60,fax:071 971 25 62,"Riesenbergstrasse 2
@@ -718,7 +718,7 @@ HUK Huwyler-Klima GmbH,"lnstallation von Heizungs-, Lüftungs- und Klimaanlagen"
 B. Rüdisüli AG,Bewertungen,http://http//www.ruedi.ch,tel:055 225 50 00,fax:055 225 50 09,"Gublenstrasse 1
 8733 Eschenbach SG",https://www.google.com/maps/place/Gublenstrasse%201+8733+Eschenbach%20SG,website not accessible
 Max Müller AG St.Gallen,Güterbeförderung im Strassenverkehr,http://www.mueller-transport.ch/,tel:071 282 50 82,,"Martinsbruggstrasse 98
-9016 St. Gallen",https://www.google.com/maps/place/Martinsbruggstrasse%2098+9016+St.%20Gallen,dispo@mueller-transport.ch
+9016 St. Gallen",https://www.google.com/maps/place/Martinsbruggstrasse%2098+9016+St.%20Gallen,website not accessible
 Pizzeria Seeland AG,"Restaurants, Imbissstuben, Tea-Rooms und Gelaterias",http://www.pizzeria-seeland.ch/,tel:032 322 27 11,fax:032 322 27 12,"Bahnhofplatz 7
 2502 Biel/Bienne",https://www.google.com/maps/place/Bahnhofplatz%207+2502+Biel/Bienne,info@pizzeria-seeland.ch
 Baustoff Birmenstorf AG,Grosshandel mit Baustoffen,http://www.baustoff-ag.ch/,tel:056 225 20 20,fax:056 225 20 21,"Lindmühliweg 1
@@ -732,7 +732,7 @@ Gügler Partner Immobilien AG,"Vermittlung von Grundstücken, Gebäuden und Wohn
 Pietro Di Cea,Güterbeförderung im Strassenverkehr,,,,"Bernstrasse 10a
 4852 Rothrist",https://www.google.com/maps/place/Bernstrasse%2010a+4852+Rothrist,website not accessible
 Christophe Rudaz Sàrl,Verlegen von Fussboden,http://www.christopherudaz.ch/,tel:027 455 81 70,,"Rue Edmond-Bille 28
-3960 Sierre",https://www.google.com/maps/place/Rue%20Edmond-Bille%2028+3960+Sierre,
+3960 Sierre",https://www.google.com/maps/place/Rue%20Edmond-Bille%2028+3960+Sierre,website not accessible
 Garage Jüni AG,lnstandhaltung und Reparatur von Automobilen,http://www.garagejueniag.ch/,tel:031 751 04 56,fax:031 751 37 35,"Stationsstrasse 8
 3204 Rosshäusern",https://www.google.com/maps/place/Stationsstrasse%208+3204+Rossh%C3%A4usern,info@garagejueniag.ch
 Erich Studer AC-BAU-Partner,Inserate,http://www.ac-bau.ch/,tel:062 393 01 46,,"Rainackerstrasse 13
@@ -748,7 +748,7 @@ Storit-Werke AG,Herstellung von Verpackungsmitteln aus Kunststoffen,,tel:081 750
 Bäckerei Konditorei LINDER GmbH,Herstellung von Backwaren (ohne Dauerbackwaren),,,,"Bernstrasse 309a
 3627 Heimberg",https://www.google.com/maps/place/Bernstrasse%20309a+3627+Heimberg,website not accessible
 Creative Haus GmbH,Architekturbüros,http://www.creative-haus.ch/,tel:062 825 07 07,fax:062 825 07 05,"Nüberichstrasse 12
-5024 Küttigen",https://www.google.com/maps/place/N%C3%BCberichstrasse%2012+5024+K%C3%BCttigen,
+5024 Küttigen",https://www.google.com/maps/place/N%C3%BCberichstrasse%2012+5024+K%C3%BCttigen,NA
 Dia Bau GmbH,Maurerarbeiten,,,,"Suurstoffi 5
 6343 Rotkreuz",https://www.google.com/maps/place/Suurstoffi%205+6343+Rotkreuz,website not accessible
 Beat Schmid,Wirtschaftsprüfung und Steuerberatung; Buchführung; Treuhandgesellschaften,,tel:033 335 02 34,fax:033 335 02 35,"Rathausstrasse 20
@@ -756,15 +756,15 @@ Beat Schmid,Wirtschaftsprüfung und Steuerberatung; Buchführung; Treuhandgesell
 Gasthaus zur Brugg GmbH,"Restaurants, Imbissstuben, Tea-Rooms und Gelaterias",http://www.zurbrugg.ch/,tel:079 688 95 48,,"Bruggerstrasse 103
 5400 Baden",https://www.google.com/maps/place/Bruggerstrasse%20103+5400+Baden,info@zurbrugg.ch
 PK Bau AG Schüpfheim,Allgemeiner Hoch- und Tiefbau ohne ausgeprägten Schwerpunkt,http://www.pkbau.com/,tel:041 484 25 55,fax:041 484 35 50,"Bahnhofstrasse 6
-6170 Schüpfheim",https://www.google.com/maps/place/Bahnhofstrasse%206+6170+Sch%C3%BCpfheim,
+6170 Schüpfheim",https://www.google.com/maps/place/Bahnhofstrasse%206+6170+Sch%C3%BCpfheim,NA
 Dr.med.dent. Susan Oswald,Medizinische Labors,http://www.zuerisee-laserdentist.ch/,tel:044 301 26 02,fax:044 301 27 08,"Seestrasse 137
-8700 Küsnacht ZH",https://www.google.com/maps/place/Seestrasse%20137+8700+K%C3%BCsnacht%20ZH,
+8700 Küsnacht ZH",https://www.google.com/maps/place/Seestrasse%20137+8700+K%C3%BCsnacht%20ZH,NA
 Ofenbau Burri AG,Herstellung von Öfen und Brennern,,tel:041 458 14 52,fax:041 458 16 52,"Grossweid 6
 6026 Rain",https://www.google.com/maps/place/Grossweid%206+6026+Rain,website not accessible
 Rudolf Rohr,Herstellung von sonstigen konfektionierten Textilwaren (ohne Bekleidung),http://www.fahnen-rohr.ch/,tel:071 422 33 31,fax:071 422 20 86,"Hauptstrasse 59
 9213 Hauptwil",https://www.google.com/maps/place/Hauptstrasse%2059+9213+Hauptwil,info@fahnen-rohr.ch
 scheller-technik ag sta,Grosshandel mit sonstigen Maschinen und Ausrüstungen,http://www.scheller-technik.ch/,tel:044 809 40 40,fax:044 810 41 51,"Bramenstrasse 11
-8184 Bachenbülach",https://www.google.com/maps/place/Bramenstrasse%2011+8184+Bachenb%C3%BClach,info@scheller-technik.ch
+8184 Bachenbülach",https://www.google.com/maps/place/Bramenstrasse%2011+8184+Bachenb%C3%BClach,schellertechnik@lippads.ch
 Hetex Färberei AG,Elektrizitätserzeugung,,,,"Lenzburgerstrasse 2
 5702 Niederlenz",https://www.google.com/maps/place/Lenzburgerstrasse%202+5702+Niederlenz,website not accessible
 Mathis Flachdach AG,Dachdeckerei,http://www.mathis-flachdach.ch/,tel:041 666 50 50,fax:041 666 50 51,"Steinhausstrasse 4
@@ -772,9 +772,9 @@ Mathis Flachdach AG,Dachdeckerei,http://www.mathis-flachdach.ch/,tel:041 666 50 
 Ganz & Co. AG,Grosshandel mit Baustoffen,http://www.pgb.ch/,tel:071 282 85 77,fax:071 282 85 01,"Simonstrasse 10
 9016 St. Gallen",https://www.google.com/maps/place/Simonstrasse%20%2010+9016+St.%20Gallen,marketing@pgb.ch
 Valcalorie SA,"lnstallation von Heizungs-, Lüftungs- und Klimaanlagen",http://www.valcalorie.ch/,tel:027 203 35 15,fax:027 203 35 16,"Route de Bramois 2
-1950 Sion",https://www.google.com/maps/place/Route%20de%20Bramois%202+1950+Sion,
+1950 Sion",https://www.google.com/maps/place/Route%20de%20Bramois%202+1950+Sion,website not accessible
 Spälti Elektro AG,Grosshandel mit sonstigen Maschinen und Ausrüstungen,http://www.spaelti-ag.ch/,tel:044 938 80 90,fax:044 938 80 92,"Wässeristrasse 25
-8340 Hinwil",https://www.google.com/maps/place/W%C3%A4sseristrasse%2025+8340+Hinwil,
+8340 Hinwil",https://www.google.com/maps/place/W%C3%A4sseristrasse%2025+8340+Hinwil,NA
 Marino Bernasconi SA,Mechanische Werkstätten,http://www.marinobernasconi.ch/,tel:091 935 40 50,fax:091 935 40 55,"Via Argine 3
 6930 Bedano",https://www.google.com/maps/place/Via%20Argine%203+6930+Bedano,info@marinobernasconi.ch
 AZIRI BOEDEN GmbH,Sonstiger spezialisierter Hoch- und Tiefbau a. n. g.,,tel:061 481 89 52,fax:061 481 89 52,"Augsterstrasse 46
@@ -782,11 +782,11 @@ AZIRI BOEDEN GmbH,Sonstiger spezialisierter Hoch- und Tiefbau a. n. g.,,tel:061 
 Somdetyas Stiftung,Sonstige Interessenvertretungen und Vereinigungen a. n. g.,,,,"Im Grund 7
 5014 Gretzenbach",https://www.google.com/maps/place/Im%20Grund%207+5014+Gretzenbach,website not accessible
 SSI Schäfer AG,Grosshandel mit Büromöbeln,http://www.ssi-schaefer.com/,tel:052 687 32 32,fax:052 681 36 68,"Schaffhauserstrasse 10
-8213 Neunkirch",https://www.google.com/maps/place/Schaffhauserstrasse%2010+8213+Neunkirch,
+8213 Neunkirch",https://www.google.com/maps/place/Schaffhauserstrasse%2010+8213+Neunkirch,website not accessible
 Max Helbling,"Sonstiger Detailhandel mit Metallwaren, Anstrichmitteln, Bau- und Heimwerkerbedarf",,tel:044 836 66 55,fax:044 836 81 10,"Hatzenbühl 56
 8309 Nürensdorf",https://www.google.com/maps/place/Hatzenb%C3%BChl%2056+8309+N%C3%BCrensdorf,website not accessible
 Markinf GmbH,Erbringung von Beratungsleistungen auf dem Gebiet der Informationstechnologie,http://www.markinf.ch/,tel:062 842 99 00,,"Unterdorfstrasse 4
-5722 Gränichen",https://www.google.com/maps/place/Unterdorfstrasse%204+5722+Gr%C3%A4nichen,
+5722 Gränichen",https://www.google.com/maps/place/Unterdorfstrasse%204+5722+Gr%C3%A4nichen,NA
 Glauser Bau AG,Allgemeiner Hoch- und Tiefbau ohne ausgeprägten Schwerpunkt,,tel:031 381 00 25,,"Freiburgstrasse 177
 3008 Bern",https://www.google.com/maps/place/Freiburgstrasse%20177+3008+Bern,website not accessible
 Müller Bauuntern. Wittinsburg GmbH,Allgemeiner Hochbau,,tel:062 299 03 33,,"Lachenstrasse 3
@@ -796,17 +796,17 @@ Bäckerei-Konditorei Funk GmbH,Herstellung von Backwaren (ohne Dauerbackwaren),,
 Promostich,Detailhandel mit Textilien,,tel:044 734 30 08,fax:044 734 30 16,"Kirchgasse 16
 8902 Urdorf",https://www.google.com/maps/place/Kirchgasse%2016+8902+Urdorf,website not accessible
 Bettenland Kirchberg,"Grosshandel mit Möbeln, Teppichen, Lampen und Leuchten",http://www.bettenland.ch/,tel:034 445 09 19,,"Industrie Neuhof 21
-3422 Kirchberg BE",https://www.google.com/maps/place/Industrie%20Neuhof%2021+3422+Kirchberg%20BE,
+3422 Kirchberg BE",https://www.google.com/maps/place/Industrie%20Neuhof%2021+3422+Kirchberg%20BE,website not accessible
 Highendstudio AG,Detailhandel mit Geräten der Unterhaltungselektronik,http://www.highendstudio.ch/,tel:062 794 00 60,fax:062 794 07 54,"Badstrasse 4
 4932 Gutenburg",https://www.google.com/maps/place/Badstrasse%204+4932+Gutenburg,bad link
 Filliger & Partner AG,Malerei und Gipserei ohne ausgeprägten Schwerpunkt,http://www.filliger-partner.ch/,tel:041 611 00 15,fax:041 611 00 16,"Gruobstrasse 52
 6372 Ennetmoos",https://www.google.com/maps/place/Gruobstrasse%2052+6372+Ennetmoos,info@filliger-partner.ch
 Thomas Gerber,Tätigkeit von Versicherungsmaklerinnen und -maklern,http://www.horizont-makler.ch/,tel:031 721 40 55,fax:031 721 40 56,"Mühlestutz 6A
-3110 Münsingen",https://www.google.com/maps/place/M%C3%BChlestutz%206A+3110+M%C3%BCnsingen,
+3110 Münsingen",https://www.google.com/maps/place/M%C3%BChlestutz%206A+3110+M%C3%BCnsingen,NA
 Hammersafe Burgdorf,Grosshandel mit Büromöbeln,http://www.hammersafe.ch/,tel:034 422 29 89,,"Kirchberstrasse 105
 3400 Burgdorf",https://www.google.com/maps/place/Kirchberstrasse%20105+3400+Burgdorf,mail@hammersafe.ch
 Urs Zürrer Textildruck,Werbeagenturen,http://www.malen4you.ch/,tel:044 730 77 22,fax:044 730 77 32,"Schulstrasse 2
-8952 Schlieren",https://www.google.com/maps/place/Schulstrasse%202+8952+Schlieren,8c4075d5481d476e945486754f783364@sentry.io
+8952 Schlieren",https://www.google.com/maps/place/Schulstrasse%202+8952+Schlieren,605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com
 Immo-Haus L.Zangger,Grosshandel mit sonstigen Nahrungs- und Genussmitteln,http://www.immo-haus.ch/,tel:055 284 19 59,fax:055 284 28 59,"Sonnenbergstrasse 38
 8725 Gebertingen",https://www.google.com/maps/place/Sonnenbergstrasse%2038+8725+Gebertingen,bad link
 Bracher + Pt.Totaluntern.AG,Aktivitäten der Generalunternehmen im Baugewerbe,,tel:032 625 95 65,fax:032 625 95 90,"Weissensteinstrasse 15
@@ -816,7 +816,7 @@ Korsan AG,Be- und Verarbeitung von Naturwerksteinen und Natursteinen a. n. g.,,t
 Blumenberg Immobilien AG,"Verwaltung von Grundstücken, Gebäuden und Wohnungen für Dritte",,,,"Böhlstrasse 28
 9300 Wittenbach",https://www.google.com/maps/place/B%C3%B6hlstrasse%2028+9300+Wittenbach,website not accessible
 Siegrist & Tschuor AG,Malerei und Gipserei ohne ausgeprägten Schwerpunkt,http://www.siegrist-tschuor.ch/,tel:062 296 35 65,fax:062 296 56 80,"Fustlighalde 26
-4600 Olten",https://www.google.com/maps/place/Fustlighalde%2026+4600+Olten,info@neba.ch
+4600 Olten",https://www.google.com/maps/place/Fustlighalde%2026+4600+Olten,baer@baerdachtechnik.ch
 Bauunternehmung Vetsch Klosters AG,Allgemeiner Hoch- und Tiefbau ohne ausgeprägten Schwerpunkt,,tel:081 422 14 48,,"Kantonsstrasse 2
 7252 Klosters Dorf",https://www.google.com/maps/place/Kantonsstrasse%202+7252+Klosters%20Dorf,website not accessible
 Salisol GmbH,"lnstallation von Heizungs-, Lüftungs- und Klimaanlagen",,tel:052 317 38 63,,"Espelstrasse 25
@@ -830,21 +830,21 @@ Hans Arnold Baugeschäft AG,Allgemeiner Hoch- und Tiefbau ohne ausgeprägten Sch
 Peter Schmid,Detailhandel mit Sportartikeln,,,,"Böschacherstrasse 8
 8624 Grüt (Gossau ZH)",https://www.google.com/maps/place/B%C3%B6schacherstrasse%208+8624+Gr%C3%BCt%20(Gossau%20ZH),website not accessible
 MS Bielersee GmbH,Personenbeförderung in der Binnenschifffahrt,http://www.aufdembielersee.ch/,tel:032 315 19 00,,"Dorfgasse 36a
-2513 Twann",https://www.google.com/maps/place/Dorfgasse%2036a+2513+Twann,
+2513 Twann",https://www.google.com/maps/place/Dorfgasse%2036a+2513+Twann,NA
 Bösiger Motorsport AG,Vermietung von Sport- und Freizeitgeräten,http://www.pneuboesiger.ch/,tel:062 919 01 10,,"Bleienbachstrasse 17
 4900 Langenthal",https://www.google.com/maps/place/Bleienbachstrasse%2017+4900+Langenthal,b.leandro@boesiger-langenthal.ch
 VB CREATION SA,Bau-Ingenieurbüros,http://www.vbcreation.ch/,tel:024 471 52 70,,"Rue des Colombes 11
 1868 Collombey",https://www.google.com/maps/place/Rue%20des%20Colombes%2011+1868+Collombey,info@vbcreation.ch
 Association du Rallye du Valais,Erbringung von Dienstleistungen der Unterhaltung und der Erholung a. n. g.,http://www.riv.ch/,tel:027 565 79 78,,"En Propèses 7
-1868 Collombey",https://www.google.com/maps/place/En%20Prop%C3%A8ses%207+1868+Collombey,
+1868 Collombey",https://www.google.com/maps/place/En%20Prop%C3%A8ses%207+1868+Collombey,website not accessible
 Electro Wettstein SA,Elektroinstallation,http://www.ewsa.ch/,tel:081 659 12 22,fax:081 659 12 26,"Vea Jerts 222
 7457 Bivio",https://www.google.com/maps/place/Vea%20Jerts%20222+7457+Bivio,info@electro-wettstein.ch
 Cigar-Art,Detailhandel mit Tabakwaren,http://www.cigar-art.com/,tel:061 685 90 95,fax:061 685 90 91,"Amerbachstrasse 72
-4057 Basel",https://www.google.com/maps/place/Amerbachstrasse%2072+4057+Basel,
+4057 Basel",https://www.google.com/maps/place/Amerbachstrasse%2072+4057+Basel,website not accessible
 Garage Alizé SA,lnstandhaltung und Reparatur von Automobilen,http://www.garage-alize.ch/,tel:024 473 74 64,fax:024 473 74 60,"Entre deux Fossaux 5
 1868 Collombey",https://www.google.com/maps/place/Entre%20deux%20Fossaux%205+1868+Collombey,info@garage-alize.ch
 Kehrer Stebler AG Metallbau,Herstellung von sonstigen Erzeugnissen a. n. g.,http://www.kehrerstebler.ch/,tel:062 388 42 42,fax:062 388 42 40,"Südringstrasse 6
-4702 Oensingen",https://www.google.com/maps/place/S%C3%BCdringstrasse%206+4702+Oensingen,
+4702 Oensingen",https://www.google.com/maps/place/S%C3%BCdringstrasse%206+4702+Oensingen,info@stebler.ch
 Bergacker Immo AG,"Verwaltung von Grundstücken, Gebäuden und Wohnungen für Dritte",,tel:034 447 16 01,,"Bernstrasse 1
 3421 Lyssach",https://www.google.com/maps/place/Bernstrasse%201+3421+Lyssach,website not accessible
 Steffen AG Optik Uhren Schmuck,Bewertungen,http://www.steffenag.ch/,tel:041 490 14 08,fax:041 490 14 18,"Menznauerstrasse 19
@@ -856,9 +856,9 @@ Garage Rheingold A. Hagen,lnstandhaltung und Reparatur von Automobilen,,tel:052 
 Meister Kälte + Klima GmbH,"lnstallation von Heizungs-, Lüftungs- und Klimaanlagen",http://www.meister-kaelte.ch/,tel:056 426 64 42,,"Industriestrasse 17
 5432 Neuenhof",https://www.google.com/maps/place/Industriestrasse%2017+5432+Neuenhof,info@meister-kaelte.ch
 Degiacomi Schuhmode GmbH,Detailhandel mit medizinischen und orthopädischen Artikeln,http://www.degiacomi.ch/,tel:081 250 11 00,fax:081 250 11 01,"Obere Gasse 9
-7000 Chur",https://www.google.com/maps/place/Obere%20Gasse%209+7000+Chur,
+7000 Chur",https://www.google.com/maps/place/Obere%20Gasse%209+7000+Chur,NA
 MW Handels AG,Sonstiger Detailhandel mit Waren verschiedener Art a.n.g,http://www.mw-handels.ch/,tel:041 763 19 50,fax:041 763 19 51,"Oberneuhofstrasse 6
-6341 Baar",https://www.google.com/maps/place/Oberneuhofstrasse%206+6341+Baar,
+6341 Baar",https://www.google.com/maps/place/Oberneuhofstrasse%206+6341+Baar,NA
 Crea-Tifs Coiffure et Beauté,Coiffeursalons,,tel:027 455 92 93,,"Gemmistrasse 65
 3970 Salgesch",https://www.google.com/maps/place/Gemmistrasse%2065+3970+Salgesch,website not accessible
 Immobilienmakler Schweiz,"Vermittlung von Grundstücken, Gebäuden und Wohnungen für Dritte",http://www.haus-verkaufen-schweiz.ch/,,,"Oberwiesenstrasse 50
@@ -878,13 +878,13 @@ Fritz Schneeberger,Grosshandel mit lebenden Tieren,,tel:034 415 11 23,,"Dorf 13
 Karl Kröll,"Einbau von Fenster, Türen und Innenausbau, Einbauküchen, Einbaumöbel",,,,"Silostrasse 9
 4950 Huttwil",https://www.google.com/maps/place/Silostrasse%209+4950+Huttwil,website not accessible
 Brodmann City Service AG,Detailhandel mit Schreibwaren und Bürobedarf,http://www.papeterie-brodmann.ch/,tel:034 422 44 22,,"Hunyadigässli 4a
-3400 Burgdorf",https://www.google.com/maps/place/Hunyadig%C3%A4ssli%204a+3400+Burgdorf,
+3400 Burgdorf",https://www.google.com/maps/place/Hunyadig%C3%A4ssli%204a+3400+Burgdorf,website not accessible
 Peko Rollen Peter Köppel AG,"Herstellung von Lagern, Getrieben, Zahnrädern und Antriebselementen",,tel:071 888 08 44,fax:071 888 08 47,"Langenhagstrasse 13
 9424 Rheineck",https://www.google.com/maps/place/Langenhagstrasse%2013+9424+Rheineck,website not accessible
 Auto Dürst GmbH,"Detailhandel mit Automobilen mit einem Gesamtgewicht von 3,5 t oder weniger",http://www.autoduerst.ch/,tel:081 330 62 62,fax:081 330 62 63,"Herawisweg 34
-7203 Trimmis",https://www.google.com/maps/place/Herawisweg%2034+7203+Trimmis,
+7203 Trimmis",https://www.google.com/maps/place/Herawisweg%2034+7203+Trimmis,website not accessible
 Schreinerei Meier GmbH,"Bauschreinerei, Fenster und Türen",http://www.meierschreinerei.ch/,tel:062 295 29 53,fax:062 295 27 38,"Dullikerstrasse 14
-4653 Obergösgen",https://www.google.com/maps/place/Dullikerstrasse%2014+4653+Oberg%C3%B6sgen,
+4653 Obergösgen",https://www.google.com/maps/place/Dullikerstrasse%2014+4653+Oberg%C3%B6sgen,website not accessible
 W. Scheidegger,Siebdruck,,tel:052 640 28 44,,"Mühlentalstrasse 274
 8200 Schaffhausen",https://www.google.com/maps/place/M%C3%BChlentalstrasse%20274+8200+Schaffhausen,website not accessible
 Gerhard Bitter,"Holzbau, Zimmerei",,tel:062 777 06 80,fax:062 777 06 85,"Alte Seetalstrasse 2
@@ -898,7 +898,7 @@ Landgasthof Garmiswil,"Restaurants, Imbissstuben, Tea-Rooms und Gelaterias",http
 Konfi Manufaktur AG,Sonstige Verarbeitung von Obst und Gemüse,,tel:079 382 90 80,,"Hauptstrasse 38
 5027 Herznach",https://www.google.com/maps/place/Hauptstrasse%2038+5027+Herznach,website not accessible
 Garage Dubach AG,lnstandhaltung und Reparatur von Automobilen,http://www.garage-dubach.ch/,tel:062 388 50 00,fax:062 388 50 01,"Oltenstrasse 9
-4702 Oensingen",https://www.google.com/maps/place/Oltenstrasse%209+4702+Oensingen,
+4702 Oensingen",https://www.google.com/maps/place/Oltenstrasse%209+4702+Oensingen,info@garage-dubach.ch
 Adalbert Enz,Erbringung sonstiger Verpflegungsdienstleistungen,,tel:056 223 29 07,,"Dorfstrasse 5
 5412 Gebenstorf",https://www.google.com/maps/place/Dorfstrasse%205+5412+Gebenstorf,website not accessible
 Tree Bau AG,"Holzbau, Zimmerei",,tel:032 675 29 42,,"Derendingenstrasse 27
@@ -930,7 +930,7 @@ Penta Vertriebs AG,"Grosshandel mit Schreibwaren, Büchern und Zeitungen",,tel:0
 Zehnder & Zehnder AG,Offsetdruck,http://www.zehnder.ch/,tel:071 444 24 13,fax:071 913 47 99,"Hubstrasse 60
 9500 Wil SG",https://www.google.com/maps/place/Hubstrasse%2060+9500+Wil%20SG,swegelin@cavelti.ch
 "Caffè Barone, Inh. Tobias Konrad","Grosshandel mit Kaffee, Tee, Kakao und Gewürzen",http://www.caffe-barone.ch/,tel:079 763 35 34,,"Sissacherstrasse 19a
-4460 Gelterkinden",https://www.google.com/maps/place/Sissacherstrasse%2019a+4460+Gelterkinden,
+4460 Gelterkinden",https://www.google.com/maps/place/Sissacherstrasse%2019a+4460+Gelterkinden,NA
 Dux Donna + Uomo,Detailhandel mit Bekleidungszubehör und Bekleidung ohne ausgeprägten Schwerpunkt,,tel:052 625 99 28,fax:052 625 81 97,"Oberstadt 10
 8200 Schaffhausen",https://www.google.com/maps/place/Oberstadt%2010+8200+Schaffhausen,website not accessible
 Steinform Kistler AG Natursteinwerk,Be- und Verarbeitung von Naturwerksteinen und Natursteinen a. n. g.,http://www.steinform.ch/,tel:055 464 31 00,fax:055 464 31 09,"Industriestrasse 33
@@ -938,11 +938,11 @@ Steinform Kistler AG Natursteinwerk,Be- und Verarbeitung von Naturwerksteinen un
 REDA Handel GmbH,"Handelsvermittlung und Grosshandel mit Automobilen mit einem Gesamtgewicht von 3,5 t oder weniger",,,fax:062 892 14 24,"Wildeggerstrasse 5
 5702 Niederlenz",https://www.google.com/maps/place/Wildeggerstrasse%205+5702+Niederlenz,website not accessible
 Künzli Holz AG,"Holzbau, Zimmerei",http://www.kuenzli-davos.ch/,tel:081 410 16 66,fax:081 410 16 67,"Dischmastrasse 65
-7260 Davos Dorf",https://www.google.com/maps/place/Dischmastrasse%2065+7260+Davos%20Dorf,info@fassadentechnik-ag.com
+7260 Davos Dorf",https://www.google.com/maps/place/Dischmastrasse%2065+7260+Davos%20Dorf,info@kuenzli-davos.ch
 Spenglerei Zimmerberg AG,Bauspenglerei,http://www.spenglerei-zimmerberg.ch/,tel:044 724 31 10,fax:044 724 31 19,"Alemannenweg 8
-8803 Rüschlikon",https://www.google.com/maps/place/Alemannenweg%208+8803+R%C3%BCschlikon,
+8803 Rüschlikon",https://www.google.com/maps/place/Alemannenweg%208+8803+R%C3%BCschlikon,website not accessible
 OERA MECHANIK AG,Herstellung von Hebezeugen und Fördermitteln,http://www.ora.ch/,tel:081 322 41 22,fax:081 322 72 65,"Tardisstrasse 215
-7205 Zizers",https://www.google.com/maps/place/Tardisstrasse%20215+7205+Zizers,website not accessible
+7205 Zizers",https://www.google.com/maps/place/Tardisstrasse%20215+7205+Zizers,NA
 Landolt Heizungen AG,"lnstallation von Heizungs-, Lüftungs- und Klimaanlagen",,tel:055 612 19 40,fax:055 612 14 54,"Schwärzistrasse 12
 8752 Näfels",https://www.google.com/maps/place/Schw%C3%A4rzistrasse%2012+8752+N%C3%A4fels,website not accessible
 Motor-Sport-Organisation,Allgemeiner Hochbau,,tel:044 939 10 33,fax:044 939 10 43,"Mühlestrasse 4
@@ -952,9 +952,9 @@ Hässig Oliver arred.interni,Innenarchitektur und Raumgestaltung,http://www.ohi.
 Züro Schreinerei AG,Schreinerarbeiten im Innenausbau,,tel:071 888 50 66,fax:071 888 51 19,"Höhe 1246
 9428 Walzenhausen",https://www.google.com/maps/place/H%C3%B6he%201246+9428+Walzenhausen,website not accessible
 "ITEN AG Spezialhochbau,",Aktivitäten der Generalunternehmen im Baugewerbe,http://www.itenbau.ch/,tel:041 754 54 54,fax:041 754 54 55,"Gewerbezone 3A
-6315 Morgarten",https://www.google.com/maps/place/Gewerbezone%203A+6315+Morgarten,
+6315 Morgarten",https://www.google.com/maps/place/Gewerbezone%203A+6315+Morgarten,website not accessible
 Romano & Christen Immob. AG,"Verwaltung von Grundstücken, Gebäuden und Wohnungen für Dritte",http://www.romanochristen.ch/,tel:041 318 02 02,fax:041 318 02 00,"Horwerstrasse 11
-6005 Luzern",https://www.google.com/maps/place/Horwerstrasse%2011+6005+Luzern,
+6005 Luzern",https://www.google.com/maps/place/Horwerstrasse%2011+6005+Luzern,info@romanochristen.ch
 Ristorante Pomodoro,"Restaurants, Imbissstuben, Tea-Rooms und Gelaterias",http://www.pomodorobern.ch/,tel:031 311 75 41,,"Neuengasse 25
 3011 Bern",https://www.google.com/maps/place/Neuengasse%2025+3011+Bern,bad link
 Drusa AG,"Holzbau, Zimmerei",,tel:081 353 19 63,fax:081 353 13 21,"Uf Da Gräba 6
@@ -966,22 +966,22 @@ SUN-SITE Beat Wiederkehr,"Saunas, Solarien",http://www.sun-site.ch/,tel:071 845 
 F.T. Sonderegger AG,Grosshandel mit sonstigen Maschinen und Ausrüstungen,http://www.sondi.ch/,tel:071 353 50 50,fax:071 352 23 28,"Mühlestrasse 10
 9100 Herisau",https://www.google.com/maps/place/M%C3%BChlestrasse%2010+9100+Herisau,info@sondi.ch
 Birchmeier Spezialtiefbau AG,Sonstiger Tiefbau a. n. g.,http://www.birchmeier-gruppe.ch/,tel:056 269 21 22,fax:056 269 21 31,"Industriestrasse 8
-6252 Dagmersellen",https://www.google.com/maps/place/Industriestrasse%208+6252+Dagmersellen,
+6252 Dagmersellen",https://www.google.com/maps/place/Industriestrasse%208+6252+Dagmersellen,website not accessible
 Ettlin AG,Elektroinstallation,http://www.elektro-ettlin.ch/,tel:041 672 72 72,fax:041 672 72 79,"Brünigstrasse 18
 6055 Alpnach Dorf",https://www.google.com/maps/place/Br%C3%BCnigstrasse%2018+6055+Alpnach%20Dorf,info@elektro-ettlin.ch
 Josef Kneubühler,"Sonstiger Detailhandel mit Metallwaren, Anstrichmitteln, Bau- und Heimwerkerbedarf",,tel:062 758 40 50,,"Leimgrube 1
 6262 Langnau b. Reiden",https://www.google.com/maps/place/Leimgrube%201+6262+Langnau%20b.%20Reiden,website not accessible
 Cave Les Deux Cimes Sàrl,Grosshandel mit Wein und Spirituosen,http://www.mcculloch-wines.ch/,,,"Rue de Plane-Ville 22
-1955 Chamoson",https://www.google.com/maps/place/Rue%20de%20Plane-Ville%2022+1955+Chamoson,8c4075d5481d476e945486754f783364@sentry.io
+1955 Chamoson",https://www.google.com/maps/place/Rue%20de%20Plane-Ville%2022+1955+Chamoson,605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com
 Reitstall Solaria,"Hotels, Gasthöfe und Pensionen mit Restaurant",http://www.hotelsolariabivio.ch/,tel:081 684 51 07,fax:081 684 52 90,7457 Bivio,https://www.google.com/maps/place/undefined+7457+Bivio,info@hotelsolariabivio.ch
 Garage Meyer Suhr AG,lnstandhaltung und Reparatur von Automobilen,http://www.garagemeyer.ch/,tel:062 855 50 20,fax:062 855 50 21,"Tramstrasse 33
 5034 Suhr",https://www.google.com/maps/place/Tramstrasse%2033+5034+Suhr,info@garagemeyer.ch
 Bopp AG Innendekorationen,Detailhandel mit Möbeln,,tel:062 791 55 45,fax:062 791 37 46,"Oltnerstrasse 33
 4663 Aarburg",https://www.google.com/maps/place/Oltnerstrasse%2033+4663+Aarburg,website not accessible
 Viva Office Cakar,Detailhandel mit Möbeln,http://www.viva-office.ch/,,,"Gartenstrasse 13
-9001 St. Gallen",https://www.google.com/maps/place/Gartenstrasse%2013+9001+St.%20Gallen,
+9001 St. Gallen",https://www.google.com/maps/place/Gartenstrasse%2013+9001+St.%20Gallen,website not accessible
 Frenicolor GmbH,Malerei,http://www.frenicolor.ch/,tel:071 446 83 33,fax:071 446 83 84,"Seestrasse 70
-9320 Arbon",https://www.google.com/maps/place/Seestrasse%2070+9320+Arbon,malerfachbetrieb@frenicolor.ch
+9320 Arbon",https://www.google.com/maps/place/Seestrasse%2070+9320+Arbon,mario.freda@frenicolor.ch
 Jürg Jutzi Schreinerei GmbH,Schreinerarbeiten im Innenausbau,,tel:031 802 02 02,,"Grabenstrasse 26
 3132 Riggisberg",https://www.google.com/maps/place/Grabenstrasse%2026+3132+Riggisberg,website not accessible
 Pius Solèr,Vermietung und Verpachtung von eigenen oder geleasten Grundstücken,,tel:062 876 15 59,fax:062 876 18 77,"Rüchweg 264
@@ -995,7 +995,7 @@ Hodel Holding AG,Investmentgesellschaften,,tel:041 978 00 25,fax:041 978 00 26,"
 WEAG GmbH,Werbeagenturen,http://www.weag-werbegeschenke.ch/,tel:044 709 28 29,fax:044 709 28 17,"Albisstrasse 33
 8134 Adliswil",https://www.google.com/maps/place/Albisstrasse%2033+8134+Adliswil,weag@werbedruck.ch
 Argento AG,Aktivitäten der Generalunternehmen im Baugewerbe,http://www.argentoag.ch/,tel:044 396 13 13,fax:044 396 13 14,"Bühlstrasse 2
-8125 Zollikerberg",https://www.google.com/maps/place/B%C3%BChlstrasse%202+8125+Zollikerberg,argento@argentoag.ch
+8125 Zollikerberg",https://www.google.com/maps/place/B%C3%BChlstrasse%202+8125+Zollikerberg,website not accessible
 Metallbau Stoller Belp AG,Herstellung von Metallkonstruktionen,http://www.metallbau-stoller.ch/,tel:031 810 00 20,fax:031 810 00 30,"Viehweidstrasse 53
 3123 Belp",https://www.google.com/maps/place/Viehweidstrasse%2053+3123+Belp,info@metallbau-stoller.ch
 Garage Burri Emmen AG,lnstandhaltung und Reparatur von Automobilen,http://www.subaruburri.ch/,tel:041 260 66 63,fax:041 260 66 17,"Feldmattstrasse 18
@@ -1013,7 +1013,7 @@ Roesch Schreinerei AG,Schreinerarbeiten im Innenausbau,,tel:052 657 12 21,fax:05
 Regiobau Freiamt AG,Architekturbüros,,tel:056 618 45 45,fax:056 618 45 46,"Büelisackerstrasse 3
 5619 Büttikon AG",https://www.google.com/maps/place/B%C3%BCelisackerstrasse%203+5619+B%C3%BCttikon%20AG,website not accessible
 Franz Bucher Tiefbau AG,Sonstiger Tiefbau a. n. g.,http://www.bucher-tiefbau.ch/,tel:056 678 80 20,fax:056 666 30 80,"Industriestrasse 10
-5623 Boswil",https://www.google.com/maps/place/Industriestrasse%2010+5623+Boswil,
+5623 Boswil",https://www.google.com/maps/place/Industriestrasse%2010+5623+Boswil,website not accessible
 Alexander Borer,Sanitärinstallation,,tel:061 771 09 89,fax:061 771 09 89,"Zollgasse 240
 4245 Kleinlützel",https://www.google.com/maps/place/Zollgasse%20240+4245+Kleinl%C3%BCtzel,website not accessible
 Hunziker Logistik AG,Güterbeförderung im Strassenverkehr,http://www.hunziker-logistik.ch/,,,"Griensammlerstrasse 10
@@ -1021,9 +1021,9 @@ Hunziker Logistik AG,Güterbeförderung im Strassenverkehr,http://www.hunziker-l
 BÜCHLER & PARTNER AG,Gebäudetechnik-Ingenieurbüros,http://www.bp-ag.ch/,tel:044 302 14 14,fax:044 302 22 44,"Industriepark 3
 8610 Uster",https://www.google.com/maps/place/Industriepark%203+8610+Uster,bad link
 Brevag AG,Reparatur von Metallerzeugnissen,http://www.brevag.ch/,tel:061 301 64 54,,"Baumgartenweg 7
-4053 Basel",https://www.google.com/maps/place/Baumgartenweg%207+4053+Basel,
+4053 Basel",https://www.google.com/maps/place/Baumgartenweg%207+4053+Basel,website not accessible
 Grotto Eguaglianza,"Restaurants, Imbissstuben, Tea-Rooms und Gelaterias",https://www.eguaglianza.ch/,tel:091 630 56 17,,"via Municipio
-6825 Capolago",https://www.google.com/maps/place/via%20Municipio+6825+Capolago,
+6825 Capolago",https://www.google.com/maps/place/via%20Municipio+6825+Capolago,NA
 Odermatt Metallbau AG,Herstellung von Ausbauelementen aus Metall,,tel:041 340 80 60,fax:041 340 80 68,"Dattenmattstrasse 12
 6010 Kriens",https://www.google.com/maps/place/Dattenmattstrasse%2012+6010+Kriens,website not accessible
 Kocherhans AG,Schreinerarbeiten im Innenausbau,http://www.kocherhans.ch/,tel:071 686 70 50,fax:071 686 70 51,"Sonnenwiesenstrasse 22
@@ -1041,13 +1041,13 @@ Werner Rempfler,"Advokatur-, Notariatsbüros",,tel:071 245 60 75,,"Falkensteinst
 Arpagaus Storen GmbH,Sonstige Bauinstallation,,tel:079 899 27 90,,"Dorfstrasse 20
 8242 Bibern SH",https://www.google.com/maps/place/Dorfstrasse%2020+8242+Bibern%20SH,website not accessible
 Cleanway GmbH,Ausschreibungen,http://www.cleanway.ch/,tel:032 622 50 30,fax:032 622 50 56,"Weihermattstrasse 1
-4522 Rüttenen",https://www.google.com/maps/place/Weihermattstrasse%201+4522+R%C3%BCttenen,
+4522 Rüttenen",https://www.google.com/maps/place/Weihermattstrasse%201+4522+R%C3%BCttenen,NA
 Edu AG,Artikel im Shop,https://www.eduag.ch/,tel:081 750 07 90,fax:081 750 07 91,"Gewerbestrasse 8
-9470 Buchs SG",https://www.google.com/maps/place/Gewerbestrasse%208+9470+Buchs%20SG,
+9470 Buchs SG",https://www.google.com/maps/place/Gewerbestrasse%208+9470+Buchs%20SG,website not accessible
 Thomet & Lüscher Sport AG,Detailhandel mit Sportartikeln,http://www.tls.ch/,tel:031 971 04 09,fax:031 971 26 53,"Kirchstrasse 28
 3097 Liebefeld",https://www.google.com/maps/place/Kirchstrasse%2028+3097+Liebefeld,bad link
 Brunner Storen AG,Herstellung von Baubedarfsartikeln aus Kunststoffen,http://www.brunnerstoren.ch/,tel:061 461 50 00,fax:061 461 83 88,"Junkermattstrasse 8
-4132 Muttenz",https://www.google.com/maps/place/Junkermattstrasse%208+4132+Muttenz,T5KX1A==e#e!iAVXvfabdVvlnEBo2LK+6g==@brunnerstoren.ch
+4132 Muttenz",https://www.google.com/maps/place/Junkermattstrasse%208+4132+Muttenz,website not accessible
 "innen + aussen Fredy Schnyder,",Malerei und Gipserei ohne ausgeprägten Schwerpunkt,,tel:027 932 23 08,fax:027 932 23 08,"Hauptstrasse 71
 3957 Erschmatt",https://www.google.com/maps/place/Hauptstrasse%2071+3957+Erschmatt,website not accessible
 Duo Top Service GmbH,Bauspenglerei,,tel:044 920 26 95,fax:044 921 13 36,"Obergelackerstrasse 4
@@ -1055,7 +1055,7 @@ Duo Top Service GmbH,Bauspenglerei,,tel:044 920 26 95,fax:044 921 13 36,"Obergel
 Schenk,Sonstige Verarbeitung von Obst und Gemüse,http://www.schenkkonfi.ch/,tel:041 450 20 30,fax:041 450 20 40,"Luzernerstrasse 66
 6037 Root",https://www.google.com/maps/place/Luzernerstrasse%2066+6037+Root,info@schenkkonfi.ch
 Max Beerli,"Anbringen von Stuckaturen, Gipserei und Verputzerei",http://www.maxbeerliag.ch/,tel:071 971 13 07,,"Stickereistrasse 9
-8362 Balterswil",https://www.google.com/maps/place/Stickereistrasse%209+8362+Balterswil,
+8362 Balterswil",https://www.google.com/maps/place/Stickereistrasse%209+8362+Balterswil,website not accessible
 Treuhandbüro Susanna Gallmann,Artikel im Shop,http://www.gallmann-treuhand.ch/,tel:041 756 00 35,fax:041 756 00 39,"Industriestrasse 3
 6345 Neuheim",https://www.google.com/maps/place/Industriestrasse%203+6345+Neuheim,info@gallmann-treuhand.ch
 Baracom GmbH,Werbeagenturen,http://www.baracom.ch/,tel:031 352 13 13,,"Giacomettistrasse 8
@@ -1082,7 +1082,7 @@ Robert Weber AG,Dachdeckerei,,tel:031 731 32 02,,"Feldmoosstrasse 19
 Anton Inglin,Allgemeine Gebäudereinigung,,tel:052 222 02 84,fax:052 222 02 75,"Hardgutstrasse 46a
 8408 Winterthur",https://www.google.com/maps/place/Hardgutstrasse%2046a+8408+Winterthur,website not accessible
 Sun Box Solarium,"Saunas, Solarien",http://www.sunbox.ch/,tel:0844 848 884,,"via G.Buffi 2
-6900 Lugano",https://www.google.com/maps/place/via%20G.Buffi%202+6900+Lugano,website not accessible
+6900 Lugano",https://www.google.com/maps/place/via%20G.Buffi%202+6900+Lugano,NA
 Altena Beratungen AG,Unternehmensberatung,,tel:041 448 42 80,,"Industriestrasse 59
 6034 Inwil",https://www.google.com/maps/place/Industriestrasse%2059+6034+Inwil,website not accessible
 Masspack GmbH,"Herstellung von Verpackungsmitteln, Lagerbehältern und Ladungsträgern aus Holz",http://www.masspack.ch/,tel:052 681 35 00,fax:052 681 35 05,"Sägereistrasse 8
@@ -1094,15 +1094,15 @@ Aadam International GmbH,Grosshandel mit Bekleidung,http://www.aadam.ch/,tel:081
 Hans-Ulrich Müller,Wirtschaftsprüfung und Steuerberatung; Buchführung; Treuhandgesellschaften,,,,"Hofstetterweidweg 27b
 8143 Stallikon",https://www.google.com/maps/place/Hofstetterweidweg%2027b+8143+Stallikon,website not accessible
 SCHOECHLI impression & comm. SA,Offsetdruck,http://www.schoechli.com/,tel:027 452 25 25,fax:027 452 25 22,"Technopôle 2
-3960 Sierre",https://www.google.com/maps/place/Technop%C3%B4le%202+3960+Sierre,
+3960 Sierre",https://www.google.com/maps/place/Technop%C3%B4le%202+3960+Sierre,website not accessible
 toweb GmbH,Programmierungstätigkeiten,http://www.toweb.ch/,tel:044 515 47 50,,"Wiesenstrasse 9
-8008 Zürich",https://www.google.com/maps/place/Wiesenstrasse%209+8008+Z%C3%BCrich,toweb-logo-white@2x.png
+8008 Zürich",https://www.google.com/maps/place/Wiesenstrasse%209+8008+Z%C3%BCrich,toweb-logo-white@1x.png
 Popp Gartenbau AG,Ausschreibungen,,tel:071 860 05 00,fax:071 860 05 01,"Löhrstrasse 10
 9402 Mörschwil",https://www.google.com/maps/place/L%C3%B6hrstrasse%2010+9402+M%C3%B6rschwil,website not accessible
 B + P Planungs AG,Bau-Ingenieurbüros,,tel:041 666 00 99,,"Industriestrasse 4
 6060 Sarnen",https://www.google.com/maps/place/Industriestrasse%204+6060+Sarnen,website not accessible
 Hagedorn AG,Bau von Strassen,http://www.hagedorn.ch/,tel:043 844 11 11,fax:043 844 11 21,"Industriestrasse 6
-8808 Pfäffikon SZ",https://www.google.com/maps/place/Industriestrasse%206+8808+Pf%C3%A4ffikon%20SZ,contact@iage.ch
+8808 Pfäffikon SZ",https://www.google.com/maps/place/Industriestrasse%206+8808+Pf%C3%A4ffikon%20SZ,info@hagedorn.ch
 Garage Siegenthaler AG,lnstandhaltung und Reparatur von Automobilen,,tel:071 917 20 10,fax:071 917 16 11,"Höhenstrasse 2
 9555 Tobel",https://www.google.com/maps/place/H%C3%B6henstrasse%202+9555+Tobel,website not accessible
 Schmid G 3 AG,"Kauf und Verkauf von eigenen Grundstücken, Gebäuden und Wohnungen",,tel:+41 41 444 40 21,,"Neuhaltenring 1
@@ -1110,9 +1110,9 @@ Schmid G 3 AG,"Kauf und Verkauf von eigenen Grundstücken, Gebäuden und Wohnung
 Flugschul-Shop Emmetten,Fahr- und Flugschulen,http://www.flugschule-emmetten.ch/,tel:041 620 12 12,fax:041 620 77 77,"Ischenstrasse 5
 6376 Emmetten",https://www.google.com/maps/place/Ischenstrasse%205+6376+Emmetten,bad link
 FMS Consulting GmbH,Unternehmensberatung,http://www.fmsconsulting.ch/,tel:071 352 65 55,fax:071 352 65 56,"Saum 43
-9100 Herisau",https://www.google.com/maps/place/Saum%2043+9100+Herisau,
+9100 Herisau",https://www.google.com/maps/place/Saum%2043+9100+Herisau,info@fmsconsulting.ch
 O. Riva & Figli SA,Sanitär- und Heizungsinstallation,http://www.riva-sa.ch/,tel:091 649 71 37,fax:091 649 50 49,"via Cantonale 33
-6815 Melide",https://www.google.com/maps/place/via%20Cantonale%2033+6815+Melide,
+6815 Melide",https://www.google.com/maps/place/via%20Cantonale%2033+6815+Melide,NA
 Delphin-Amazonia AG,Grosshandel mit sonstigen Gebrauchs- und Verbrauchsgütern a. n. g.,http://www.delphin-amazonia.ch/,tel:061 416 10 10,fax:061 416 10 15,"Ruchfeldstrasse 15
 4142 Münchenstein",https://www.google.com/maps/place/Ruchfeldstrasse%2015+4142+M%C3%BCnchenstein,bad link
 Markus Schlauri,Wirtschaftsprüfung und Steuerberatung; Buchführung; Treuhandgesellschaften,,tel:052 720 34 22,,"Dachsweg 10a
@@ -1120,7 +1120,7 @@ Markus Schlauri,Wirtschaftsprüfung und Steuerberatung; Buchführung; Treuhandge
 Werner Armin,Grosshandel mit sonstigen Maschinen und Ausrüstungen,,tel:056 441 81 58,,"Mittlerer Hafen 5
 5225 Bözberg",https://www.google.com/maps/place/Mittlerer%20Hafen%205+5225+B%C3%B6zberg,website not accessible
 Neukom Optik AG,Detailhandel mit Brillen und anderen Sehhilfen,http://www.neukom-optik.ch/,tel:044 950 27 77,fax:044 950 27 46,"Zentrum Frohwies
-8330 Pfäffikon ZH",https://www.google.com/maps/place/Zentrum%20Frohwies+8330+Pf%C3%A4ffikon%20ZH,
+8330 Pfäffikon ZH",https://www.google.com/maps/place/Zentrum%20Frohwies+8330+Pf%C3%A4ffikon%20ZH,NA
 Route 66 Immobilien AG,"Kauf und Verkauf von eigenen Grundstücken, Gebäuden und Wohnungen",,,,"Matthäusstrasse 12
 4057 Basel",https://www.google.com/maps/place/Matth%C3%A4usstrasse%2012+4057+Basel,website not accessible
 BBA Warenhandels GmbH,Grosshandel mit Baustoffen,,tel:043 495 07 03,fax:043 495 07 04,"Lerzenstrasse 15
@@ -1136,7 +1136,7 @@ MD Immo AG,"Kauf und Verkauf von eigenen Grundstücken, Gebäuden und Wohnungen"
 LEBUH AG,"Kauf und Verkauf von eigenen Grundstücken, Gebäuden und Wohnungen",,,,"Bahnhofstrasse 17
 3904 Naters",https://www.google.com/maps/place/Bahnhofstrasse%2017+3904+Naters,website not accessible
 "Aeberhard AG,","Herstellung von Wellpapier und -pappe sowie von Verpackungsmitteln aus Papier, Karton und Pappe",http://www.aeberhard-ag.ch/,tel:031 721 09 05,fax:031 721 97 05,"Stossacherweg 22
-3110 Münsingen",https://www.google.com/maps/place/Stossacherweg%2022+3110+M%C3%BCnsingen,
+3110 Münsingen",https://www.google.com/maps/place/Stossacherweg%2022+3110+M%C3%BCnsingen,stauffenegger@aeberhard-ag.ch
 R.Michel & Co.,Herstellung von sonstigen Werkzeugmaschinen,,tel:055 440 29 01,fax:055 440 55 27,"Nordring 2
 8854 Siebnen",https://www.google.com/maps/place/Nordring%202+8854+Siebnen,website not accessible
 Impex Consulting GmbH,"Vermittlung von Grundstücken, Gebäuden und Wohnungen für Dritte",,tel:071 740 02 32,,"Hauptstrasse 192
@@ -1148,7 +1148,7 @@ Ueli Jungen,Malerei,,tel:033 673 21 31,,"Gspennweg 5b
 Iff Motorcycles AG,Artikel im Shop,,tel:041 970 17 60,fax:041 970 17 61,"Dorfstrasse 74
 6142 Gettnau",https://www.google.com/maps/place/Dorfstrasse%2074+6142+Gettnau,website not accessible
 Pedro-Drogerie Bräm,Drogerien,http://www.pedro-drogerie.ch/,tel:034 422 92 55,fax:034 423 47 46,"Lyssachstrasse 27
-3400 Burgdorf",https://www.google.com/maps/place/Lyssachstrasse%2027+3400+Burgdorf,
+3400 Burgdorf",https://www.google.com/maps/place/Lyssachstrasse%2027+3400+Burgdorf,website not accessible
 Hanspeter Frischknecht,Architekturbüros,,tel:071 393 18 33,,"Weier
 9203 Niederwil SG",https://www.google.com/maps/place/Weier+9203+Niederwil%20SG,website not accessible
 Josef Wey AG,Bauspenglerei,,tel:041 552 05 93,,"Feldheimstrasse 35
@@ -1164,17 +1164,17 @@ Halos Invest AG,Public-Relations-Beratung,http://www.halosinvest.ch/,tel:071 737
 Amport Metallbau AG,Schlossereien,,tel:061 931 29 39,fax:061 931 39 52,"Brühlstrasse 15
 4416 Bubendorf",https://www.google.com/maps/place/Br%C3%BChlstrasse%2015+4416+Bubendorf,website not accessible
 BSA Haus-+ Gartenservice AG,Allgemeine Gebäudereinigung,http://www.bsaag.ch/,tel:032 653 20 47,fax:032 653 20 48,"Niklaus Wengi-Strasse 107
-2540 Grenchen",https://www.google.com/maps/place/Niklaus%20Wengi-Strasse%20107+2540+Grenchen,
+2540 Grenchen",https://www.google.com/maps/place/Niklaus%20Wengi-Strasse%20107+2540+Grenchen,website not accessible
 Dux Textilien AG,Detailhandel mit Herrenbekleidung,http://www.duxmode.ch/,tel:052 625 90 10,fax:052 625 62 39,"Vorstadt 43
-8200 Schaffhausen",https://www.google.com/maps/place/Vorstadt%2043+8200+Schaffhausen,info@duxmode.ch
+8200 Schaffhausen",https://www.google.com/maps/place/Vorstadt%2043+8200+Schaffhausen,info@trio-jeans.ch
 Nidfeld-Garage AG,lnstandhaltung und Reparatur von Automobilen,http://www.nidfeld.ch/,tel:041 310 91 81,fax:041 310 91 80,"Arsenalstrasse 35
 6010 Kriens",https://www.google.com/maps/place/Arsenalstrasse%2035+6010+Kriens,philipp.maerchy@windlin.ch
 Maugweiler GmbH,"Bauschreinerei, Fenster und Türen",http://www.maugweiler-schreinerei.ch/,tel:052 319 11 46,fax:052 319 12 47,"Chilchweg 10
-8461 Oerlingen",https://www.google.com/maps/place/Chilchweg%2010+8461+Oerlingen,
+8461 Oerlingen",https://www.google.com/maps/place/Chilchweg%2010+8461+Oerlingen,NA
 Ferdinand Buholzer,Haltung von anderen Tieren der Rindergattung,,tel:041 340 80 08,,"Berghof
 6047 Kastanienbaum",https://www.google.com/maps/place/Berghof+6047+Kastanienbaum,website not accessible
 Bünter Management AG,Unternehmensberatung,http://www.buenter.ch/,,,"Terrassenweg 14b
-5408 Ennetbaden",https://www.google.com/maps/place/Terrassenweg%2014b+5408+Ennetbaden,8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com
+5408 Ennetbaden",https://www.google.com/maps/place/Terrassenweg%2014b+5408+Ennetbaden,605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com
 Zollhaus Automobile AG,lnstandhaltung und Reparatur von Automobilen,,tel:033 222 85 31,fax:033 222 85 02,"Allmendstrasse 189
 3603 Thun",https://www.google.com/maps/place/Allmendstrasse%20189+3603+Thun,website not accessible
 Variba S.A.,Verlegen von Fliesen und Platten,http://www.variba.ch/,tel:032 853 47 86,fax:032 853 65 85,"rue de l'Ouest 4
@@ -1206,14 +1206,7 @@ R. Brunner Handels AG,Sonstiger Fachdetailhandel a. n. g. (in Verkaufsräumen),,
 Scheffmacher AG,Malerei,http://www.scheffmacher.com/,tel:052 644 04 40,fax:052 644 04 41,"Neutalstrasse 66
 8207 Schaffhausen",https://www.google.com/maps/place/Neutalstrasse%2066+8207+Schaffhausen,info@scheffmacher.com
 CEPM Christen,Bau-Ingenieurbüros,http://www.cepm-christen.ch/,tel:032 345 20 30,,"Rochette 18
-2502 Biel/Bienne",https://www.google.com/maps/place/Rochette%2018+2502+Biel/Bienne,"
- <script type='text/javascript'>
- <!--
- var prefix = 'ma' + 'il' + 'to';
- var path = 'hr' + 'ef' + '=';
- var addy37888 = 'christen' + '@';
- addy37888 = addy37888 + 'cepm-christen' + '.' + 'ch';
- document.write('<a ' + path + '\'' + prefix + '"
+2502 Biel/Bienne",https://www.google.com/maps/place/Rochette%2018+2502+Biel/Bienne,christen@cepm-christen.ch
 Grädel & Cie AG,lnstandhaltung und Reparatur von Automobilen,http://www.graedel-cie.ch/,tel:062 962 34 34,fax:062 959 90 65,"Bernstrasse 7a
 4950 Huttwil",https://www.google.com/maps/place/Bernstrasse%207a+4950+Huttwil,website not accessible
 perlen reinigungen GmbH,Hausmeisterdienste; Facility Management,http://www.perzug.ch/,tel:041 780 05 10,,"Birkenstrasse 37
@@ -1227,7 +1220,7 @@ Jakob Beglinger,lnstandhaltung und Reparatur von Automobilen,,tel:044 321 70 00,
 Amici Hairdesign,Coiffeursalons,http://www.amicihairdesign.ch/,tel:071 230 28 28,,"St.Georgenstrasse 39
 9000 St. Gallen",https://www.google.com/maps/place/St.Georgenstrasse%2039+9000+St.%20Gallen,silvan@muehlestein.info
 2-Rad Ruprecht,Detailhandel mit Fahrrädern,http://www.2radruprecht.ch/,tel:044 844 12 55,fax:044 844 42 46,"Alte Buchserstrasse 5
-8108 Dällikon",https://www.google.com/maps/place/Alte%20Buchserstrasse%205+8108+D%C3%A4llikon,
+8108 Dällikon",https://www.google.com/maps/place/Alte%20Buchserstrasse%205+8108+D%C3%A4llikon,NA
 Gebrüder Baettig AG,Coiffeursalons,http://www.baettig-sg.ch/,tel:071 222 16 55,fax:071 223 62 33,"Multergasse 2
 9000 St. Gallen",https://www.google.com/maps/place/Multergasse%202+9000+St.%20Gallen,baettig@baettig-sg.ch
 ZUBAG Wintergärten Metallbau AG,Herstellung von Ausbauelementen aus Metall,http://www.zubag.ch/,tel:055 285 80 60,fax:055 285 80 61,"Gewerbestrasse 6
@@ -1245,7 +1238,7 @@ Peter Jutzi AG,Reparatur und Lackieren von Carrosserien,,tel:031 701 35 15,fax:0
 Berchtold + Tosoni AG,Bau-Ingenieurbüros,http://www.berchtold-tosoni.ch/,tel:061 971 82 71,,"Gewerbestrasse 10
 4450 Sissach",https://www.google.com/maps/place/Gewerbestrasse%2010+4450+Sissach,mail@berchtold-tosoni.ch
 Thomas Hugi Küchendesign,Innenarchitektur und Raumgestaltung,http://www.thomashugi.ch/,tel:032 351 61 10,,"Oberwilstrasse 3
-3253 Schnottwil",https://www.google.com/maps/place/Oberwilstrasse%203+3253+Schnottwil,
+3253 Schnottwil",https://www.google.com/maps/place/Oberwilstrasse%203+3253+Schnottwil,website not accessible
 Clavien + Zuber SA,Offsetdruck,,tel:027 455 11 05,fax:027 455 22 51,"Av.du Marche 18
 3960 Sierre",https://www.google.com/maps/place/Av.du%20Marche%2018+3960+Sierre,website not accessible
 U.Schärli Allround-Bau GmbH,Allgemeiner Hoch- und Tiefbau ohne ausgeprägten Schwerpunkt,,,,"Hinterdorfstrasse 1
@@ -1315,7 +1308,7 @@ Elektra Zürich AG,Elektroinstallation,http://www.elektra-zuerich.ch/,tel:043 96
 Aeschimann Elektro AG,Elektroinstallation,http://www.aeschimann-elektro.ch/,tel:033 828 60 00,fax:033 828 60 09,"Kirchweg 3
 3812 Wilderswil",https://www.google.com/maps/place/Kirchweg%203+3812+Wilderswil,info@aeschimann-elektro.ch
 Eugster Hotelbedarf AG,Grosshandel mit elektrischen Haushaltsgeräten,http://www.hotelbedarf-eugster.ch/,tel:081 641 27 17,,"Am Platz / Kirchstrasse 4
-7402 Bonaduz",https://www.google.com/maps/place/Am%20Platz%20/%20Kirchstrasse%204+7402+Bonaduz,info@hotelbedarf-eugster.ch
+7402 Bonaduz",https://www.google.com/maps/place/Am%20Platz%20/%20Kirchstrasse%204+7402+Bonaduz,info@webdesign-braegger.ch
 Eichmann Cant.Col.d'oro,Detailhandel mit Getränken,,,,"Tobelraastrasse 8
 8212 Neuhausen am Rheinfall",https://www.google.com/maps/place/Tobelraastrasse%208+8212+Neuhausen%20am%20Rheinfall,website not accessible
 JPN Immobilien AG,"Verwaltung von Grundstücken, Gebäuden und Wohnungen für Dritte",,tel:052 743 17 17,fax:052 743 16 19,"Sonnenstrasse 435
@@ -1329,13 +1322,13 @@ RM Invest AG,Fondsmanagement,http://www.apparatebau-schwab.ch/,tel:032 396 12 51
 BSK BROT Scann + Kopiertechnik,Grosshandel mit Datenverarbeitungsgeräten und peripheren Einheiten,http://www.scann.ch/,tel:071 969 30 70,fax:071 969 30 75,"Büfelderstrasse 1
 8370 Sirnach",https://www.google.com/maps/place/B%C3%BCfelderstrasse%201+8370+Sirnach,info@scann.ch
 WF-Werbeartikel Werner Fahrni,Grosshandel mit Geschenkartikeln und Souvenirs,http://www.design-werbeartikel.ch/,tel:056 622 72 65,fax:056 621 90 72,"Villmergerstrasse 17
-5619 Büttikon AG",https://www.google.com/maps/place/Villmergerstrasse%2017+5619+B%C3%BCttikon%20AG,
+5619 Büttikon AG",https://www.google.com/maps/place/Villmergerstrasse%2017+5619+B%C3%BCttikon%20AG,website not accessible
 ARS Architektur AG,Architekturbüros,http://www.rolfstalder.ch/,tel:061 411 00 88,fax:061 411 26 20,"Helsinki-Strasse 7
 4142 Münchenstein",https://www.google.com/maps/place/Helsinki-Strasse%207+4142+M%C3%BCnchenstein,rolf.stalder@rolfstalder.ch
 Gasthof Engel,"Hotels, Gasthöfe und Pensionen mit Restaurant",http://www.gasthofengel.ch/,tel:062 723 21 20,,"Dorfstrasse 3
 5036 Oberentfelden",https://www.google.com/maps/place/Dorfstrasse%203+5036+Oberentfelden,info@gasthofengel.ch
 Selbstmakler.ch,Programmierungstätigkeiten,http://www.selbstmakler.ch/,tel:043 433 03 55,,"Rebenstrasse 14
-8966 Oberwil-Lieli",https://www.google.com/maps/place/Rebenstrasse%2014+8966+Oberwil-Lieli,
+8966 Oberwil-Lieli",https://www.google.com/maps/place/Rebenstrasse%2014+8966+Oberwil-Lieli,website not accessible
 Lutz,Private Haushalte mit Hauspersonal,,tel:079 446 66 00,,"Gärtnerstrasse 7
 8192 Glattfelden",https://www.google.com/maps/place/G%C3%A4rtnerstrasse%207+8192+Glattfelden,website not accessible
 be pure gmbh for life,Werbeagenturen,http://www.amipeon.ch/,tel:061 763 70 30,fax:061 763 70 31,"Delsbergerstrasse 31
@@ -1363,7 +1356,7 @@ Benz AG,Detailhandel mit elektrischen Haushaltsgeräten,,tel:071 393 59 59,fax:0
 Restaurant zum Brünnli,"Restaurants, Imbissstuben, Tea-Rooms und Gelaterias",http://www.schnitzelhouse.ch/,tel:034 461 12 50,,"Rüegsaustrasse 56
 3415 Rüegsauschachen",https://www.google.com/maps/place/R%C3%BCegsaustrasse%2056+3415+R%C3%BCegsauschachen,info@computer-kuebli.ch
 Winkler Hausgeräte-Technik AG,Reparatur von elektrischen Haushaltsgeräten und Gartengeräten,http://www.winkler-wohlen.ch/,tel:031 829 23 87,fax:031 829 36 87,"Hauptstrasse 38
-3033 Wohlen b. Bern",https://www.google.com/maps/place/Hauptstrasse%2038+3033+Wohlen%20b.%20Bern,8c4075d5481d476e945486754f783364@sentry.io
+3033 Wohlen b. Bern",https://www.google.com/maps/place/Hauptstrasse%2038+3033+Wohlen%20b.%20Bern,605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com
 Heinrich Welten,Private Haushalte mit Hauspersonal,,tel:031 921 04 87,,3065 Bolligen Dorf,https://www.google.com/maps/place/undefined+3065+Bolligen%20Dorf,website not accessible
 SNOPEX SA,Grosshandel mit landwirtschaftlichen Maschinen und Geräten,,tel:041 630 12 47,fax:091 646 42 07,"Vorrütiweg 3
 6052 Hergiswil NW",https://www.google.com/maps/place/Vorr%C3%BCtiweg%203+6052+Hergiswil%20NW,website not accessible
@@ -1376,7 +1369,7 @@ Compucorp AG,Grosshandel mit Datenverarbeitungsgeräten und peripheren Einheiten
 Madeleine Zuberbühler,Erbringung von druckvorbereitenden Dienstleistungen,,tel:044 750 58 94,,"Zürcherstrasse 54
 8102 Oberengstringen",https://www.google.com/maps/place/Z%C3%BCrcherstrasse%2054+8102+Oberengstringen,website not accessible
 Schaffner GF AG,Bewertungen,http://www.schaffner-gf.ch/,tel:062 768 20 70,fax:062 768 20 80,"Knubelstrasse 9
-5726 Unterkulm",https://www.google.com/maps/place/Knubelstrasse%209+5726+Unterkulm,
+5726 Unterkulm",https://www.google.com/maps/place/Knubelstrasse%209+5726+Unterkulm,cornelia.caffari@schaffner-gf.ch
 EG Kulmerweg Lenzburg,"Kauf und Verkauf von eigenen Grundstücken, Gebäuden und Wohnungen",,,,"Ländliweg 10
 5400 Baden",https://www.google.com/maps/place/L%C3%A4ndliweg%2010+5400+Baden,website not accessible
 Theo Huber AG,Gerüstbau,,tel:052 233 73 73,fax:052 233 74 74,"Gewerbestrasse 5
@@ -1396,7 +1389,7 @@ Kambo AG,Herstellung von handgeführten Werkzeugen mit Motorantrieb,http://www.k
 Kempf Tank-Service AG,Reinigung a. n. g.,,tel:055 415 62 62,fax:055 415 62 61,"Strandweg 2
 8807 Freienbach",https://www.google.com/maps/place/Strandweg%202+8807+Freienbach,website not accessible
 Regionalagentur Andreas Holzer,Grosshandel mit sonstigen Maschinen und Ausrüstungen,http://www.k-a-b.ch/,tel:079 890 51 94,,"Beckenburgstrasse 10
-8212 Neuhausen am Rheinfall",https://www.google.com/maps/place/Beckenburgstrasse%2010+8212+Neuhausen%20am%20Rheinfall,S_6_EP_fantasie_kab_11_2022@2x.png
+8212 Neuhausen am Rheinfall",https://www.google.com/maps/place/Beckenburgstrasse%2010+8212+Neuhausen%20am%20Rheinfall,S6P_frontal_Logo2020_frei_web@2x.png
 Garage Pneu Meier GmbH,Detailhandel mit Automobilteilen und -zubehör,http://www.garagpneumeier.ch/,tel:031 771 16 66,fax:031 771 13 96,"Industriestrasse 14
 3672 Oberdiessbach",https://www.google.com/maps/place/Industriestrasse%2014+3672+Oberdiessbach,website not accessible
 Restaurant Rössli,"Restaurants, Imbissstuben, Tea-Rooms und Gelaterias",,,,"Hauptstrasse 70
@@ -1408,11 +1401,11 @@ Daniel Kämpfer,Andere Holdinggesellschaften,,tel:062 961 73 50,,"Wangenstrasse 
 S. Stolz Metall- und Fahrzeugbau AG,Herstellung von Ausbauelementen aus Metall,http://www.schmiedeeisen.ch/,tel:071 911 33 75,,"Poststrasse 12
 9536 Schwarzenbach SG",https://www.google.com/maps/place/Poststrasse%2012+9536+Schwarzenbach%20SG,bad link
 mobil Werke AG,Herstellung von Büro- und Ladenbau (ohne Einbau),http://www.mobilwerke.ch/,tel:071 747 81 81,fax:071 747 81 91,"Littenbachstrasse 1
-9442 Berneck",https://www.google.com/maps/place/Littenbachstrasse%201+9442+Berneck,info@mobilwerke.ch
+9442 Berneck",https://www.google.com/maps/place/Littenbachstrasse%201+9442+Berneck,andreas.kurz@mobilwerke.ch
 HSH Installationstechnik AG,Sanitär- und Heizungsinstallation,http://www.hsh-ag.ch/,tel:081 755 80 00,fax:081 755 80 01,"Langäulistrasse 35
-9470 Buchs SG",https://www.google.com/maps/place/Lang%C3%A4ulistrasse%2035+9470+Buchs%20SG,
+9470 Buchs SG",https://www.google.com/maps/place/Lang%C3%A4ulistrasse%2035+9470+Buchs%20SG,t.huber@hsh-ag.ch
 """Polyrama SA"", impresa di pulizia",Allgemeine Gebäudereinigung,http://www.polyrama.ch/,tel:091 605 56 26,fax:091 604 66 26,"Via Pobiette 5
-6928 Manno",https://www.google.com/maps/place/Via%20Pobiette%205+6928+Manno,
+6928 Manno",https://www.google.com/maps/place/Via%20Pobiette%205+6928+Manno,NA
 Hürzeler & Schafroth,Elektroinstallation,http://www.huerzeler-schafroth.ch/,tel:052 363 25 16,,"Dorfstrasse 1b
 8352 Elsau",https://www.google.com/maps/place/Dorfstrasse%201b+8352+Elsau,info@huerzeler-schafroth.ch
 Maurice de Mauriac,Grosshandel mit Uhren,http://www.mauricedemauriac.ch/,tel:044 280 01 12,,"Tödistrasse 48
@@ -1420,23 +1413,23 @@ Maurice de Mauriac,Grosshandel mit Uhren,http://www.mauricedemauriac.ch/,tel:044
 gallery.triums.ch,Kunsthandel,https://www.gallery.triums.ch/,,,"Augustin Keller-Strasse 31
 5600 Lenzburg",https://www.google.com/maps/place/Augustin%20Keller-Strasse%2031+5600+Lenzburg,info@triums.ch
 huser & kaspar schnelldruck gmbh,Offsetdruck,http://www.huserundkaspar.ch/,tel:044 300 66 66,fax:044 300 66 67,"Birkenweg 2
-8304 Wallisellen",https://www.google.com/maps/place/Birkenweg%202+8304+Wallisellen,
+8304 Wallisellen",https://www.google.com/maps/place/Birkenweg%202+8304+Wallisellen,website not accessible
 Wyna-Garage AG,lnstandhaltung und Reparatur von Automobilen,http://www.wyna-garage.ch/,tel:062 771 41 41,fax:062 771 64 55,"Hauptstrasse 15
-5737 Menziken",https://www.google.com/maps/place/Hauptstrasse%2015+5737+Menziken,ford@wyna-garage.ch
+5737 Menziken",https://www.google.com/maps/place/Hauptstrasse%2015+5737+Menziken,info@wyna-garage.ch
 Hubert Stadelmann,Grosshandel ohne ausgeprägten Schwerpunkt,http://www.candymarkt.ch/,tel:079 406 31 30,fax:079 406 31 30,"Zürcherstrasse 40/42
 8302 Kloten",https://www.google.com/maps/place/Z%C3%BCrcherstrasse%2040/42+8302+Kloten,bad link
 Garage Dell'Aria GmbH,lnstandhaltung und Reparatur von Automobilen,http://www.dellaria.ch/,tel:044 865 38 27,fax:044 865 38 21,"Tannenstrasse 112
-8424 Embrach",https://www.google.com/maps/place/Tannenstrasse%20112+8424+Embrach,webdesign@ccw-gmbh.ch
+8424 Embrach",https://www.google.com/maps/place/Tannenstrasse%20112+8424+Embrach,info@dellaria.ch
 Accordportal GmbH,Programmierungstätigkeiten,http://www.acarea.ch/,tel:062 724 05 98,fax:062 724 05 99,"Halsihubel 1
 5742 Kölliken",https://www.google.com/maps/place/Halsihubel%201+5742+K%C3%B6lliken,support@creants.com
 "Christian Huber, Atelier f. Archit.",Architekturbüros,,tel:044 860 74 48,,"Schulhausstrasse 22
 8180 Bülach",https://www.google.com/maps/place/Schulhausstrasse%2022+8180+B%C3%BClach,website not accessible
 Typo Offset Aurora SA,Offsetdruck,http://www.tipo-aurora.ch/,tel:091 941 93 41,fax:091 941 93 42,"via Sonvico 11
-6952 Canobbio",https://www.google.com/maps/place/via%20Sonvico%2011+6952+Canobbio,info@tipo-aurora.ch
+6952 Canobbio",https://www.google.com/maps/place/via%20Sonvico%2011+6952+Canobbio,luna.croci@tipo-aurora.ch
 Schneider Kreienbühl AG,Reparatur von Metallerzeugnissen,http://skag.ch/,tel:031 990 51 51,fax:031 991 88 55,"Freiburgstrasse 394
 3018 Bern",https://www.google.com/maps/place/Freiburgstrasse%20394+3018+Bern,info@skag.ch
 Yvonne's Weinkabinett AG,Grosshandel mit Wein und Spirituosen,http://www.weine.ch/,tel:071 333 45 65,fax:071 333 45 66,"Dorf 19
-9053 Teufen AR",https://www.google.com/maps/place/Dorf%2019+9053+Teufen%20AR,
+9053 Teufen AR",https://www.google.com/maps/place/Dorf%2019+9053+Teufen%20AR,ykunz@weine.ch
 E. Schlatter Gartenbau GmbH,Garten- und Landschaftsbau sowie Erbringung von sonstigen gärtnerischen Dienstleistungen,http://www.schlattergartenbau.ch/,tel:044 991 69 30,fax:044 991 69 44,"Forchstrasse 710
 8704 Herrliberg",https://www.google.com/maps/place/Forchstrasse%20710+8704+Herrliberg,info@schlattergartenbau.ch
 A. Schelbert Söhne GmbH,"Handel mit Motorrädern, Kraftradteilen und -zubehör; Instandhaltung und Reparatur von Motorrädern",,tel:041 830 12 92,fax:041 831 02 91,"Hauptstrasse 52
@@ -1444,19 +1437,19 @@ A. Schelbert Söhne GmbH,"Handel mit Motorrädern, Kraftradteilen und -zubehör;
 N.Schacher AG,"Reparatur und Instandhaltung von Schiffen, Booten und Yachten",http://www.nschacherag.ch/,tel:026 675 35 34,fax:026 675 30 30,"rte de Berne 27
 1580 Avenches",https://www.google.com/maps/place/rte%20de%20Berne%2027+1580+Avenches,website not accessible
 Koller Elektro AG,Elektroinstallation,http://www.elektro-koller.ch/,tel:081 834 50 00,fax:081 834 50 01,"Cruscheda
-7504 Pontresina",https://www.google.com/maps/place/Cruscheda+7504+Pontresina,8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com
+7504 Pontresina",https://www.google.com/maps/place/Cruscheda+7504+Pontresina,605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com
 Häsag AG,Oberflächenveredlung und Wärmebehandlung,http://www.haesag.ch/,tel:033 345 50 55,fax:033 345 50 84,"Industriestrasse 5
 3661 Uetendorf",https://www.google.com/maps/place/Industriestrasse%205+3661+Uetendorf,uetendorf@haesag.ch
 Schwarzenberger GmbH,Malerei,http://www.schwarzenberger-gmbh.ch/,tel:041 660 67 01,fax:041 670 05 77,"Baumgartenstrasse 7
-6055 Alpnach Dorf",https://www.google.com/maps/place/Baumgartenstrasse%207+6055+Alpnach%20Dorf,urs@schwarzenberger-gmbh.ch
+6055 Alpnach Dorf",https://www.google.com/maps/place/Baumgartenstrasse%207+6055+Alpnach%20Dorf,website not accessible
 Singer Architektur AG,Architekturbüros,http://www.singerarchitektur.ch/,tel:071 663 73 83,fax:071 663 73 84,"Ob.Seestrasse 60
-8272 Ermatingen",https://www.google.com/maps/place/Ob.Seestrasse%2060+8272+Ermatingen,
+8272 Ermatingen",https://www.google.com/maps/place/Ob.Seestrasse%2060+8272+Ermatingen,NA
 allroad-car gmbh,lnstandhaltung und Reparatur von Automobilen,http://www.allroad-car.ch/,tel:041 666 27 00,fax:041 666 27 01,"Brünigstrasse 34
-6056 Kägiswil",https://www.google.com/maps/place/Br%C3%BCnigstrasse%2034+6056+K%C3%A4giswil,
+6056 Kägiswil",https://www.google.com/maps/place/Br%C3%BCnigstrasse%2034+6056+K%C3%A4giswil,website not accessible
 Studio di architettura Guscetti,Architekturbüros,http://www.architetturaguscetti.ch/,tel:091 868 14 44,fax:091 868 14 55,".
 6775 Ambrì",https://www.google.com/maps/place/.+6775+Ambr%C3%AC,info@giorgioguscetti.ch
 Caveau Moira,Detailhandel mit Getränken,http://www.caveaumoira.ch/,tel:032 392 72 45,fax:032 392 72 46,"Bernstrasse 26
-3267 Seedorf BE",https://www.google.com/maps/place/Bernstrasse%2026+3267+Seedorf%20BE,
+3267 Seedorf BE",https://www.google.com/maps/place/Bernstrasse%2026+3267+Seedorf%20BE,NA
 Lago Real Estate AG,"Kauf und Verkauf von eigenen Grundstücken, Gebäuden und Wohnungen",,tel:058 680 34 00,,"Bözingenstrasse 49/51
 2502 Biel/Bienne",https://www.google.com/maps/place/B%C3%B6zingenstrasse%2049/51+2502+Biel/Bienne,website not accessible
 Desserthaus Wälchli,Herstellung von Backwaren (ohne Dauerbackwaren),,tel:062 751 12 65,,"Luzernerstrasse 26
@@ -1474,7 +1467,7 @@ Paul Huser AG,Sanitär- und Heizungsinstallation,,tel:056 624 34 89,fax:056 624 
 Zefitech AG,Mechanische Werkstätten,,tel:062 777 13 44,fax:062 777 26 33,"Steinmüri 13
 5617 Tennwil",https://www.google.com/maps/place/Steinm%C3%BCri%2013+5617+Tennwil,website not accessible
 Bertani Baugerüste AG,Gerüstbau,http://www.bertani.ch/,tel:044 744 59 99,fax:044 744 59 98,"Poststrasse 27b
-8953 Dietikon",https://www.google.com/maps/place/Poststrasse%2027b+8953+Dietikon,d.jovanovic@bertani.ch
+8953 Dietikon",https://www.google.com/maps/place/Poststrasse%2027b+8953+Dietikon,b.pinalli@bertani.ch
 Djalali Teppich Atelier,"Detailhandel mit Vorhängen, Teppichen, Fussbodenbelägen und Tapeten",http://www.djalali.ch/,tel:071 222 32 42,fax:071 223 31 50,"St.Jakob-Strasse 97
 9000 St. Gallen",https://www.google.com/maps/place/St.Jakob-Strasse%2097+9000+St.%20Gallen,website not accessible
 Stybohr GmbH,Sonstiger spezialisierter Hoch- und Tiefbau a. n. g.,,tel:041 467 19 56,,"Ringstrasse 10a
@@ -1510,7 +1503,7 @@ Wagner Treuhand AG für KMU,Wirtschaftsprüfung und Steuerberatung; Buchführung
 Hansueli Bosshard,Herstellung von Metallkonstruktionen,,tel:052 364 26 27,,"Obergasse 23
 8353 Elgg",https://www.google.com/maps/place/Obergasse%2023+8353+Elgg,website not accessible
 töffarena,lnstandhaltung und Reparatur von Automobilen,http://www.toeffarena.ch/,tel:062 396 31 01,fax:062 396 31 02,"Bifangweg 1
-4702 Oensingen",https://www.google.com/maps/place/Bifangweg%20%201+4702+Oensingen,
+4702 Oensingen",https://www.google.com/maps/place/Bifangweg%20%201+4702+Oensingen,website not accessible
 Elektro Gygax AG,Elektroinstallation,,tel:062 961 50 50,,"Bernstrasse 7
 3360 Herzogenbuchsee",https://www.google.com/maps/place/Bernstrasse%207+3360+Herzogenbuchsee,website not accessible
 E.Flückiger AG,Rückgewinnung sortierter Werkstoffe,,tel:062 794 10 44,fax:062 794 11 19,"Industrieweg 12
@@ -1543,7 +1536,7 @@ CDC Chur AG,Offsetdruck,,tel:081 252 17 17,fax:081 252 17 77,"Gäuggelistrasse 7
 Sepp Bättig Bau AG,Allgemeiner Hoch- und Tiefbau ohne ausgeprägten Schwerpunkt,http://www.baettig-bau.ch/,tel:041 460 28 52,fax:041 460 28 60,"Eichenweg 2
 6205 Eich",https://www.google.com/maps/place/Eichenweg%202+6205+Eich,info@baettig-bau.ch
 Hauenstein AG,Betrieb von Baumschulen sowie Anbau von Pflanzen zu Vermehrungszwecken,https://www.hauenstein-rafz.ch/,tel:044 879 11 12,fax:044 879 11 88,"Landstrasse 42
-8197 Rafz",https://www.google.com/maps/place/Landstrasse%2042+8197+Rafz,30da7533-2fb73f98@213w.jpg
+8197 Rafz",https://www.google.com/maps/place/Landstrasse%2042+8197+Rafz,780c3a40-2fb73f98@758w2x.jpg
 Digicare GmbH,Grosshandel mit Datenverarbeitungsgeräten und peripheren Einheiten,,tel:041 838 14 64,fax:041 838 16 86,"Tänndli 2
 6418 Rothenthurm",https://www.google.com/maps/place/T%C3%A4nndli%202+6418+Rothenthurm,website not accessible
 Kraftwerk Sigismühle AG,Elektrizitätserzeugung,http://www.kraftwerksigismuehle.ch/,tel:062 769 70 30,,"Sigismühle 4
@@ -1559,7 +1552,7 @@ Hans Wegmüller Holzbau AG,"Holzbau, Zimmerei",,tel:032 641 11 85,,"Haagstrasse 
 "Artfloral, Sandra Roth",Detailhandel mit Blumen und Pflanzen,http://www.blumen-artfloral.ch/,tel:062 771 14 22,,"Hauptstrasse 49
 5734 Reinach AG",https://www.google.com/maps/place/Hauptstrasse%2049+5734+Reinach%20AG,info@blumen-artfloral.ch
 Aemisegger Werkstattbedarf,"Grosshandel mit Metall- und Kunststoffwaren für Bauzwecke sowie Installationsbedarf für Gas, Wasser und Heizung",http://www.werkstattbedarf.ch/,tel:071 460 06 60,fax:071 460 06 61,"Bahnhofstrasse 5
-8593 Kesswil",https://www.google.com/maps/place/Bahnhofstrasse%205+8593+Kesswil,
+8593 Kesswil",https://www.google.com/maps/place/Bahnhofstrasse%205+8593+Kesswil,website not accessible
 Stocker Spezialdruck,Offsetdruck,,tel:061 481 71 81,fax:061 481 71 72,"Baslerstrasse 63
 4124 Schönenbuch",https://www.google.com/maps/place/Baslerstrasse%2063+4124+Sch%C3%B6nenbuch,website not accessible
 Gilbert Loretan,Wirtschaftsprüfung und Steuerberatung; Buchführung; Treuhandgesellschaften,,tel:027 470 13 43,fax:027 470 38 43,"Dorfstrasse 3
@@ -1579,15 +1572,15 @@ Ruedi Rüssel Tankstelle,Detailhandel mit Motorenkraftstoffen (Tankstellen),,,,"
 Chem.Reinig.Erno + Erich Grand,Textilreinigung,,tel:027 473 23 43,,"Sustenstrasse 15
 3952 Susten",https://www.google.com/maps/place/Sustenstrasse%2015+3952+Susten,website not accessible
 Shirin GmbH,"Detailhandel mit Vorhängen, Teppichen, Fussbodenbelägen und Tapeten",http://www.fliegenderteppich.ch/,tel:055 420 49 10,fax:055 420 49 11,"Churerstrasse 158-160
-8808 Pfäffikon SZ",https://www.google.com/maps/place/Churerstrasse%20158-160+8808+Pf%C3%A4ffikon%20SZ,info@fliegenderteppich.ch
+8808 Pfäffikon SZ",https://www.google.com/maps/place/Churerstrasse%20158-160+8808+Pf%C3%A4ffikon%20SZ,ajax-loader@2x.gif
 doCOUNT AG,Erbringung von Beratungsleistungen auf dem Gebiet der Informationstechnologie,http://www.docountag.ch/,tel:061 723 95 95,,"Max-Högger-Strasse 6
 8048 Zürich",https://www.google.com/maps/place/Max-H%C3%B6gger-Strasse%206+8048+Z%C3%BCrich,info@docountag.ch
 Wagma AG,Grosshandel mit Uhren,http://www.parinis.ch/,tel:061 262 00 20,fax:061 262 00 20,"Hauptstrasse 62
-4102 Binningen",https://www.google.com/maps/place/Hauptstrasse%2062+4102+Binningen,FortisCosmonautsChronograph603.22.1514_03012x37_580x@2x.jpg
+4102 Binningen",https://www.google.com/maps/place/Hauptstrasse%2062+4102+Binningen,RaymondWeilOthello127-2PlaqueG10MWaterresistant_580x@2x.png
 One24 GmbH,Aktivitäten der Generalunternehmen im Baugewerbe,http://www.one24.ch/,,,"Bahnhofstrasse 16
 5034 Suhr",https://www.google.com/maps/place/Bahnhofstrasse%2016+5034+Suhr,info@one24.ch
 Fischer Papier AG,"Grosshandel mit Schreibwaren, Büchern und Zeitungen",http://www.fischerpapier.ch/,tel:071 314 60 81,fax:071 314 60 69,"Letzistrasse 24
-9015 St. Gallen",https://www.google.com/maps/place/Letzistrasse%2024+9015+St.%20Gallen,packaging@fischerpapier.ch?subject=Dokumententaschen%20aus%20Papier&body=Ich%20möchte%20mehr%20über%20Dokumententaschen%20aus%20Papier%20erfahren.%0A…%0A%0AIch%20interessiere%20mich%20für%20die%20nachhaltigen%20Verpackungs-Varianten.%20Bitte%20nehmen%20Sie%20mit%20mir%20Kontakt%20auf.%0A…%0A%0A%20Ich%20möchte%20den%20Produktekatalog%20Packaging%20bestellen.%0A…%0A%0A*Kunden-Nr.%0A*Firma
+9015 St. Gallen",https://www.google.com/maps/place/Letzistrasse%2024+9015+St.%20Gallen,website not accessible
 Willy Erny AG,"Grosshandel mit Ersatzautoteile, Autoverwertung",http://www.erny.ch/,tel:052 337 21 21,,"Alte Frauenfelderstrasse 9
 8542 Wiesendangen",https://www.google.com/maps/place/Alte%20Frauenfelderstrasse%209+8542+Wiesendangen,info@erny.ch
 Andreas Kunz Gartenbau,Garten- und Landschaftsbau sowie Erbringung von sonstigen gärtnerischen Dienstleistungen,http://www.gartenbau-kunz.ch/,tel:056 667 35 35,fax:056 337 39 42,"Zelglistrasse 2
@@ -1595,9 +1588,9 @@ Andreas Kunz Gartenbau,Garten- und Landschaftsbau sowie Erbringung von sonstigen
 Tanatek AG,Werbeagenturen,,tel:041 361 04 45,fax:041 361 04 47,"Poststrasse 30
 6300 Zug",https://www.google.com/maps/place/Poststrasse%2030+6300+Zug,website not accessible
 FC Brunnen,Sportvereine,http://www.fcbrunnen.ch/,tel:041 820 12 32,,"Gersauerstrasse 54
-6440 Brunnen",https://www.google.com/maps/place/Gersauerstrasse%2054+6440+Brunnen,
+6440 Brunnen",https://www.google.com/maps/place/Gersauerstrasse%2054+6440+Brunnen,NA
 AD Garage von Allmen Werner,"Detailhandel mit Automobilen mit einem Gesamtgewicht von 3,5 t oder weniger",http://www.adgarage-vonallmen.ch.vu/,tel:061 911 11 77,fax:061 911 11 77,"Bürenstrasse 16
-4206 Seewen SO",https://www.google.com/maps/place/B%C3%BCrenstrasse%2016+4206+Seewen%20SO,
+4206 Seewen SO",https://www.google.com/maps/place/B%C3%BCrenstrasse%2016+4206+Seewen%20SO,NA
 Suter-Reinigung,Allgemeine Gebäudereinigung,,,,"Hausmattweg 14
 4663 Aarburg",https://www.google.com/maps/place/Hausmattweg%2014+4663+Aarburg,website not accessible
 Multicolor Print AG,Offsetdruck,http://www.multicolorprint.ch/,tel:041 767 76 76,,"Sihlbruggstrasse 105a
@@ -1615,13 +1608,13 @@ Treier AG,Allgemeiner Hoch- und Tiefbau ohne ausgeprägten Schwerpunkt,http://ww
 Coiffure Flair,Coiffeursalons,,tel:071 841 25 26,,"Löwenstrasse 43
 9400 Rorschach",https://www.google.com/maps/place/L%C3%B6wenstrasse%2043+9400+Rorschach,website not accessible
 UNION GmbH Qualitätsketten,"Grosshandel mit Metall- und Kunststoffwaren für Bauzwecke sowie Installationsbedarf für Gas, Wasser und Heizung",http://www.kettenunion.ch/,tel:032 341 27 25,fax:032 342 56 09,"Erlenstrasse 27
-2555 Brügg BE",https://www.google.com/maps/place/Erlenstrasse%2027+2555+Br%C3%BCgg%20BE,sales@kettenunion.ch
+2555 Brügg BE",https://www.google.com/maps/place/Erlenstrasse%2027+2555+Br%C3%BCgg%20BE,website not accessible
 Fam. Rupf AG,Detailhandel mit Motorenkraftstoffen (Tankstellen),http://www.rupfag.ch/,tel:052 742 80 20,fax:052 742 80 22,"Petersburg 416
-8262 Ramsen",https://www.google.com/maps/place/Petersburg%20416+8262+Ramsen,
+8262 Ramsen",https://www.google.com/maps/place/Petersburg%20416+8262+Ramsen,NA
 FELLER WYLER BAU AG,Allgemeiner Hoch- und Tiefbau ohne ausgeprägten Schwerpunkt,http://www.feller-wyler.ch/,tel:033 336 26 24,fax:033 335 26 67,"Wylergasse 11
 3608 Thun",https://www.google.com/maps/place/Wylergasse%2011+3608+Thun,bad link
 THESSONI HOME ZÜRICH,Artikel im Shop,http://www.thessonihome.com/,tel:044 870 88 88,,"Feldstrasse 34
-8105 Regensdorf",https://www.google.com/maps/place/Feldstrasse%2034+8105+Regensdorf,
+8105 Regensdorf",https://www.google.com/maps/place/Feldstrasse%2034+8105+Regensdorf,website not accessible
 Boninger-Frischbeton AG,Bewertungen,http://www.baustoffzentrum.ch/,,,"Härkingerstrasse 1
 4617 Gunzgen",https://www.google.com/maps/place/H%C3%A4rkingerstrasse%201+4617+Gunzgen,info@baustoffzentrum.ch
 Franchetto AG,Grosshandel mit Baustoffen,,tel:058 356 90 80,,"Frauenfelderstrasse 1
@@ -1629,7 +1622,7 @@ Franchetto AG,Grosshandel mit Baustoffen,,tel:058 356 90 80,,"Frauenfelderstrass
 Sonderegger Immobilien AG,"Verwaltung von Grundstücken, Gebäuden und Wohnungen für Dritte",,,fax:071 626 23 71,"Felsenstrasse 13
 8570 Weinfelden",https://www.google.com/maps/place/Felsenstrasse%2013+8570+Weinfelden,website not accessible
 Hugelshofer Recycling AG,Behandlung und Beseitigung nicht gefährlicher Abfälle,http://www.hugelshofer.ch/,tel:052 728 05 32,,"Juchstrasse 45
-8500 Frauenfeld",https://www.google.com/maps/place/Juchstrasse%2045+8500+Frauenfeld,
+8500 Frauenfeld",https://www.google.com/maps/place/Juchstrasse%2045+8500+Frauenfeld,NA
 Benedetto Mannino,Güterbeförderung im Strassenverkehr,,tel:056 245 59 83,,"Chilbert 1
 5312 Döttingen",https://www.google.com/maps/place/Chilbert%201+5312+D%C3%B6ttingen,website not accessible
 Richard Aeschlimann GmbH,Malerei und Gipserei ohne ausgeprägten Schwerpunkt,http://www.aeschlimann-gmbh.ch/,tel:041 988 18 14,,"Bifang 1
@@ -1641,7 +1634,7 @@ KK AG,Schreinerarbeiten im Innenausbau,http://www.kipfer.ch/,tel:033 334 80 00,f
 bp Tankstelle Niederuzwil,Detailhandel mit Motorenkraftstoffen (Tankstellen),,,,"Bankstrasse 7b
 9244 Niederuzwil",https://www.google.com/maps/place/Bankstrasse%207b+9244+Niederuzwil,website not accessible
 appenzellerbau ag,Allgemeiner Hochbau,http://www.appenzellerbauag.ch/,tel:071 795 40 20,fax:071 795 40 29,"Lehnmattstrasse 9
-9050 Appenzell",https://www.google.com/maps/place/Lehnmattstrasse%209+9050+Appenzell,info@appenzellerbauag.ch
+9050 Appenzell",https://www.google.com/maps/place/Lehnmattstrasse%209+9050+Appenzell,website not accessible
 Wirth-Laufsport AG,Detailhandel mit Sportartikeln,http://www.wirthsportluzern.ch/,tel:041 210 38 53,fax:041 210 38 57,"Winkelriedstrasse 25
 6003 Luzern",https://www.google.com/maps/place/Winkelriedstrasse%2025+6003+Luzern,info@wirth-sport.ch
 Fussinger Treuhand GmbH,Wirtschaftsprüfung und Steuerberatung; Buchführung; Treuhandgesellschaften,,tel:061 961 15  91,,"Bachmatten 5
@@ -1661,7 +1654,7 @@ Hotel Restaurant Seemöwe,"Hotels, Gasthöfe und Pensionen mit Restaurant",,tel:
 Urs Schmid,Gerüstbau,,tel:062 771 73 64,fax:062 771 20 16,"Wiesenstrasse 9
 5734 Reinach AG",https://www.google.com/maps/place/Wiesenstrasse%209+5734+Reinach%20AG,website not accessible
 Blowfish AG,Werbeagenturen,http://www.blowfish.ch/,tel:041 552 03 30,fax:031 922 30 60,"Rathausstrasse 14
-6340 Baar",https://www.google.com/maps/place/Rathausstrasse%2014+6340+Baar,info@blowfish.ch
+6340 Baar",https://www.google.com/maps/place/Rathausstrasse%2014+6340+Baar,website not accessible
 Rossi Aregger AG,"Anbringen von Stuckaturen, Gipserei und Verputzerei",,tel:041 451 05 75,fax:041 451 05 76,"Schlösslistrasse 1b
 6030 Ebikon",https://www.google.com/maps/place/Schl%C3%B6sslistrasse%201b+6030+Ebikon,website not accessible
 Haller Gerüstbau AG,Gerüstbau,http://www.xn--haller-gerstbau-8vb.ch/,tel:056 676 63 37,,"Breiteweg 2
@@ -1687,7 +1680,7 @@ LEBAAG Leichtbausysteme AG,Grosshandel mit Baustoffen,,tel:044 734 62 20,fax:044
 Adesso Hair Design,Coiffeursalons,https://www.adessohairdesign.ch/,tel:055 282 15 15,,"Burgerfeldstrasse 15
 8730 Uznach",https://www.google.com/maps/place/Burgerfeldstrasse%2015+8730+Uznach,info@adessohairdesign.ch
 Baer création AG,Schreinerarbeiten im Innenausbau,http://www.baer-ag.ch/,tel:062 751 31 21,fax:062 751 65 32,"Zofingerstrasse 8
-4805 Brittnau",https://www.google.com/maps/place/Zofingerstrasse%208+4805+Brittnau,ufeuz@baer-ag.ch
+4805 Brittnau",https://www.google.com/maps/place/Zofingerstrasse%208+4805+Brittnau,rbaer@baer-ag.ch
 Müller Fahrzeugbau AG,Herstellung von Automobilen und Automobilmotoren,,tel:033 847 15 65,fax:033 847 15 75,"Hauptstrasse 32
 3706 Leissigen",https://www.google.com/maps/place/Hauptstrasse%20%2032+3706+Leissigen,website not accessible
 Amici Hairdesign,Coiffeursalons,http://www.amicihairdesign.ch/,tel:071 333 28 28,,"Stossstrasse 2
@@ -1697,23 +1690,23 @@ SA TOMA AG,Artikel im Shop,http://www.satoma.ch/,tel:062 388 20 50,,"Gummertliwe
 Häfliger Treuhand,Wirtschaftsprüfung und Steuerberatung; Buchführung; Treuhandgesellschaften,,tel:056 442 50 13,fax:056 442 50 14,"Süssbachweg 2
 5200 Brugg AG",https://www.google.com/maps/place/S%C3%BCssbachweg%202+5200+Brugg%20AG,website not accessible
 Rolf Hollinger,Detailhandel mit Einrichtungsgegenständen und Hausrat a. n. g.,http://www.hollinger.ch/,tel:062 775 31 40,fax:062 775 05 27,"Unterdorfstrasse 9
-5703 Seon",https://www.google.com/maps/place/Unterdorfstrasse%209+5703+Seon,
+5703 Seon",https://www.google.com/maps/place/Unterdorfstrasse%209+5703+Seon,website not accessible
 Züger + Flury AG,Allgemeiner Hochbau,,tel:081 911 41 71,fax:081 911 52 82,"Via Punt la Reisga 1
 7017 Flims Dorf",https://www.google.com/maps/place/Via%20Punt%20la%20Reisga%201+7017+Flims%20Dorf,website not accessible
 Schröckel AG,Malerei,http://www.schroeckel.ch/,tel:052 233 93 93,fax:052 233 94 94,"Mühlebrückestrasse 24
-8400 Winterthur",https://www.google.com/maps/place/M%C3%BChlebr%C3%BCckestrasse%2024+8400+Winterthur,info@schroeckel.ch
+8400 Winterthur",https://www.google.com/maps/place/M%C3%BChlebr%C3%BCckestrasse%2024+8400+Winterthur,website not accessible
 Vinsale AG,Detailhandel mit Getränken,http://www.vinsale.ch/,tel:062 849 07 83,fax:062 849 07 81,"Hauptstrasse 7
-5012 Wöschnau",https://www.google.com/maps/place/Hauptstrasse%207+5012+W%C3%B6schnau,
+5012 Wöschnau",https://www.google.com/maps/place/Hauptstrasse%207+5012+W%C3%B6schnau,NA
 Werner Kaufmann,Architekturbüros,,tel:071 988 23 32,fax:071 988 40 44,"Eggstrasse 40
 9630 Wattwil",https://www.google.com/maps/place/Eggstrasse%2040+9630+Wattwil,website not accessible
 mobileObjects GmbH,Programmierungstätigkeiten,http://www.mobileobjects.ch/,tel:041 790 76 65,fax:041 790 76 62,"Blegistrasse 1
-6343 Rotkreuz",https://www.google.com/maps/place/Blegistrasse%201+6343+Rotkreuz,
+6343 Rotkreuz",https://www.google.com/maps/place/Blegistrasse%201+6343+Rotkreuz,info@mobileObjects.ch
 W & P ENGINEERING AG,Sonstige lngenieurbüros,http://www.wpe.ch/,tel:041 612 01 41,,"Mühlebach 2
 6362 Stansstad",https://www.google.com/maps/place/M%C3%BChlebach%202+6362+Stansstad,Logo_Black_2x_600x_600x_600x_45e54955-cb66-4e2a-a991-f889aeb53e5b_200x@2x.png
 J. Tipparat Hotel Restaurant Rätia,"Hotels, Gasthöfe und Pensionen mit Restaurant",http://www.raetia.ch/,tel:081 404 11 05,,"Bahnhofstrasse 4
 7477 Filisur",https://www.google.com/maps/place/Bahnhofstrasse%204+7477+Filisur,info@raetia.ch
 Thomi Bräm,Werbeagenturen,http://www.thomibraem.ch/,tel:056 200 23 33,fax:056 200 23 34,"Felsenstrasse 11
-5400 Baden",https://www.google.com/maps/place/Felsenstrasse%2011+5400+Baden,
+5400 Baden",https://www.google.com/maps/place/Felsenstrasse%2011+5400+Baden,website not accessible
 "Emilio Stecher AG,",Be- und Verarbeitung von Naturwerksteinen und Natursteinen a. n. g.,http://www.stecher.ch/,tel:041 450 00 50,fax:041 450 00 51,"Werkstrasse 15
 6037 Root",https://www.google.com/maps/place/Werkstrasse%2015+6037+Root,bad link
 Edelweiss Residence GmbH,"Restaurants, Imbissstuben, Tea-Rooms und Gelaterias",,tel:071 948 60 00,,"Hundgalgen 13
@@ -1721,13 +1714,13 @@ Edelweiss Residence GmbH,"Restaurants, Imbissstuben, Tea-Rooms und Gelaterias",,
 Duplirex Papeterie SA,Detailhandel mit Schreibwaren und Bürobedarf,,tel:032 842 50 44,,"Rue J.-L.-de-Pourtalès 1
 2000 Neuchâtel",https://www.google.com/maps/place/Rue%20J.-L.-de-Pourtal%C3%A8s%201+2000+Neuch%C3%A2tel,website not accessible
 "H. von Euw, Herrenmode,",Detailhandel mit Herrenbekleidung,http://www.hvoneuw.ch/,tel:061 421 28 18,,"Hauptstrasse 34
-4132 Muttenz",https://www.google.com/maps/place/Hauptstrasse%2034+4132+Muttenz,
+4132 Muttenz",https://www.google.com/maps/place/Hauptstrasse%2034+4132+Muttenz,website not accessible
 Paul Hitz AG,Elektroinstallation,http://www.hitz.ch/,tel:056 296 25 25,fax:056 296 25 35,"Landstrasse 104
 5415 Nussbaumen AG",https://www.google.com/maps/place/Landstrasse%20104+5415+Nussbaumen%20AG,info@hitz.ch
 Welldone Media GmbH,Verlegen von Zeitungen,,tel:041 785 63 30,,"Rothusstrasse 19
 6331 Hünenberg",https://www.google.com/maps/place/Rothusstrasse%2019+6331+H%C3%BCnenberg,website not accessible
 Pedro-Drogerie Durtschi,Drogerien,http://www.pedro-drogerie.ch/,tel:033 356 26 26,,"Blumensteinstrasse 5
-3665 Wattenwil",https://www.google.com/maps/place/Blumensteinstrasse%205+3665+Wattenwil,
+3665 Wattenwil",https://www.google.com/maps/place/Blumensteinstrasse%205+3665+Wattenwil,website not accessible
 M. Badertscher AG,Bau von Strassen,,tel:071 688 22 55,fax:071 688 27 55,"Reutistrasse 19
 8280 Kreuzlingen",https://www.google.com/maps/place/Reutistrasse%2019+8280+Kreuzlingen,website not accessible
 Imhof & Betschart AG,"Anbringen von Stuckaturen, Gipserei und Verputzerei",,tel:041 830 12 27,fax:041 830 26 57,"Hauptstrasse 117
@@ -1739,7 +1732,7 @@ Bruno Schlatter,Sanitärinstallation,,tel:052 685 41 47,fax:052 685 41 25,"Hochr
 Energeek Group AG,Investmentgesellschaften,https://www.energeek.biz/,,,"Bundesplatz 14
 6300 Zug",https://www.google.com/maps/place/Bundesplatz%2014+6300+Zug,info@cleantech-energy-systems.org
 Schärli Holzbau AG,"Holzbau, Zimmerei",http://www.sb-holzbau.ch/,tel:032 631 04 80,fax:032 631 04 81,"Subingenweg 4
-3374 Wangenried",https://www.google.com/maps/place/Subingenweg%20%204+3374+Wangenried,info@schaerli-holzbau.ch
+3374 Wangenried",https://www.google.com/maps/place/Subingenweg%20%204+3374+Wangenried,website not accessible
 Biner + Bitschnau SA,Sanitärinstallation und Spenglerei,,tel:027 322 40 80,fax:027 322 40 84,"ch.St-Hubert 9
 1950 Sion",https://www.google.com/maps/place/ch.St-Hubert%209+1950+Sion,website not accessible
 Gebr.Knechtli AG,Grosshandel mit Automobilteilen und -zubehör,http://www.gebr-knechtli.ch/,tel:056 241 04 50,fax:056 241 04 54,"Tüfebrunne 6
@@ -1753,13 +1746,13 @@ SST SwissSafeTech AG,"Sonstige freiberufliche, wissenschaftliche und technische 
 Perosa AG,Detailhandel mit Damenbekleidung,http://www.perosa.ch/,tel:041 412 04 41,fax:041 412 04 45,"Schwanenplatz 4
 6004 Luzern",https://www.google.com/maps/place/Schwanenplatz%204+6004+Luzern,info@perosa.ch
 Contor Treuhand AG,Wirtschaftsprüfung und Steuerberatung; Buchführung; Treuhandgesellschaften,http://www.contor-treuhand.ch/,tel:044 215 24 00,,"Weinbergstrasse 131
-8006 Zürich",https://www.google.com/maps/place/Weinbergstrasse%20131+8006+Z%C3%BCrich,info@contor-treuhand.ch
+8006 Zürich",https://www.google.com/maps/place/Weinbergstrasse%20131+8006+Z%C3%BCrich,website not accessible
 Bergwelt Grindelwald,Inserate,http://www.bergwelt-grindelwald.com/,tel:+41 33 854 85 85,,"Bergwelt 4
-3818 Grindelwald",https://www.google.com/maps/place/Bergwelt%204+3818+Grindelwald,
+3818 Grindelwald",https://www.google.com/maps/place/Bergwelt%204+3818+Grindelwald,website not accessible
 Leon Fassadenbau GmbH,Sonstiger spezialisierter Hoch- und Tiefbau a. n. g.,http://www.leon-fassadenbau.ch/,tel:044 516 99 15,,"Im Chrummacher 5
-8604 Volketswil",https://www.google.com/maps/place/Im%20Chrummacher%205+8604+Volketswil,
+8604 Volketswil",https://www.google.com/maps/place/Im%20Chrummacher%205+8604+Volketswil,NA
 Westgarage Lanker AG,lnstandhaltung und Reparatur von Automobilen,http://www.westgarage.ch/,tel:071 951 53 51,fax:071 951 53 58,"Sandackerstrasse 16
-9245 Oberbüren",https://www.google.com/maps/place/Sandackerstrasse%2016+9245+Oberb%C3%BCren,info@westgarage.ch
+9245 Oberbüren",https://www.google.com/maps/place/Sandackerstrasse%2016+9245+Oberb%C3%BCren,website not accessible
 Hotel Restaurant Thorenberg,"Hotels, Gasthöfe und Pensionen mit Restaurant",http://www.thorenberg.ch/,tel:041 250 52 00,fax:041 250 52 73,"Thorenbergstrasse 5
 6014 Luzern",https://www.google.com/maps/place/Thorenbergstrasse%205+6014+Luzern,info@thorenberg.ch
 Dahinden Beat GmbH,Bau-Ingenieurbüros,,tel:033 654 63 66,fax:033 654 63 79,"Thunerstrasse 42
@@ -1767,11 +1760,11 @@ Dahinden Beat GmbH,Bau-Ingenieurbüros,,tel:033 654 63 66,fax:033 654 63 79,"Thu
 Rowa Huwiler AG,Handelsvermittlung von sonstigen Waren,http://www.rowa-hair.ch/,tel:044 761 44 11,fax:044 761 44 12,"Alte Obfelderstrasse 68
 8910 Affoltern am Albis",https://www.google.com/maps/place/Alte%20Obfelderstrasse%2068+8910+Affoltern%20am%20Albis,bad link
 Hotel La Gorge & Rest. Zer Schlucht,"Hotels, Gasthöfe und Pensionen mit Restaurant",http://www.lagorge.ch/,tel:027 957 52 22,,"Blomattenweg 2
-3906 Saas-Fee",https://www.google.com/maps/place/Blomattenweg%202+3906+Saas-Fee,
+3906 Saas-Fee",https://www.google.com/maps/place/Blomattenweg%202+3906+Saas-Fee,info@lagorge.ch
 BB-Gebäudereinigung AG,Allgemeine Gebäudereinigung,http://www.bb-blitzblank.ch/,tel:071 733 13 59,fax:071 245 66 58,"Plattenstrasse 4
-9444 Diepoldsau",https://www.google.com/maps/place/Plattenstrasse%204+9444+Diepoldsau,
+9444 Diepoldsau",https://www.google.com/maps/place/Plattenstrasse%204+9444+Diepoldsau,website not accessible
 Regionalagentur Harry Gloor,Grosshandel mit sonstigen Maschinen und Ausrüstungen,http://www.k-a-b.ch/,tel:079 834 02 23,,"Rüternstrasse 18
-8953 Dietikon",https://www.google.com/maps/place/R%C3%BCternstrasse%2018+8953+Dietikon,S_6_EP_fantasie_kab_11_2022@2x.png
+8953 Dietikon",https://www.google.com/maps/place/R%C3%BCternstrasse%2018+8953+Dietikon,S6P_frontal_Logo2020_frei_web@2x.png
 Vinothek Rauch AG,Detailhandel mit Getränken,http://www.vinothekrauch.ch/,tel:055 210 97 87,fax:055 210 97 88,"Kniestrasse 31
 8640 Rapperswil SG",https://www.google.com/maps/place/Kniestrasse%2031+8640+Rapperswil%20SG,ihreemail@beispiel.ch
 Jürg Müller Maler AG,Malerei,,tel:052 232 17 56,fax:052 232 90 05,"Tösstalstrasse 72
@@ -1779,17 +1772,17 @@ Jürg Müller Maler AG,Malerei,,tel:052 232 17 56,fax:052 232 90 05,"Tösstalstr
 Compucorp AG,Grosshandel mit Datenverarbeitungsgeräten und peripheren Einheiten,http://www.compucorp.ch/,tel:031 710 45 45,fax:031 710 45 49,"Kemisstrasse 20
 3533 Bowil",https://www.google.com/maps/place/Kemisstrasse%2020+3533+Bowil,info@compucorp.ch
 Wolf Bodenbeläge GmbH,Verlegen von Fussboden,http://www.wolf-bodenbelaege.ch/,tel:052 365 12 20,,"Hungerbüelstrasse 22
-8500 Frauenfeld",https://www.google.com/maps/place/Hungerb%C3%BCelstrasse%2022+8500+Frauenfeld,
+8500 Frauenfeld",https://www.google.com/maps/place/Hungerb%C3%BCelstrasse%2022+8500+Frauenfeld,info@einkaufspartner.ch
 Hooters Restaurant,"Restaurants, Imbissstuben, Tea-Rooms und Gelaterias",http://www.hooters-zuerich.ch/,tel:043 243 80 55,,"Stauffacherstrasse 96
-8004 Zürich",https://www.google.com/maps/place/Stauffacherstrasse%2096+8004+Z%C3%BCrich,
+8004 Zürich",https://www.google.com/maps/place/Stauffacherstrasse%2096+8004+Z%C3%BCrich,website not accessible
 Pirit Immobilien AG,Aktivitäten der Generalunternehmen im Baugewerbe,,tel:031 306 15 70,,"Schönburgstrasse 41
 3013 Bern",https://www.google.com/maps/place/Sch%C3%B6nburgstrasse%2041+3013+Bern,website not accessible
 Elepress Bau AG,Allgemeiner Hochbau,,tel:079 434 87 70 Balz Daniel,fax:031 952 50 55,"Zentweg 1
 3006 Bern",https://www.google.com/maps/place/Zentweg%201+3006+Bern,website not accessible
 Sandmeier Fleisch und Feinkost AG,Artikel im Shop,http://www.metzgerei-sandmeier.ch/,tel:062 723 22 07,fax:062 723 40 36,"Hauptstrasse 27
-5742 Kölliken",https://www.google.com/maps/place/Hauptstrasse%2027+5742+K%C3%B6lliken,
+5742 Kölliken",https://www.google.com/maps/place/Hauptstrasse%2027+5742+K%C3%B6lliken,info@metzgerei-sandmeier.ch
 RoRo 2000 Fritteusen/Friteusen GmbH,Herstellung von elektrischen Haushaltsgeräten,http://www.roro2000.ch/,tel:056 210 94 41,fax:056 210 94 42,"Fluhmattstrasse 37
-5400 Baden",https://www.google.com/maps/place/Fluhmattstrasse%2037+5400+Baden,
+5400 Baden",https://www.google.com/maps/place/Fluhmattstrasse%2037+5400+Baden,NA
 Gasthof zum Ochsen,"Hotels, Gasthöfe und Pensionen mit Restaurant",http://www.landgasthof-ochsen.ch/,tel:071 995 60 60,fax:071 995 60 66,"Sidwaldstrasse 26
 9652 Neu St. Johann",https://www.google.com/maps/place/Sidwaldstrasse%2026+9652+Neu%20St.%20Johann,website not accessible
 Atelier B AG,Architekturbüros,,tel:044 997 10 10,,"Nübruchweg 24
@@ -1807,7 +1800,7 @@ Elektro Walther GmbH,Elektroinstallation,,tel:061 271 90 91,,"Steinenvorstadt 51
 Styger Holding AG,Andere Holdinggesellschaften,,tel:041 817 90 90,,"Schmiedgasse 38
 6438 Ibach",https://www.google.com/maps/place/Schmiedgasse%2038+6438+Ibach,website not accessible
 Jost Transport (Umzüge & Mulden) AG,Ausschreibungen,http://www.jost-transport.ch/,tel:061 711 38 38,fax:061 711 39 08,"Industriestrasse 121
-4147 Aesch BL",https://www.google.com/maps/place/Industriestrasse%20121+4147+Aesch%20BL,basel@jost-transport.ch
+4147 Aesch BL",https://www.google.com/maps/place/Industriestrasse%20121+4147+Aesch%20BL,zuerich@jost-transport.ch
 Ebneter Consult AG,Bau-Ingenieurbüros,http://www.ebneter.ch/,tel:071 626 20 60,fax:071 626 20 61,"Amriswilerstrasse 57
 8570 Weinfelden",https://www.google.com/maps/place/Amriswilerstrasse%2057+8570+Weinfelden,info@ebneter.ch
 Ines Harzenmoser,Kosmetiksalons,,tel:071 951 78 66,,"Wilenstrasse 2
@@ -1819,7 +1812,7 @@ Trikora AG,Werbeagenturen,http://www.trikora.com/,tel:062 919 25 25,,"Industries
 "Jungo & Fellmann,Cave des Lauriers",Weinbau – Kellerei,http://www.jungo-fellmann.ch/,tel:032 757 11 62,fax:032 757 11 34,"Rue du Château 6
 2088 Cressier NE",https://www.google.com/maps/place/Rue%20du%20Ch%C3%A2teau%206+2088+Cressier%20NE,info@75cl.ch
 Auto Ulmann AG,"Detailhandel mit Automobilen mit einem Gesamtgewicht von 3,5 t oder weniger",http://www.autoulmann.ch/,,,"Mange 1
-4914 Roggwil BE",https://www.google.com/maps/place/Mange%201+4914+Roggwil%20BE,
+4914 Roggwil BE",https://www.google.com/maps/place/Mange%201+4914+Roggwil%20BE,NA
 Hotel Super View Grindelwald GmbH,"Hotels, Gasthöfe und Pensionen mit Restaurant",,,,"Rybigässli 3
 3818 Grindelwald",https://www.google.com/maps/place/Rybig%C3%A4ssli%203+3818+Grindelwald,website not accessible
 BM Beratungen AG,Unternehmensberatung,,,,"Tobelgasse 9
@@ -1833,7 +1826,7 @@ Beli Metallbau Schlosserei,Schlossereien,,tel:055 283 13 21,,"Benknerstrasse 48
 ReinCar AG,lnstandhaltung und Reparatur von Automobilen,,tel:034 447 40 10,fax:034 447 40 19,"Kirchbergstrasse 207
 3400 Burgdorf",https://www.google.com/maps/place/Kirchbergstrasse%20207+3400+Burgdorf,website not accessible
 Hotel Schoenau-Wohlen GmbH,"Hotels, Gasthöfe und Pensionen mit Restaurant",http://www.schoenau-wohlen.ch/,tel:056 622 50 75,,"Bremgarterstrasse 77
-5610 Wohlen AG",https://www.google.com/maps/place/Bremgarterstrasse%2077+5610+Wohlen%20AG,info@schoenau.ag
+5610 Wohlen AG",https://www.google.com/maps/place/Bremgarterstrasse%2077+5610+Wohlen%20AG,605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com
 Autocenter Kohlbrenner GmbH,lnstandhaltung und Reparatur von Automobilen,http://www.autocenter-wil.ch/,tel:071 923 28 40,fax:071 923 28 41,"Speerstrasse 18h
 9500 Wil SG",https://www.google.com/maps/place/Speerstrasse%2018h+9500+Wil%20SG,info@autocenter-wil.ch
 C & M Fernandez Reinigungsservice,Allgemeine Gebäudereinigung,,tel:041 711 80 60,,"Alte Steinhauserstrasse 35
@@ -1843,25 +1836,25 @@ Andreas Bichler,Aktivitäten der Generalunternehmen im Baugewerbe,,tel:043 422 0
 Hans Zbinden AG,Detailhandel mit Textilien,http://www.hanszbindenag.ch/,tel:031 859 59 60,,"Industriestrasse 10
 3321 Schönbühl Einkaufszentrum",https://www.google.com/maps/place/Industriestrasse%2010+3321+Sch%C3%B6nb%C3%BChl%20Einkaufszentrum,info@hanszbindenag.ch
 Crisol Holding GmbH,Tresorerie innerhalb einer Unternehmensgruppe,http://www.crisol.ch/,tel:062 919 50 75,fax:062 919 50 71,"Bützbergstrasse 2
-4912 Aarwangen",https://www.google.com/maps/place/B%C3%BCtzbergstrasse%202+4912+Aarwangen,
+4912 Aarwangen",https://www.google.com/maps/place/B%C3%BCtzbergstrasse%202+4912+Aarwangen,website not accessible
 Y-G R.Finance-Gestion-Participat.SA,Andere Holdinggesellschaften,,tel:027 346 74 20,fax:027 346 74 24,"Ch. des Chevaux 5
 1964 Conthey",https://www.google.com/maps/place/Ch.%20des%20Chevaux%205+1964+Conthey,website not accessible
 Schwaninger AG,Malerei,,tel:052 685 27 25,fax:052 685 27 06,"Schaffhauserstrasse 98
 8222 Beringen",https://www.google.com/maps/place/Schaffhauserstrasse%2098+8222+Beringen,website not accessible
 Egli Nahrungsmittel AG,Fleischverarbeitung,http://www.eglinahrungsmittel.ch/,tel:062 891 91 19,fax:062 891 90 19,"Postgasse 20
-5603 Staufen",https://www.google.com/maps/place/Postgasse%2020+5603+Staufen,
+5603 Staufen",https://www.google.com/maps/place/Postgasse%2020+5603+Staufen,website not accessible
 Mosterei Kobelt & Co,Herstellung von Apfelwein und anderen Fruchtweinen,,tel:071 777 12 20,fax:071 777 37 12,"Staatsstrasse 21
 9437 Marbach SG",https://www.google.com/maps/place/Staatsstrasse%2021+9437+Marbach%20SG,website not accessible
 Hobi Moto AG,"Handel mit Motorrädern, Kraftradteilen und -zubehör; Instandhaltung und Reparatur von Motorrädern",http://www.hobi.ch/,tel:052 242 23 27,fax:052 242 23 29,"Schiltwiesenweg 4
-8404 Winterthur",https://www.google.com/maps/place/Schiltwiesenweg%204+8404+Winterthur,
+8404 Winterthur",https://www.google.com/maps/place/Schiltwiesenweg%204+8404+Winterthur,NA
 Bauplanung Schlatter,Architekturbüros,,tel:032 392 65 65,fax:032 392 63 55,"Schwalbenweg 3a
 3292 Busswil BE",https://www.google.com/maps/place/Schwalbenweg%203a+3292+Busswil%20BE,website not accessible
 LMG Landmaschinen AG Grasswil,Grosshandel mit landwirtschaftlichen Maschinen und Geräten,http://www.lmg-grasswil.ch/,tel:062 968 17 09,fax:062 968 15 44,"Oberdorfstrasse 71
-3365 Grasswil",https://www.google.com/maps/place/Oberdorfstrasse%2071+3365+Grasswil,
+3365 Grasswil",https://www.google.com/maps/place/Oberdorfstrasse%2071+3365+Grasswil,NA
 Teppich-Huus Breiti AG,Artikel im Shop,http://www.teppich-huus-breiti.ch/,tel:052 625 11 71,fax:052 625 63 06,"Mühlentalstrasse 261
 8200 Schaffhausen",https://www.google.com/maps/place/M%C3%BChlentalstrasse%20261+8200+Schaffhausen,website not accessible
 Elektro Hügli Lyss GmbH,Elektroinstallation,http://www.elektrohuegli.ch/,tel:032 384 73 73,fax:032 384 73 76,"Hauptstrasse 39
-3250 Lyss",https://www.google.com/maps/place/Hauptstrasse%2039+3250+Lyss,info@elektrohuegli.ch
+3250 Lyss",https://www.google.com/maps/place/Hauptstrasse%2039+3250+Lyss,ninfo@elektrohuegli.ch
 Imfeld Metallbau GmbH,Herstellung von Metallkonstruktionen,http://www.metallbau-imfeld.ch/,tel:033 951 36 38,fax:033 951 36 39,"Schulhausstrasse 17
 3855 Brienz BE",https://www.google.com/maps/place/Schulhausstrasse%2017+3855+Brienz%20BE,bad link
 Jürg Jannone GmbH,Malerei,,tel:056 668 27 15,fax:056 664 00 33,"Aarauerstrasse 34
@@ -1869,13 +1862,13 @@ Jürg Jannone GmbH,Malerei,,tel:056 668 27 15,fax:056 664 00 33,"Aarauerstrasse 
 WB Bürgin AG,Schlossereien,http://www.wbbuergin.ch/,tel:044 936 72 72,fax:044 935 46 51,"Industriestrasse 11a
 8627 Grüningen",https://www.google.com/maps/place/Industriestrasse%2011a+8627+Gr%C3%BCningen,info@wbbuergin.ch
 Woods,"Restaurants, Imbissstuben, Tea-Rooms und Gelaterias",http://www.woodsgastro.ch/,,,"Luzernerstrasse 9
-6247 Schötz",https://www.google.com/maps/place/Luzernerstrasse%209+6247+Sch%C3%B6tz,
+6247 Schötz",https://www.google.com/maps/place/Luzernerstrasse%209+6247+Sch%C3%B6tz,website not accessible
 Kläy Haustechnik AG,Sanitär- und Heizungsinstallation,http://www.klaey-haustechnik.ch/,tel:032 677 12 12,,"Bibernbachstrasse 40
-4573 Lohn-Ammannsegg",https://www.google.com/maps/place/Bibernbachstrasse%2040+4573+Lohn-Ammannsegg,
+4573 Lohn-Ammannsegg",https://www.google.com/maps/place/Bibernbachstrasse%2040+4573+Lohn-Ammannsegg,website not accessible
 Pneuservice Ciccone AG,lnstandhaltung und Reparatur von Automobilen,,tel:052 202 08 08,fax:052 202 08 10,"Unt.Schöntalstrasse 1b
 8406 Winterthur",https://www.google.com/maps/place/Unt.Sch%C3%B6ntalstrasse%201b+8406+Winterthur,website not accessible
 activeteam GmbH,Bewertungen,http://www.activeteam.ch/,tel:079 818 48 98,,"Engiberg 16
-6423 Seewen SZ",https://www.google.com/maps/place/Engiberg%2016+6423+Seewen%20SZ,pascal.steiner@activeteam.ch
+6423 Seewen SZ",https://www.google.com/maps/place/Engiberg%2016+6423+Seewen%20SZ,info@activeteam.ch
 Martin Bohnen,Sonstige technische Beratung und Planung,,tel:044 858 26 11,fax:044 858 26 40,"Schulstrasse 10
 8175 Windlach",https://www.google.com/maps/place/Schulstrasse%2010+8175+Windlach,website not accessible
 Ticson SA,Leasing von geistigem Eigentum und ähnlichen Produkten (ohne Copyrights),,,,"Via Limedi 6
@@ -1885,9 +1878,9 @@ Tank-Material AG,Grosshandel mit sonstigen Maschinen und Ausrüstungen,,tel:041 
 Alinda Immobilien AG,"Kauf und Verkauf von eigenen Grundstücken, Gebäuden und Wohnungen",http://www.gastro-ineichen.ch/,tel:062 756 11 86,fax:062 756 18 86,"Berggasthaus Niederbauen
 6376 Emmetten",https://www.google.com/maps/place/Berggasthaus%20Niederbauen+6376+Emmetten,website not accessible
 In-GERÜST AG,Vermietung von Baumaschinen und -geräten,http://www.ingeruest.ch/,tel:044 940 55 37,,"Hofstrasse 109
-8620 Wetzikon ZH 1",https://www.google.com/maps/place/Hofstrasse%20109+8620+Wetzikon%20ZH%201,
+8620 Wetzikon ZH 1",https://www.google.com/maps/place/Hofstrasse%20109+8620+Wetzikon%20ZH%201,website not accessible
 Yasiflor GmbH,Garten- und Landschaftsbau sowie Erbringung von sonstigen gärtnerischen Dienstleistungen,http://www.yasiflor-gartenbau.ch/,tel:031 731 33 10,fax:031 731 04 01,"Ringgenmatt 16
-3150 Schwarzenburg",https://www.google.com/maps/place/Ringgenmatt%2016+3150+Schwarzenburg,info@yasiflor.ch
+3150 Schwarzenburg",https://www.google.com/maps/place/Ringgenmatt%2016+3150+Schwarzenburg,website not accessible
 Ghelma AG SKISAB,"Gewinnung von Kies, Sand, Ton und Kaolin",,tel:033 972 62 62,,"Liechtenenstrasse 10c
 3860 Meiringen",https://www.google.com/maps/place/Liechtenenstrasse%2010c+3860+Meiringen,website not accessible
 JB Stahl- Metallbau GmbH,Herstellung von Metallkonstruktionen,,tel:032 633 28 92,,"Taubenrainweg 4a
@@ -1901,7 +1894,7 @@ Noelani AG,"Kauf und Verkauf von eigenen Grundstücken, Gebäuden und Wohnungen"
 mona technik ag,Versand- und Internet-Detailhandel,http://www.mona-media.ch/,tel:071 508 58 22,,"Flawilerstrasse 100
 9604 Lütisburg",https://www.google.com/maps/place/Flawilerstrasse%20100+9604+L%C3%BCtisburg,bad link
 RichHosting Richard Lutz,Sonstige lngenieurbüros,http://www.richhosting.ch/,tel:031 536 37 97,,"Dörfli 1
-3303 Jegenstorf",https://www.google.com/maps/place/D%C3%B6rfli%201+3303+Jegenstorf,
+3303 Jegenstorf",https://www.google.com/maps/place/D%C3%B6rfli%201+3303+Jegenstorf,NA
 Hotel Piz Tambo,"Hotels, Gasthöfe und Pensionen mit Restaurant",http://www.piz-tambo.ch/,tel:081 650 95 95,,"Susta 3
 7435 Splügen",https://www.google.com/maps/place/Susta%203+7435+Spl%C3%BCgen,info@piz-tambo.ch
 EGT Construction SA,Allgemeiner Hoch- und Tiefbau ohne ausgeprägten Schwerpunkt,http://www.egt.ch/,tel:024 486 11 20,fax:024 485 18 70,"ZI Les Marais 1
@@ -1913,7 +1906,7 @@ Garage & 2 Radcenter Hugo Kölliker,Detailhandel mit Motorenkraftstoffen (Tankst
 Heinz Wilhelm,Architekturbüros,,tel:062 752 28 75,,"Hottigergasse 1
 4800 Zofingen",https://www.google.com/maps/place/Hottigergasse%201+4800+Zofingen,website not accessible
 BREITENMOSER & REY GmbH,Coiffeursalons,http://www.br-intercoiffure.ch/,tel:044 775 19 21,fax:044 775 19 24,"Weiningerstrasse 42
-8103 Unterengstringen",https://www.google.com/maps/place/Weiningerstrasse%2042+8103+Unterengstringen,info@br-intercoiffure.ch
+8103 Unterengstringen",https://www.google.com/maps/place/Weiningerstrasse%2042+8103+Unterengstringen,kontakt@br-intercoiffure.ch
 Ueli Rindlisbacher,lnstandhaltung und Reparatur von Automobilen,,tel:032 675 20 62,,"Schwalbenweg 5
 4564 Obergerlafingen",https://www.google.com/maps/place/Schwalbenweg%205+4564+Obergerlafingen,website not accessible
 Cleanness Facility AG,Allgemeine Gebäudereinigung,http://www.cleanness.ch/,tel:062 216 86 86,,"Zürichstrasse 52
@@ -1921,25 +1914,25 @@ Cleanness Facility AG,Allgemeine Gebäudereinigung,http://www.cleanness.ch/,tel:
 AICORIS GmbH,Programmierungstätigkeiten,http://www.aicoris.com/,,,"Untere Paulistrasse 16
 8834 Schindellegi",https://www.google.com/maps/place/Untere%20Paulistrasse%2016+8834+Schindellegi,contact@aicoris.com
 Carrosserie Simon GmbH,lnstandhaltung und Reparatur von Automobilen,http://www.carrosserie-simon.ch/,tel:032 636 36 01,fax:032 636 36 79,"Murmeliweg 4
-4538 Oberbipp",https://www.google.com/maps/place/Murmeliweg%204+4538+Oberbipp,8c4075d5481d476e945486754f783364@sentry.io
+4538 Oberbipp",https://www.google.com/maps/place/Murmeliweg%204+4538+Oberbipp,605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com
 Hellmüller GDW,Werbeagenturen,,tel:041 921 47 80,fax:041 921 47 40,"Haldenmattstrasse 1
 6210 Sursee",https://www.google.com/maps/place/Haldenmattstrasse%201+6210+Sursee,website not accessible
 Ruedi Rüssel Tankstelle,Detailhandel mit Motorenkraftstoffen (Tankstellen),,,,"Seestrasse 275
 3658 Merligen",https://www.google.com/maps/place/Seestrasse%20275+3658+Merligen,website not accessible
 Restaurant Pizzeria da Keli,"Restaurants, Imbissstuben, Tea-Rooms und Gelaterias",http://www.dakeli.ch/,tel:031 819 20 20,,"Kochergasse 1
-3011 Bern",https://www.google.com/maps/place/Kochergasse%201+3011+Bern,
+3011 Bern",https://www.google.com/maps/place/Kochergasse%201+3011+Bern,website not accessible
 Jacqueline's Nähatelier,Inserate,http://www.schneiderin-zuerich.ch/,,,"Rosengartenstrasse 9
-8037 Zürich",https://www.google.com/maps/place/Rosengartenstrasse%209+8037+Z%C3%BCrich,
+8037 Zürich",https://www.google.com/maps/place/Rosengartenstrasse%209+8037+Z%C3%BCrich,website not accessible
 Drogerie Anrig AG,Drogerien,http://www.drogerie-anrig.ch/,tel:044 383 35 30,fax:044 383 75 02,"Forchstrasse 26
-8008 Zürich",https://www.google.com/maps/place/Forchstrasse%2026+8008+Z%C3%BCrich,
+8008 Zürich",https://www.google.com/maps/place/Forchstrasse%2026+8008+Z%C3%BCrich,website not accessible
 pds management pascal d. staub,Unternehmensberatung,http://www.pds-management.com/,tel:061 387 11 87,,"Elisabethenstrasse 23
-4051 Basel",https://www.google.com/maps/place/Elisabethenstrasse%2023+4051+Basel,i%6Efo@%70ds%2Dman%61g%65%6De%6Et.%63o%6D
+4051 Basel",https://www.google.com/maps/place/Elisabethenstrasse%2023+4051+Basel,website not accessible
 NDM Beteiligung GmbH,Unternehmensberatung,http://ndm.ch/,tel:078 944 03 64,,"Weierweg 7
 4410 Liestal",https://www.google.com/maps/place/Weierweg%207+4410+Liestal,website not accessible
 Highend Audio Lohr,Grosshandel mit Geräten der Unterhaltungselektronik,http://www.highendcinema.ch/,,,"Römerstrasse 7
-2555 Brügg BE",https://www.google.com/maps/place/R%C3%B6merstrasse%207+2555+Br%C3%BCgg%20BE,
+2555 Brügg BE",https://www.google.com/maps/place/R%C3%B6merstrasse%207+2555+Br%C3%BCgg%20BE,NA
 Schenk AG Heldswil,Vorbereitende Baustellenarbeiten,http://www.schenkag.com/,tel:071 642 37 42,fax:071 642 37 85,"Neubuch
-9216 Heldswil",https://www.google.com/maps/place/Neubuch+9216+Heldswil,info@schenkag.com
+9216 Heldswil",https://www.google.com/maps/place/Neubuch+9216+Heldswil,kreditoren@schenkag.com
 Beer Holzbau AG,"Holzbau, Zimmerei",http://www.beer-holzbau.ch/,tel:031 934 22 88,fax:031 934 22 86,"Ob.Zollgasse 76
 3072 Ostermundigen",https://www.google.com/maps/place/Ob.Zollgasse%2076+3072+Ostermundigen,info@beer-holzbau.ch
 Confiserie Bebié,Herstellung von Backwaren (ohne Dauerbackwaren),http://www.confiserie-bebie.ch/,tel:041 210 08 08,fax:041 210 43 08,"Bundesstrasse 7
@@ -1951,7 +1944,7 @@ Alois Rickenbach AG,Elektroinstallation,http://www.rickenbach-elektro.ch/,tel:06
 Rhomberg Schmuck AG,Detailhandel mit Uhren und Schmuck,,tel:061 261 21 20,,"Gerbergasse 62
 4001 Basel",https://www.google.com/maps/place/Gerbergasse%2062+4001+Basel,website not accessible
 Holzbau Albert Manser AG,"Holzbau, Zimmerei",http://www.manser-holzbau.ch/,tel:071 794 11 33,fax:071 794 11 37,"Dorfstrasse 5
-9108 Gonten",https://www.google.com/maps/place/Dorfstrasse%205+9108+Gonten,info@manser-holzbau.ch
+9108 Gonten",https://www.google.com/maps/place/Dorfstrasse%205+9108+Gonten,website not accessible
 arnaldi energie wasser ag,Sanitär- und Heizungsinstallation,http://www.arnaldi.ch/,tel:033 438 16 69,fax:033 438 16 70,"Allmendingenstrasse 24
 3608 Thun",https://www.google.com/maps/place/Allmendingenstrasse%2024+3608+Thun,info@arnaldi.ch
 Druckerei Kuster GmbH,Offsetdruck,http://www.druckerei-kuster.ch/,tel:041 870 44 85,fax:041 872 00 86,"neuland 10
@@ -1971,9 +1964,9 @@ Lordane SA,Grosshandel mit Textilien,,tel:021 634 77 35,fax:021 634 77 37,"ch.so
 FWT Wärmetechnik GmbH,Sanitär- und Heizungsinstallation,http://www.fwtech.ch/,tel:061 413 16 56,fax:061 413 16 55,"Stöckackerstrasse 30
 4142 Münchenstein",https://www.google.com/maps/place/St%C3%B6ckackerstrasse%2030+4142+M%C3%BCnchenstein,info@fwtech.ch
 Messerli Schwarzenburg GmbH,Grosshandel mit Wein und Spirituosen,http://www.messerli-gmbh.ch/,tel:031 536 28 42,,".
-3150 Schwarzenburg",https://www.google.com/maps/place/.+3150+Schwarzenburg,
+3150 Schwarzenburg",https://www.google.com/maps/place/.+3150+Schwarzenburg,NA
 Hevapla AG,Ausschreibungen,http://www.hevapla.ch/,tel:032 385 10 85,,"Südstrasse 16
-3250 Lyss",https://www.google.com/maps/place/S%C3%BCdstrasse%2016+3250+Lyss,8b09734f300c1e3gf162933afe80b876@2x.jpg
+3250 Lyss",https://www.google.com/maps/place/S%C3%BCdstrasse%2016+3250+Lyss,splashing-splash-aqua-water-rain-pouring-photo-5563c4edb5b9366gad75e6db453264b4@2x.jpg
 Bürge Haustechnik AG,Sanitär- und Heizungsinstallation,http://www.buerge-haustechnik.ch/,tel:044 854 89 20,fax:044 854 89 21,"Mühlestrasse 6
 8157 Dielsdorf",https://www.google.com/maps/place/M%C3%BChlestrasse%206+8157+Dielsdorf,bad link
 TWR Trading GmbH,lnstandhaltung und Reparatur von Automobilen,,tel:071 351 44 05,,"Töbeli 156
@@ -1983,15 +1976,15 @@ Hans Arnold-Arnold,Sägewerke,,tel:041 933 10 12,fax:041 933 10 12,"Sagenheim
 Othmar Attiger,Copy Shops,,tel:056 441 41 69,fax:056 442 52 17,"Unt.Parkstrasse 5
 5212 Hausen AG",https://www.google.com/maps/place/Unt.Parkstrasse%205+5212+Hausen%20AG,website not accessible
 Hotel Restaurant Arvenbüel,Artikel im Shop,http://www.arvenbuel.ch/,tel:055 611 60 10,,"Arvenbüelstrasse 47
-8873 Amden",https://www.google.com/maps/place/Arvenb%C3%BCelstrasse%2047+8873+Amden,
+8873 Amden",https://www.google.com/maps/place/Arvenb%C3%BCelstrasse%2047+8873+Amden,NA
 Nägeli & Co Baugeschäft,Bewertungen,http://www.naegeli-bau.ch/,tel:052 319 20 43,fax:052 319 22 42,"Alti Ruedelfingerstrass 22
-8460 Marthalen",https://www.google.com/maps/place/Alti%20Ruedelfingerstrass%2022+8460+Marthalen,
+8460 Marthalen",https://www.google.com/maps/place/Alti%20Ruedelfingerstrass%2022+8460+Marthalen,website not accessible
 Squality SA,Detailhandel mit elektrischen Haushaltsgeräten,http://www.prodemo.com/,tel:032 861 42 82,fax:032 861 43 07,"Clos-Donzel 4
-2114 Fleurier",https://www.google.com/maps/place/Clos-Donzel%204+2114+Fleurier,
+2114 Fleurier",https://www.google.com/maps/place/Clos-Donzel%204+2114+Fleurier,NA
 Vinolatino GmbH,Grosshandel mit Wein und Spirituosen,,,,"Hauptstrasse 33
 6280 Hochdorf",https://www.google.com/maps/place/Hauptstrasse%2033+6280+Hochdorf,website not accessible
 Cometal SA,Herstellung von Metallkonstruktionen,http://www.cometal.ch/,tel:091 859 10 22,fax:091 859 27 03,"via Cantonale
-6595 Riazzino",https://www.google.com/maps/place/via%20Cantonale+6595+Riazzino,
+6595 Riazzino",https://www.google.com/maps/place/via%20Cantonale+6595+Riazzino,NA
 HCDM Beratungen GmbH,Unternehmensberatung,,tel:079 445 69 40,,"Mühleweg 7
 7304 Maienfeld",https://www.google.com/maps/place/M%C3%BChleweg%207+7304+Maienfeld,website not accessible
 Eigenheer Elektro AG,Elektroinstallation,http://www.eigenheer-elektro.ch/,tel:052 317 13 79,,"Burgstrasse 5
